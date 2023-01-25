@@ -1,0 +1,380 @@
+,source,target
+0,Electrical Engineering,None
+1,Electronics and Telecommunication,None
+2,Electronics Engineering,None
+3,Maths,applied_mathematics
+4,Maths,pure_mathematics
+5,Mechanical Engineering,None
+6,Physics,aeronautics
+7,Physics,astronomy
+8,Physics,biophysics
+9,Physics,cryogenics
+10,Physics,crystallography
+11,Physics,electromagnetism
+12,Physics,electronics
+13,Physics,electrostatics
+14,Physics,mechanics
+15,Physics,nuclear_physics
+16,Physics,optics
+17,Physics,particle_physics
+18,Physics,plasma_physics
+19,Physics,quantum_physics
+20,Physics,rheology
+21,Physics,solid-state_physics
+22,Physics,statistical_mechanics
+23,Physics,thermodynamics
+24,Science,agrobiology
+25,Science,agrology
+26,Science,agronomy
+27,Science,architectonics
+28,Science,cognitive_science
+29,Science,cryptanalysis
+30,Science,information_science
+31,Science,linguistics
+32,Science,mathematics
+33,Science,metallurgy
+34,Science,metrology
+35,Science,natural_history
+36,Science,natural_science
+37,Science,nutrition
+38,Science,psychology
+39,Science,social_science
+40,Science,strategics
+41,Science,systematics
+42,Science,thanatology
+43,Statistics,biometrics
+44,Statistics,correlation
+45,Statistics,nonparametric_statistics
+46,Telematics,None
+47,EE,telecommunication
+48,ETC,None
+49,Electronics & Communication,None
+50,Electronics & Communication Engineering,None
+51,E & TC,None
+52,Mathematics,applied_mathematics
+53,Mathematics,pure_mathematics
+54,Electronics Eng,None
+55,Civil Engineering,None
+56,Electical Engineering,None
+57,PCM,None
+58,SCIENCE,agrobiology
+59,SCIENCE,agrology
+60,SCIENCE,agronomy
+61,SCIENCE,architectonics
+62,SCIENCE,cognitive_science
+63,SCIENCE,cryptanalysis
+64,SCIENCE,information_science
+65,SCIENCE,linguistics
+66,SCIENCE,mathematics
+67,SCIENCE,metallurgy
+68,SCIENCE,metrology
+69,SCIENCE,natural_history
+70,SCIENCE,natural_science
+71,SCIENCE,nutrition
+72,SCIENCE,psychology
+73,SCIENCE,social_science
+74,SCIENCE,strategics
+75,SCIENCE,systematics
+76,SCIENCE,thanatology
+77,science,agrobiology
+78,science,agrology
+79,science,agronomy
+80,science,architectonics
+81,science,cognitive_science
+82,science,cryptanalysis
+83,science,information_science
+84,science,linguistics
+85,science,mathematics
+86,science,metallurgy
+87,science,metrology
+88,science,natural_history
+89,science,natural_science
+90,science,nutrition
+91,science,psychology
+92,science,social_science
+93,science,strategics
+94,science,systematics
+95,science,thanatology
+96,Commerce,carriage_trade
+97,Commerce,commercial_enterprise
+98,Commerce,distribution
+99,Commerce,e-commerce
+100,Commerce,evasion
+101,Commerce,exchange
+102,Commerce,exporting
+103,Commerce,importing
+104,Commerce,initial_public_offering
+105,Commerce,marketing
+106,Commerce,payment
+107,Commerce,selling
+108,Commerce,trade
+109,Commerce,trading
+110,Commerce,traffic
+111,Geology,economic_geology
+112,Geology,geophysics
+113,Geology,hypsography
+114,Geology,mineralogy
+115,Geology,orology
+116,Geology,paleogeology
+117,Geology,speleology
+118,Geology,stratigraphy
+119,Electronics and Communication Engineering,None
+120,Math,applied_mathematics
+121,Math,pure_mathematics
+122,E &TC,None
+123,Chemistry,electrochemistry
+124,Chemistry,femtochemistry
+125,Chemistry,geochemistry
+126,Chemistry,immunochemistry
+127,Chemistry,inorganic_chemistry
+128,Chemistry,organic_chemistry
+129,Chemistry,photochemistry
+130,Chemistry,physical_chemistry
+131,Chemistry,radiochemistry
+132,Chemistry,surface_chemistry
+133,Chemistry,thermochemistry
+134,Electronics and telecommunication,None
+135,ECE,None
+136,Electronics Engg.,None
+137,MPC,None
+138,Multimedia and Animation,None
+139,Multi Media Development,None
+140,Sci,None
+141,Electronics and Telecom,None
+142,EEE,None
+143,Electronics & Télécommunication,None
+144,Chemical,alar
+145,Chemical,bactericide
+146,Chemical,carbon_tetrahalide
+147,Chemical,carrier
+148,Chemical,compound
+149,Chemical,congener
+150,Chemical,explosive
+151,Chemical,fertilizer
+152,Chemical,flux
+153,Chemical,fraction
+154,Chemical,fumigant
+155,Chemical,herbicide
+156,Chemical,intermediate
+157,Chemical,larvicide
+158,Chemical,pesticide
+159,Chemical,phytochemical
+160,Chemical,product
+161,Chemical,reactant
+162,Chemical,restrainer
+163,Chemical,softener
+164,Chemical,soil_conditioner
+165,Chemical,stabilizer
+166,E&Tc,None
+167,Electronics and  Telecommunication Engineering,None
+168,ENTC,None
+169,General,blucher
+170,M.P.C,None
+171,maths,applied_mathematics
+172,maths,pure_mathematics
+173,Biology,biogeography
+174,Biology,botany
+175,Biology,cryobiology
+176,Biology,cytology
+177,Biology,ecology
+178,Biology,embryology
+179,Biology,exobiology
+180,Biology,forestry
+181,Biology,genetics
+182,Biology,microbiology
+183,Biology,molecular_biology
+184,Biology,morphology
+185,Biology,neurobiology
+186,Biology,paleobiology
+187,Biology,physiology
+188,Biology,radiobiology
+189,Biology,sociobiology
+190,Biology,zoology
+191,Electronics and Telecommunication Engineering,None
+192,Journalism,fleet_street
+193,Journalism,photojournalism
+194,Journalism,yellow_journalism
+195,Electronics and communication,None
+196,genealogy,lineage
+197,biotechnology,bioremediation
+198,biotechnology,genetic_engineering
+199,Hospital HR managemnt,None
+200,Eelectronics & Telecommunication,None
+201,Electronics & Tele communications,None
+202,Industrial Mathematics & Computer Applications,None
+203,Mathematic,None
+204,Bioinformatics,None
+205,Applied Electronics and instrumentation,None
+206,Electronics  & communication  Engineering,None
+207,Energy Systems,None
+208,MATHEMATICS,applied_mathematics
+209,MATHEMATICS,pure_mathematics
+210,Electronics Communication & Engineering,None
+211,Animation & Multimedia,None
+212,Electronics Telecommunication Engineering,None
+213,PCMC,None
+214,MPCs,None
+215,Electronical Engineering,None
+216,Electronics and communication Engineering,None
+217,Electronics and Communication Engg,None
+218,Electronics & Telecommunication,None
+219,Management Studies,None
+220,E&E,None
+221,Electronics & Instrumentation Engineering,None
+222,Production Engineering,None
+223,Electronics and Comm. Engg,None
+224,Bio,None
+225,Electronics and Computer Hardware,None
+226,Electrical communication,None
+227,Electronics and Telecomm Engg,None
+228,E-Business Management,None
+229,Electronics and Communications Engineering,None
+230,VLSI,None
+231,Electrical and Electronics Engineering,None
+232,Electronic and Communications Engineering,None
+233,Applied Statistics,None
+234,E/TC,None
+235,PCMB,None
+236,technical science,None
+237,Electronics and Communication,None
+238,bioinformatics,None
+239,Metallurgy Secondary Steel Technology,None
+240,Electronics And Instrumentation,None
+241,taxation,capital_gains_tax
+242,taxation,capital_levy
+243,taxation,capitation
+244,taxation,degressive_tax
+245,taxation,departure_tax
+246,taxation,direct_tax
+247,taxation,franchise_tax
+248,taxation,gift_tax
+249,taxation,income_tax
+250,taxation,indirect_tax
+251,taxation,pavage
+252,taxation,progressive_tax
+253,taxation,proportional_tax
+254,taxation,rates
+255,taxation,single_tax
+256,taxation,special_assessment
+257,taxation,stamp_tax
+258,taxation,transfer_tax
+259,chemistry,electrochemistry
+260,chemistry,femtochemistry
+261,chemistry,geochemistry
+262,chemistry,immunochemistry
+263,chemistry,inorganic_chemistry
+264,chemistry,organic_chemistry
+265,chemistry,photochemistry
+266,chemistry,physical_chemistry
+267,chemistry,radiochemistry
+268,chemistry,surface_chemistry
+269,chemistry,thermochemistry
+270,E&TC,None
+271,Electronics &Communication Engineering,None
+272,pathology,paleopathology
+273,math,applied_mathematics
+274,math,pure_mathematics
+275,phy,None
+276,P.C.M,None
+277,Electronics & Tele-Communication,None
+278,PHYSICS,aeronautics
+279,PHYSICS,astronomy
+280,PHYSICS,biophysics
+281,PHYSICS,cryogenics
+282,PHYSICS,crystallography
+283,PHYSICS,electromagnetism
+284,PHYSICS,electronics
+285,PHYSICS,electrostatics
+286,PHYSICS,mechanics
+287,PHYSICS,nuclear_physics
+288,PHYSICS,optics
+289,PHYSICS,particle_physics
+290,PHYSICS,plasma_physics
+291,PHYSICS,quantum_physics
+292,PHYSICS,rheology
+293,PHYSICS,solid-state_physics
+294,PHYSICS,statistical_mechanics
+295,PHYSICS,thermodynamics
+296,Computer & Instrumentation,None
+297,Metallurgy,powder_metallurgy
+298,Electrical and Electronics,None
+299,Electronics & Comm. Engg.,None
+300,CS & HM,None
+301,Arts and Science,None
+302,mpc,None
+303,HRM,None
+304,mathematics,applied_mathematics
+305,mathematics,pure_mathematics
+306,Geography,economic_geography
+307,Geography,physical_geography
+308,Geography,topography
+309,trigonometry,spherical_trigonometry
+310,trigonometry,triangulation
+311,E.C.,None
+312,Pathology,paleopathology
+313,Biotechnology,bioremediation
+314,Biotechnology,genetic_engineering
+315,E.C.E,None
+316,Electronics and Instrumentation,None
+317,E&T.C,None
+318,Statistics,biometrics
+319,Statistics,correlation
+320,Statistics,nonparametric_statistics
+321,bioinformatics,None
+322,International Business Management,None
+323,Industrial Mathematics,None
+324,Electronics &Communication,None
+325,Electronic Telecom,None
+326,Fine Arts,None
+327,Elec. & Comm,None
+328,Mech,None
+329,Instrumentation & Control,None
+330,Production,canalization
+331,Production,devising
+332,Production,foliation
+333,Production,growing
+334,Production,rainmaking
+335,Production,steel_production
+336,electronics,electron_optics
+337,electronics,microelectronics
+338,electronics,thermionics
+339,ElectronicsTelecommunication,None
+340,Electronics,electron_optics
+341,Electronics,microelectronics
+342,Electronics,thermionics
+343,Electronics Telecommunication,None
+344,EI,None
+345,Electronics Comm.,None
+346,MSBTE,None
+347,MECH,None
+348,MAJOR IN MECHANICAL,None
+349,Mechatronics,None
+350,converted,decimalize
+351,converted,float
+352,converted,metricize
+353,converted,transduce
+354,Communication,channel
+355,Communication,contact
+356,Communication,discussion
+357,Communication,dissuasion
+358,Communication,dramaturgy
+359,Communication,examination
+360,Communication,exhortation
+361,Communication,expostulation
+362,Communication,expression
+363,Communication,intercommunication
+364,Communication,mail
+365,Communication,medium
+366,Communication,persuasion
+367,Communication,traffic
+368,Communication,transmission
+369,Electroniccommunication,None
+370,EnTC,None
+371,BCOM,None
+372,Electronics,electron_optics
+373,Electronics,microelectronics
+374,Electronics,thermionics
+375,Electronica,None
+376,Informatics,cybernetics
+377,Informatics,natural_language_processing
+378,ECE,None

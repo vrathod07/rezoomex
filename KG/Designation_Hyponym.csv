@@ -1,0 +1,121 @@
+,source,target
+0,Administrator,academic administrator
+1,Administrator,director
+2,Administrator,executive
+3,Administrator,hotelier
+4,Administrator,land agent
+5,Administrator,security director
+6,Administrator,vice chancellor
+7,Trainee,cadet
+8,DevOps,None
+9,SQL Developer and Support,None
+10,Project engineer,None
+11,CTO,None
+12,DB Consultant,None
+13,admin,None
+14,Analayst,None
+15,UI Designer,None
+16,Front End Developer,None
+17,Software Engineer,None
+18,Test Engineer,None
+19,Associate,adjunct
+20,Associate,affiliate
+21,Associate,ally
+22,Associate,bedfellow
+23,Associate,collaborator
+24,Associate,colleague
+25,Associate,colleague
+26,Associate,member
+27,Associate,participant
+28,Associate,shipmate
+29,Associate,teammate
+30,Team Leader,None
+31,IOS Devloper,None
+32,QEA,None
+33,QA,None
+34,Trainee Engineer,None
+35,Programmer Analyst,None
+36,Senior Software Engineer,None
+37,System Analyst,None
+38,Project Lead,None
+39,Project Manager,None
+40,Program Manager,None
+41,Doctor,abortionist
+42,Doctor,allergist
+43,Doctor,angiologist
+44,Doctor,extern
+45,Doctor,gastroenterologist
+46,Doctor,general practitioner
+47,Doctor,hakim
+48,Doctor,house physician
+49,Doctor,intern
+50,Doctor,primary care physician
+51,Doctor,quack
+52,Doctor,specialist
+53,Doctor,surgeon
+54,Doctor,veterinarian
+55,Manager,bank manager
+56,Manager,district manager
+57,Manager,manageress
+58,Web Developer,None
+59,Senior Software Eng,None
+60,Senior Software Engineer,None
+61,Deployer,None
+62,Sys Admin,None
+63,Architect,landscape architect
+64,Architect,town
+65,CSO,None
+66,QA,None
+67,Software Lead,None
+68,Consulatant,None
+69,Engineer,aeronautical engineer
+70,Engineer,aerospace engineer
+71,Engineer,army engineer
+72,Engineer,automotive engineer
+73,Engineer,civil engineer
+74,Engineer,electrical engineer
+75,Engineer,marine engineer
+76,Engineer,mechanical engineer
+77,Engineer,metallurgist
+78,Engineer,mining engineer
+79,Engineer,programmer
+80,Engineer,rocket engineer
+81,Engineer,surveyor
+82,Project Engineer,None
+83,Java developer,None
+84,Team Lead,None
+85,Data Architect ,None
+86,Software Developer,None
+87,Mean Stack Developer,None
+88,Oracle SQL Developer,None
+89,Support Engineer,None
+90,Process Associate,None
+91,Project Leader,None
+92,Cloud DevOps Engineer,None
+93,Junior Software Developer,None
+94,SQL Data Analyst,None
+95,Dot Net Developer Trainee,None
+96,Test Lead,None
+97,Senior Software Engineer,None
+98,Associate Consultant,None
+99,Senior Analyst,None
+100,GS Cultural Secretary,None
+101,Report analyst,None
+102,Technical support manager,None
+103,Systems engineer,None
+104,Graduate engineer,None
+105,Test engineer,None
+106,Software engineer,None
+107,Team leader,None
+108,Team manager,None
+109,Operations manager,None
+110,Accountant,auditor
+111,Accountant,bean counter
+112,Accountant,bookkeeper
+113,Accountant,certified public accountant
+114,Accountant,chartered accountant
+115,Accountant,cost accountant
+116,Marketing manager,None
+117,HR,man hour
+118,HR,sidereal hour
+119,Data scientist,None

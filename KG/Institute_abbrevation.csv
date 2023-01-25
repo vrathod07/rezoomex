@@ -1,0 +1,420 @@
+,source,target
+0,AECOM , Albert Einstein College of Medicine
+1,AFA , United States Air Force Academy
+2,Annapolis , U.S. Naval Academy
+3,A&M ," Texas A&M University, but also others; see A&M"
+4,A&T , North Carolina A&T State University
+5,Newport News , Apprentice School
+6,APSU , Austin Peay State University
+7,ALASU , Alabama State University
+8,Army , U.S. Military Academy
+9,ASU ," Alabama State University, Albany State University, Alcorn State University, Angelo State University, Appalachian State University, Arizona State University, Arkansas State University, Augusta State University, Armstrong State University"
+10,AU ," Adelphi University, Alfred University, American University, Anderson University, Asbury University, Auburn University, Ashford University, Arcadia University, Augusta University"
+11,AUM , Auburn University Montgomery
+12,Bama , University of Alabama
+13,BC ," Boston College, Bethel College"
+14,BCC - Bronx Community College,
+15,Berkeley ," University of California, Berkeley"
+16,BGSU , Bowling Green State University
+17,BHSU , Black Hills State University
+18,BJU , Bob Jones University
+19,BMC , Bryn Mawr College
+20,Bona , St. Bonaventure University
+21,Brown , Brown University
+22,BSC , Birmingham-Southern College
+23,BSU ," Ball State University, Boise State University, Bemidji State University, Bowie State University"
+24,BU ," Barry University Baylor University, Belmont University, Binghamton University, Biola University, Boston University, Bradley University, Butler University, Bucknell University"
+25,BYU , Brigham Young University
+26,CBU , California Baptist University
+27,C of C , College of Charleston
+28,Cal ," University of California, Berkeley"
+29,Cal Poly ," California Polytechnic State University, San Luis Obispo"
+30,Cal Poly Pomona ," California State Polytechnic University, Pomona"
+31,Caltech , California Institute of Technology
+32,Cal U or CUP , California University of Pennsylvania
+33,Cal State , California State University (various campuses)
+34,Carolina ," University of North Carolina at Chapel Hill, University of South Carolina"
+35,Catholic , Catholic University of America
+36,Central ," Central State University, North Carolina Central University"
+37,CC , Colorado College
+38,CCNY , City College of New York
+39,CCSU , Central Connecticut State University
+40,CCU , Coastal Carolina University
+41,CCV , Community College of Vermont
+42,CGU , Claremont Graduate University
+43,Chapel Hill , University of North Carolina at Chapel Hill
+44,Charlotte , University of North Carolina at Charlotte
+45,Chatt or Chattanooga , University of Tennessee at Chattanooga
+46,Chatt State , Chattanooga State Community College
+47,Chico State ," California State University, Chico"
+48,City Tech , New York City College of Technology
+49,CIA , The Culinary Institute of America
+50,CMC , Claremont McKenna College
+51,CMU ," Carnegie Mellon University, Central Michigan University"
+52,CNU , Christopher Newport University
+53,Coast Guard , United States Coast Guard Academy
+54,College Park ," University of Maryland, College Park"
+55,Colorado , University of Colorado Boulder
+56,Colorado Springs , University of Colorado Colorado Springs
+57,Conn , Connecticut College
+58,CSB/SJU , College of Saint Benedict/Saint John's University
+59,CSE , College of Saint Elizabeth
+60,CSI , College of Staten Island
+61,CSU ," California State University, Cleveland State University, Colorado State University, Clayton State University, Coppin State University, Clark Summit University, Chicago State University"
+62,CSUF ," California State University, Fresno"
+63,CSUEB ," California State University, East Bay (formerly California State University, Hayward)"
+64,CSULA ," California State University, Los Angeles"
+65,CSULB ," California State University, Long Beach"
+66,CSU-Pueblo , Colorado State University-Pueblo
+67,CSUS ," California State University, Sacramento"
+68,CU ," Chapman University, Clemson University, University of Colorado at Boulder, University of Colorado system, Columbia University, Concord University, Cornell University, Creighton University"
+69,CUA , Catholic University of America
+70,Cumberlands , University of the Cumberlands
+71,CUNY , City University of New York
+72,DBU , Daybreak University
+73,DC ," Dartmouth College, Davidson College"
+74,De Anza , De Anza College
+75,DPU , DePaul University
+76,DSU ," DeSales University, Dakota State University"
+77,DU ," Denison University, University of Denver, Drake University, Drexel University, Duke University, Duquesne University"
+78,Duke , Duke University
+79,ECU , East Carolina University
+80,EIU , Eastern Illinois University
+81,EMU , Eastern Mennonite University
+82,EMU , Eastern Michigan University
+83,ENC , Eastern Nazarene College
+84,ETBU - East Texas Baptist University,
+85,ETSU , East Tennessee State University
+86,EWU , Eastern Washington University
+87,EKU , Eastern Kentucky University
+88,F&M , Franklin & Marshall College
+89,FAMU , Florida A&M University
+90,FAU , Florida Atlantic University
+91,FDU , Fairleigh Dickinson University
+92,FGCU , Florida Gulf Coast University
+93,FIT , Fashion Institute of Technology
+94,Florida Tech , Florida Institute of Technology
+95,FIU , Florida International University
+96,Foothill , Foothill College
+97,FPU , Fresno Pacific University
+98,Fresno State ," California State University, Fresno"
+99,FSU ," Fayetteville State University, Ferris State University, Fitchburg State University, Florida State University, Framingham State University, California State University, Fresno, Frostburg State University"
+100,FU ," Fordham University, Furman University"
+101,GAC - Gustavus Adolphus College,
+102,GC&SU or GCSU , Georgia College & State University
+103,GCU , Grand Canyon University
+104,Georgia College , Georgia College & State University
+105,George Mason or GMU — George Mason University,
+106,Georgia Tech , Georgia Institute of Technology
+107,"George Washington, GW, or GWU ", George Washington University
+108,GGC , Georgia Gwinnett College
+109,GONZ , Gonzaga University
+110,GSU ," Georgia Southern University, Georgia State University, Grambling State University"
+111,GT , Georgia Institute of Technology
+112,GVSU , Grand Valley State University
+113,GW or GWU , Gardner-Webb University
+114,"GU - Georgetown University, Gallaudet University, Gonzaga University",
+115,HC - Haverford College,
+116,HIU , Hampton University (formerly Hampton Institute)
+117,HMC , Harvey Mudd College
+118,Hopkins , Johns Hopkins University
+119,HU , Howard University
+120,HU , Hampton University
+121,HSC or H-SC - Hampden Sydney College,
+122,HSU ," Humboldt State University, Hardin-Simmons University"
+123,IC , Ithaca College
+124,IIT , Illinois Institute of Technology
+125,IIT , Indian Institute of Technology
+126,IPFW , Indiana University-Purdue University Fort Wayne
+127,ISU ," Idaho State University, Illinois State University, Indiana State University, Iowa State University"
+128,IU or IUB , Indiana University Bloomington
+129,IUP , Indiana University of Pennsylvania
+130,IUPUI , Indiana University-Purdue University Indianapolis
+131,IWU , Illinois Wesleyan University
+132,IW , Iowa Wesleyan University
+133,JHU , Johns Hopkins University
+134,JMU , James Madison University
+135,JWU , Johnson and Wales University
+136,JSU ," Jackson State University, Jacksonville State University"
+137,JU , Jacksonville University
+138,Jax st or J'ville st , Jacksonville State University
+139,K-State , Kansas State University
+140,KSU ," Kansas State University, Kennesaw State University, Kent State University, Kentucky State University"
+141,KU ," University of Kansas, Kutztown University of Pennsylvania"
+142,LA Tech , Louisiana Tech University
+143,LC , Louisburg College
+144,LETU - LeTourneau University,
+145,LHU , Lock Haven University
+146,LIU , Long Island University
+147,LMU ," Lincoln Memorial University, Loyola Marymount University"
+148,Long Beach State ," California State University, Long Beach"
+149,LSU ," La Salle University, Louisiana State University"
+150,LSSU , Lake Superior State University
+151,LTU ," Lawrence Technological University, Lawrence Tech"
+152,LU ," Liberty University, Lipscomb University, Lehigh University"
+153,LUC , Loyola University Chicago
+154,Mary Wash , University of Mary Washington
+155,Mason , George Mason University
+156,MCLA , Massachusetts College of Liberal Arts
+157,Memphis , University of Memphis
+158,"Merchant Marine, Kings Point ", U.S. Merchant Marine Academy
+159,Metro State , Metropolitan State College of Denver
+160,MHC or MoHo , Mount Holyoke College
+161,Midd , Middlebury College
+162,Missouri S&T , Missouri University of Science and Technology
+163,MIT , Massachusetts Institute of Technology
+164,Mizzou , University of Missouri
+165,MMC , Marymount Manhattan College
+166,Mt. SAC , Mt. San Antonio College
+167,MSU ," Michigan State University, Mississippi State University, Missouri State University, Morehead State University, Murray State University, Montana State University, Montclair State University, Mountain State University, Morgan State University, University of Missouri (antiquated)"
+168,MTSU , Middle Tennessee State University
+169,MTU , Michigan Technological University
+170,MU ," Miami University, Marymount University, University of Missouri, Misericordia University, Millersville University, Mercyhurst University"
+171,Mudd , Harvey Mudd College
+172,MVille , Manhattanville College
+173,MVSU , Mississippi Valley State University
+174,MUW , Mississippi University for Women
+175,Navy , U.S. Naval Academy
+176,NAU ," Northern Arizona University, National American University"
+177,NCCU , North Carolina Central University
+178,NCSU , North Carolina State University
+179,NC A&T , North Carolina A&T State University
+180,ND ," University of North Dakota, University of Notre Dame"
+181,NDSU , North Dakota State University
+182,NEU , Northeastern University
+183,New College or NCF , New College of Florida
+184,NIU , Northern Illinois University
+185,NJIT - New Jersey Institute of Technology,
+186,NKU , Northern Kentucky University
+187,NMSU , New Mexico State University
+188,NMU , Northern Michigan University
+189,NoDak , University of North Dakota
+190,Nova ," Northern Virginia Community College, Villanova University"
+191,NSU ," Norfolk State University, Northern State University (South Dakota), Northeastern State University (Oklahoma), Northwestern State University (Louisiana), Nova Southeastern University"
+192,NVU , Northern Vermont University
+193,NW ," Northwestern University, technically incorrect"
+194,NWMSU , Northwest Missouri State University
+195,NYIT , New York Institute of Technology; New York Tech
+196,NYMC , New York Medical College
+197,NYU , New York University
+198,OC , Oklahoma Christian University
+199,OCC , Orange Coast College
+200,OCU , Oklahoma City University
+201,ODU ," Ohio Dominican University, Old Dominion University"
+202,OIT , Oregon Institute of Technology
+203,OK State , Oklahoma State University
+204,Ole Miss , University of Mississippi
+205,ONU , Ohio Northern University
+206,ORU , Oral Roberts University
+207,OSU ," Ohio State University, Oklahoma State University, Oregon State University"
+208,OU ," Oakland University, Ohio University, University of Oklahoma, Oakwood University"
+209,Oxy , Occidental College
+210,Pacific , University of the Pacific
+211,PC , Providence College
+212,PCC ," Pasadena City College, Pensacola Christian College, Pima Community College, Polk Community College, Portland Community College, Pueblo Community College"
+213,Penn , University of Pennsylvania
+214,Penn State , Pennsylvania State University
+215,Pitt , University of Pittsburgh
+216,PLNU , Point Loma Nazarene University
+217,POM , Pomona College
+218,PSU ," Pennsylvania State University, Pittsburg State University, Portland State University, Plymouth State University"
+219,PTS , Princeton Theological Seminary
+220,PVAMU , Prairie View A&M University
+221,QU , Quinnipiac University
+222,Reserve , Case Western Reserve University
+223,RHIT , Rose-Hulman Institute of Technology
+224,RIC , Rhode Island College
+225,RISD , Rhode Island School of Design
+226,RIT , Rochester Institute of Technology
+227,RMU , Robert Morris University
+228,R-MWC , Randolph-Macon Woman's College
+229,RPI , Rensselaer Polytechnic Institute
+230,RU , Rutgers University
+231,RWU , Roger Williams University
+232,Sacramento State / Sac State ," California State University, Sacramento"
+233,SBU , St. Bonaventure University
+234,SC ," University of Southern California, University of South Carolina"
+235,SCSU ," South Carolina State University, Southern Connecticut State University"
+236,Scripps ," Scripps College, Scripps Institution of Oceanography"
+237,SCU , Santa Clara University
+238,SDSM&T , South Dakota School of Mines and Technology
+239,SDSU ," South Dakota State University, San Diego State University"
+240,SFSU , San Francisco State University
+241,SEMo , Southeast Missouri State University
+242,Sewanee , University of the South
+243,SHC , Spring Hill College
+244,SIU or SIUC , Southern Illinois University Carbondale
+245,SIUE , Southern Illinois University Edwardsville
+246,SJC , St. John's College
+247,SJFC , St. John Fisher College
+248,SJSU , San Jose State University
+249,SJU ," Saint Joseph's University, St. John's University (NY)"
+250,SLU ," Saint Louis University, St. Lawrence University, Saint Leo University"
+251,SMC , St. Mary's College (CA)
+252,SMU , Southern Methodist University
+253,SNHU , Southern New Hampshire University
+254,SOSU , Southeastern Oklahoma State University
+255,SPU , Seattle Pacific University
+256,SRU , Slippery Rock University of Pennsylvania
+257,Stanislaus State or Stan State ," California State University, Stanislaus"
+258,SSU ," Savannah State University, California State University, Sonoma"
+259,State , any of various state universities
+260,SU ," Southwestern University, Shenandoah University, Southern University, Susquehanna University, Syracuse University, Salisbury University, Samford University, Schreiner University"
+261,SUI , State University of Iowa
+262,SUU , Southern Utah University
+263,SUNY , State University of New York system
+264,Swat , Swarthmore College
+265,SWOSU , Southwestern Oklahoma State University
+266,TAMU , Texas A&M University
+267,TCNJ , The College of New Jersey
+268,TCU , Texas Christian University
+269,Tech ," any ""Institute of Technology,"" ""Tech University,"" ""Polytechnic,"" etc. (See list of institutions using the term ""institute of technology"" or ""polytechnic"")"
+270,Transy , Transylvania University
+271,TSU ," Tarleton State University, Tennessee State University, Texas Southern University, Truman State University"
+272,TTU ," Texas Tech University, Tennessee Technological University"
+273,TU ," Temple University, Towson University, Tufts University, Tulane University, Tuskegee University, University of Tulsa"
+274,The U ," University of Miami, University of Minnesota, University of Utah"
+275,U of A ," University of Arizona, University of Arkansas"
+276,U of U , University of Utah
+277,UA ," University of Akron, University of Alabama, University of Arizona"
+278,UAA , University of Alaska Anchorage
+279,UAB , University of Alabama at Birmingham
+280,UAF , University of Alaska Fairbanks
+281,UAH , University of Alabama in Huntsville
+282,UALR , University of Arkansas at Little Rock
+283,UAM , University of Arkansas at Monticello
+284,UAPB , University of Arkansas at Pine Bluff
+285,UB ," University of Baltimore, University at Buffalo, University of Bridgeport"
+286,UChicago or U of C , University of Chicago
+287,UC ," University of California system, University of Chicago, University of Cincinnati, University of the Cumberlands"
+288,UCB , University of Colorado Boulder
+289,UC Berkeley ," University of California, Berkeley"
+290,UC Davis ," University of California, Davis"
+291,UC Irvine ," University of California, Irvine"
+292,UCA , University of Central Arkansas
+293,UCCS , University of Colorado Colorado Springs
+294,UCD ," University of California, Davis, University of Colorado Denver"
+295,UCF , University of Central Florida (was Florida Tech)
+296,UCI ," University of California, Irvine"
+297,UCLA ," University of California, Los Angeles"
+298,UCM , University of Central Missouri
+299,UCO , University of Central Oklahoma
+300,UConn , University of Connecticut
+301,UCR ," University of California, Riverside"
+302,UCSB ," University of California, Santa Barbara"
+303,UCSD ," University of California, San Diego"
+304,UCSF ," University of California, San Francisco"
+305,UD ," University of Dallas, University of Dayton, University of Delaware"
+306,UDM , University of Detroit Mercy
+307,UDC , University of the District of Columbia
+308,U Dub , University of Washington
+309,UF , University of Florida
+310,UGA , University of Georgia
+311,UH ," University of Hawaiʻi at Mānoa, University of Hawaii system, University of Houston"
+312,U of H , University of Houston
+313,UHS , University of Houston System
+314,UIC , University of Illinois at Chicago
+315,UK , University of Kentucky
+316,ULM , University of Louisiana at Monroe
+317,UL , University of Louisiana (at Lafayette)
+318,U of L , University of Louisville
+319,U of M ," University of Memphis, University of Miami, University of Michigan, University of Minnesota, Twin Cities, University of Montana"
+320,UMass , University of Massachusetts Amherst
+321,UMB ," University of Maryland, Baltimore, University of Massachusetts Boston"
+322,UMBC ," University of Maryland, Baltimore County"
+323,UMGC , University of Maryland Global Campus
+324,UMich , University of Michigan
+325,UML , University of Massachusetts Lowell
+326,UMO , University of Maine at Orono
+327,UMW , University of Mary Washington
+328,UNA , University of North Alabama
+329,UNC ," University of North Carolina at Chapel Hill, University of Northern Colorado"
+330,UNCC , University of North Carolina at Charlotte
+331,UNCG , University of North Carolina at Greensboro
+332,UNCW , University of North Carolina at Wilmington
+333,UND , University of North Dakota
+334,UNF , University of North Florida
+335,UNH ," University of New Hampshire, University of New Haven"
+336,UNI , University of Northern Iowa (was Iowa Teachers)
+337,Union , Union College
+338,UNK , University of Nebraska at Kearney
+339,UNLV ," University of Nevada, Las Vegas (formerly Nevada Southern)"
+340,UNM , University of New Mexico
+341,UNO ," University of Nebraska at Omaha, University of New Orleans"
+342,UNR ," University of Nevada, Reno"
+343,UNT , University of North Texas
+344,UO , University of Oregon
+345,UOP , University of the Pacific
+346,UoPeople - University of the People,
+347,UP , University of Portland
+348,UPenn , University of Pennsylvania
+349,UPIKE , University of Pikeville
+350,UR or U of R ," University of Richmond, University of Rochester"
+351,URI , University of Rhode Island
+352,U of S , University of Scranton
+353,USA , University of South Alabama
+354,USAFA , United States Air Force Academy
+355,USAO , University of Science and Arts of Oklahoma
+356,USC ," University of Southern California, University of South Carolina"
+357,USCA , University of South Carolina Aiken
+358,USD ," University of San Diego, University of South Dakota"
+359,USF ," University of San Francisco, University of South Florida"
+360,USFCA , University of San Francisco
+361,USI , University of Southern Indiana
+362,USM ," University of Southern Maine, The University of Southern Mississippi"
+363,USU , Utah State University
+364,UT ," University of Tampa, University of Tennessee, University of Texas at Austin, University of Toledo"
+365,UTA , University of Texas at Arlington
+366,Utah , University of Utah
+367,UTB/TSC , University of Texas at Brownsville and Texas Southmost College
+368,UTC , University of Tennessee at Chattanooga
+369,UTD , University of Texas at Dallas
+370,UTEP , University of Texas at El Paso (was Texas Western)
+371,UTHSCT - University of Texas Health Science Center at Tyler,
+372,UTM , University of Tennessee at Martin
+373,UTPB , University of Texas Permian Basin
+374,UTRGV , University of Texas Rio Grande Valley
+375,UTSA , University of Texas at San Antonio
+376,UVA , University of Virginia
+377,UVM , University of Vermont
+378,UVU , Utah Valley University
+379,UWF , University of West Florida
+380,UWG , University of West Georgia
+381,Valpo , Valparaiso University
+382,Vandy , Vanderbilt University
+383,VCU , Virginia Commonwealth University
+384,Virginia Tech , Virginia Polytechnic Institute and State University
+385,VMI , Virginia Military Institute
+386,VPI ," Virginia Polytechnic Institute and State University (An abbreviation of the university official name, though not actively used by the university)"
+387,VSU ," Valdosta State University, Virginia State University"
+388,VT or VPI , Virginia Polytechnic Institute and State University
+389,VTC , Vermont Technical College
+390,VU ," Valparaiso University, Vanderbilt University, Villanova University, Vincennes University, Vanguard University"
+391,W&J , Washington & Jefferson College
+392,W&L , Washington and Lee University
+393,W&M , The College of William & Mary
+394,Wash U or WUSTL , Washington University in St. Louis
+395,Wazzu , Washington State University
+396,WC ," Wagner College, Wilmington College"
+397,WCU ," Western Carolina University, West Chester University"
+398,West Point , U.S. Military Academy
+399,Western , Western Washington University
+400,WFU , Wake Forest University
+401,WGU , Western Governors University
+402,Williams , Williams College
+403,WIU , Western Illinois University
+404,WKU , Western Kentucky University
+405,WMU , Western Michigan University
+406,WPI , Worcester Polytechnic Institute
+407,WSU ," Washington State University, Wichita State University, Wright State University"
+408,WSSU - Winston-Salem State University,
+409,WTAMU , West Texas A&M University
+410,WU - Winthrop University,
+411,WVU , West Virginia University
+412,WVUP , West Virginia University at Parkersburg (WVU Parkersburg)
+413,WWU , Western Washington University
+414,XU , Xavier University (Cincinnati)
+415,XULA , Xavier University of Louisiana
+416,The Y , Brigham Young University
+417,YSU , Youngstown State University
+418,YU , Yeshiva University

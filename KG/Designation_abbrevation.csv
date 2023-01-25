@@ -1,0 +1,184 @@
+,source,target
+0,Assoc Dir , Associate Director abbreviation
+1,CAO , Chief Analytics Officer or Chief Administrative Officer
+2,CEO , Chief Executive Officer
+3,CDO , Chief Data Officer
+4,CFO , Chief Financial Officer
+5,Chair , Chairperson
+6,CHRO , Chief Human Resources Officer
+7,CIO , Chief Information Officer
+8,CLO , Chief Legal Officer
+9,CMO , Chief Marketing Officer
+10,COO , Chief Operation Officer
+11,CPO , Chief People Officer
+12,CSO , Chief Security Officer
+13,CTO , Chief Technology Officer
+14,Dir , Director abbreviation
+15,ED , Executive Director
+16,EVP acronym , Executive Vice President
+17,MD , Managing Director
+18,MP , Managing Partner
+19,Pres , President
+20,SGT ,Sergeant
+21,SUPR , Supervisor
+22,Supe , Supervisor
+23,VC , Vice Chancellor
+24,VP , abbreviation for Vice President
+25,VP of TA , Vice President of Talent Acquisition
+26,VP of TM , Vice President of Talent Management
+27,AM , Account Manager
+28,AM , Area Manager
+29,AMB , Area Business Manager
+30,Acct Mgr , Accounting Manager
+31,EAM , Executive Account Manager
+32,HRM , Human Resources Manager
+33,PM , Project Manager
+34,Sr Mgr , Senior Manager
+35,Ter Mgr , Territory Manager
+36,Admin Asst , Administrative Assistant
+37,Asst , Assistant
+38,Exec Asst or EA , Executive Assistant
+39,PA , Personal Assistant
+40,VA , Virtual Assistant
+41,AA , Accounting Assistant
+42,AASA , Assistant Area Sales Advisor
+43,AD , abbreviation for Assistant Director
+44,AVP , Assistant Vice President
+45,AE , Application Engineer
+46,Aero Eng , Aeronautical Engineer abbreviation
+47,CE or C/E , Chief Engineer abbreviation
+48,Chem Engr , Chemical Engineer abbreviation
+49,Cloud Ops Eng , Cloud Ops Engineer
+50,CNE , Computer Network Engineer abbreviation
+51,Comp Engr , Computer Engineer abbreviation
+52,Electr Eng , Electrical Engineer abbreviation
+53,Environ Engr , Environmental Engineer abbreviation
+54,Eng , Engineer
+55,Engr , Engineer
+56,Jr Engr , Junior Engineer abbreviation
+57,Manuf Eng , Manufacturing Engineer abbreviation
+58,Mech Engr , Mechanical Engineer abbreviation
+59,Prof Engr , Professional Engineer abbreviation
+60,Sr. AE , Senior Application Engineer
+61,Struct Eng , Structural Engineer abbreviation
+62,SWE , Software Engineer abbreviation
+63,UI Eng , User Interface Engineer
+64,BE Developer , Back-End Developer
+65,Dev , Developer 
+66,FE Developer , Front-End Developer
+67,JS Developer , JavaScript Developer
+68,AE , Account Executive
+69,BDM , Business Development Manager
+70,BDR , Business Development Representative
+71,Sales Rep , Sales Representative
+72,SDR , Sales Development Representative
+73,Art Dir , Art Director
+74,Creative Dir , Creative Director
+75,UI Designer , User Interface Designer
+76,UX Designer , User Experience Designer
+77,AAMS , Accredited Asset Management Specialist
+78,Admin , Administrator abbreviation
+79,ADV , Advisor
+80,Acct , Accounting
+81,ADV , Advisor
+82,Agt , Agent abbreviation
+83,Anlst , Analyst abbreviation
+84,APR or AAPR , Apprentice abbreviation
+85,Assoc , Associate abbreviation/Association acronym
+86,Assoc Prof , Associate Professor abbreviation
+87,ATTD , Attendant
+88,CFP , Certified Financial Planner
+89,CHANC , Chancellor
+90,Coord or COORD , abbreviation for Coordinator
+91,CPA , Certified Public Accountant
+92,CSM , Customer Success Manager
+93,CSR , Customer Service Representative
+94,DA , Data Analyst
+95,DEVL , Developer
+96,DSGN , Designer or Design
+97,ELEC – Electrician,
+98,FAC , Faculty
+99,GC , General Counsel
+100,HRBP , Human Resources Business Partner
+101,INSP , Inspector
+102,INSTR , Instructor
+103,INT , Interim
+104,IT , Information Technology
+105,What is the abbreviation for Junior? , JR or Jr
+106,LEC , Lecturer
+107,LIBR , Librarian
+108,MACH , Machinist
+109,MECH – Mechanic,
+110,Mkg , Marketing
+111,Mkt , Marketing
+112,Mktg , Marketing
+113,Off , Officer
+114,OPER , Operator
+115,PM , Product Manager
+116,PRIN , Principal
+117,PRO , Public Relations Officer
+118,Prof , Professor
+119,Prog , Programmer
+120,Rep , Representative abbreviation
+121,ROR Dev , Ruby on Rails Developer
+122,QA Analyst , Quality Assurance Analyst
+123,Sales Assoc , Sales Associate abbreviation
+124,SM Spec , Social Media Specialist
+125,Spec , Specialist
+126,Specl , Specialist
+127,Sr , Senior
+128,Tech , abbreviation for Technician
+129,TRNE , Trainee
+130,TRNR , Trainer
+131,UX Des , User Experience Designer
+132,ALJ , Administrative Law Judge
+133,Arb , Arbitrator
+134,Assemb , Assembly person
+135,AG or Att’y Gen , Attorney General
+136,B. , Baron
+137,C.B. , Cheif Baron
+138,C.J. , Chief Justice
+139,J or J.J. ," Judge, Justice"
+140,Mag , Magistrate
+141,Med , Mediator
+142,Sen , Senator
+143,C-SPI , Certified Specialist in Poison Information
+144,ChD , Doctor of Surgery
+145,DO , Osteopathic Doctor
+146,DPM , Doctor of Podiatric Medicine
+147,DCH , Doctor of Surgery
+148,DM , Doctor of Medicine
+149,DME , Doctor of Medical Education 
+150,DMSc , Doctor of Medical Science
+151,Dmt , Doctor of Medical Technology
+152,DN , Doctor of Nursing
+153,DNE , Doctor of Nursing Education
+154,DNP , Doctor of Nursing Practice
+155,DNS , Doctor of Nursing Science
+156,DNSc , Doctor of Nursing Science
+157,DO , Doctor of Osteopathy
+158,DOs , Doctor of Ocular Science
+159,DP , Doctor of Pharmacy 
+160,DPH , Doctor of Public Health
+161,DPHN , Doctor of Public Health Nursing
+162,DrNP , Doctor of Nursing Practice
+163,DRPH , Doctor of Public Health
+164,DSW , Doctor of Social Work
+165,LRCS , Licentiate of the Royal College of Surgeons
+166,MBBS ," Medicinae Baccalaureus, Baccalaureus Chirurgiae (Latin: Bachelor of Medicine, Bachelor of Surgery)    "
+167,MD , Doctor of Medicine
+168,MD , Medical Doctor
+169,ME , Medical Examiner
+170,MRCP , member of the Royal College of Physicians    
+171,MRCS , member of the Royal College of Surgeons
+172,MS , Master of Surgery    
+173,MSc , Master of Surgery
+174,MSurg , Master of Surgery
+175,NCT , Nuclear Cardiology Technologist    
+176,ND , Doctor of Naturopathy
+177,OD , Doctor of Optometry
+178,PH , Pharmacist
+179,RPh , Pharmacist
+180,Phar , Pharmacist (mostly used in Government and the Navy)
+181,Pharm , Pharmacist
+182,Pharm. D. or PharmD , Doctor of Pharmacy. The Pharm.D./PharmD is a professional degree similar to a Doctor of Medicine (MD) or Doctor of Dental Surgery (DDS)

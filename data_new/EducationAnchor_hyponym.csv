@@ -1,0 +1,311 @@
+,source,target
+0,Academic,professor
+1,Academics,professor
+2,EDUCATION & CREDENTIALS,None
+3,ACADEMIC PROJECTS/SEMINARS,None
+4,Academic and Qualification,None
+5,Educational Qualifications,None
+6,Education,coeducation
+7,Education,continuing_education
+8,Education,course
+9,Education,elementary_education
+10,Education,extension
+11,Education,extracurricular_activity
+12,Education,higher_education
+13,Education,secondary_education
+14,Education,team_teaching
+15,Education,work-study_program
+16,EDUCATION DETAILS,None
+17,SUMMARY OF EDUCATIONAL QUALIFICATION,None
+18,Academic Credentials,None
+19,Educational details,None
+20,Qualifications,eligibility
+21,Qualifications,ineligibility
+22,Educational Background,None
+23,Professional Qualification,None
+24,Basic Qualifications,None
+25,Qualification,eligibility
+26,Qualification,ineligibility
+27,PROFESSIONAL QUALIFICATIONS,None
+28,Educational Credentials,None
+29,Academic Record ,None
+30,QUALIFICATIONS SUMMARY,None
+31,EDUCATION AND PROFESSIONAL COURSES,None
+32,Academic Background,None
+33,Educational Experience,None
+34,SUMMARY OF QUALIFICATIONS,None
+35,Academic Qualifications,None
+36,Degrees and Certifications,None
+37,SCHOLASTICS,purist
+38,ACADEMIC PERFORMANCE,None
+39,Professional Education,None
+40,School Education,None
+41,SCHOLASTIC CREDENTIALS,None
+42,ACADAMIC HIGHLIGHTS,None
+43,Education Summary,None
+44,ACADEMIC DETAILS,None
+45,Education And Certifications,None
+46,Formal qualifications,None
+47,Academic Profile,None
+48,SCHOLASTICS,purist
+49,Technical Qualifications,None
+50,Academics Qualification,None
+51,Educational & Personal Details,None
+52,Academic Qualifications / Affiliations,None
+53,Educational Detail,None
+54,Technical and Academic Qualification,None
+55,Education / Certification,None
+56,EDUCATIONAL & PROFESSIONAL DEVELOPMENT,None
+57,Education Qualifications,None
+58,EDUCATION & PROFESSIONAL DEVELOPMENT,None
+59,ACADEMIC DETAILS:,None
+60,Educational Profile,None
+61,Educations,coeducation
+62,Educations,continuing_education
+63,Educations,course
+64,Educations,elementary_education
+65,Educations,extension
+66,Educations,extracurricular_activity
+67,Educations,higher_education
+68,Educations,secondary_education
+69,Educations,team_teaching
+70,Educations,work-study_program
+71,EDUCATION & DEGREE,None
+72,EDUCATION PROFILE,None
+73,Educational Summary,None
+74,PROFESSONAL DEGREE,None
+75,Education Qualification Summary,None
+76,Education & Certificates,None
+77,Last Educational Status,None
+78,Education & Qualifications Profile,None
+79,EDUCATION & QUALIFICATIONS,None
+80,ACADAMIC & PROFESSIONAL CREDENTIAL,None
+81,Education & Certifications,None
+82,Academic Record,None
+83,EDUCATION CREDENTIALS,None
+84,Professional/ Academic Education,None
+85,ACADEMIC INFORMATION,None
+86,SCHOLASTIC RECORD,None
+87,EDUCATION / ACCOLADES,None
+88,Scholastic Profile,None
+89,ACADEMICS BACKGROUND,None
+90,Academic Highlights,None
+91,ACADEMIC SUMMARY,None
+92,Professional and Educational Qualifications,None
+93,PERSONAL ACCOMPLISHMENTS,None
+94,Scholastic Records,None
+95,ACADEMIC CHRONICLE,None
+96,ACADEMIC AND EDUCATIONAL QUALIFICATIONS,None
+97,EDUCATION AND CREDENTIALS,None
+98,QUALIFICATION SUMMARY,None
+99,EDUCATIONAL AND PROFESSIONAL DEVELOPEMENT,None
+100,Professional and Academic Qualification,None
+101,Academics & Professional Chronicle,None
+102,Professional and Academic Qualifications,None
+103,EDUCATION & TECHNICAL QUALIFICATION,None
+104,Academic Education,None
+105,Addition Course,None
+106,SCHOLASTIC DETAILS,None
+107,Academic Qualification & Certifications,None
+108,Academic Achievements,None
+109,Education & Certification,None
+110,Academic / Professional Qualifications,None
+111,Professional/Academic Qualifications,None
+112,Professional & Educational Qualifications,None
+113,EDUCATIONAL & PROFESSIONAL CREDENTIALS,None
+114,Scholastic,purist
+115,EDUCATIONAL QUALFICATION,None
+116,COLLEGE EDUCATION,None
+117,Educational Synopsis,None
+118,Education,coeducation
+119,Education,continuing_education
+120,Education,course
+121,Education,elementary_education
+122,Education,extension
+123,Education,extracurricular_activity
+124,Education,higher_education
+125,Education,secondary_education
+126,Education,team_teaching
+127,Education,work-study_program
+128,Educational Information,None
+129,ACADEMIC SNAPSHOT,None
+130,A C A D E M I C S,None
+131,EDUCATIONALCREDENTIALS,None
+132,Education and Notables,None
+133,Academic Credential,None
+134,TECHNICAL EDUCATION,None
+135,ACADEMICQUALIFICATIONS,None
+136,DETAILS OF EDUCATION,None
+137,Accomplishments &Academic Background,None
+138,Education / Training,None
+139,Degree,amplitude_level
+140,Degree,depth
+141,Degree,extreme
+142,Degree,grind
+143,Degree,high
+144,Degree,highness
+145,Degree,immoderation
+146,Degree,intensity
+147,Degree,low
+148,Degree,lowness
+149,Degree,moderation
+150,Degree,quality
+151,Degree,sun_protection_factor
+152,Board,advisory_board
+153,Board,appeal_board
+154,Board,board_of_selectmen
+155,Board,directorate
+156,Board,draft_board
+157,Board,federal_reserve_board
+158,Board,governing_board
+159,Board,school_board
+160,Board,zoning_board
+161,ACADEMICS AND COURSE,None
+162,Educational Status,None
+163,Job Title,None
+164,Academia Credentials,None
+165,EXAMINATION,audit
+166,EXAMINATION,autopsy
+167,EXAMINATION,bank_examination
+168,EXAMINATION,checkup
+169,EXAMINATION,comparison
+170,EXAMINATION,endoscopy
+171,EXAMINATION,fine-tooth_comb
+172,EXAMINATION,follow-up
+173,EXAMINATION,going-over
+174,EXAMINATION,gonioscopy
+175,EXAMINATION,inspection
+176,EXAMINATION,keratoscopy
+177,EXAMINATION,once-over
+178,EXAMINATION,ophthalmoscopy
+179,EXAMINATION,palpation
+180,EXAMINATION,rhinoscopy
+181,EXAMINATION,scan
+182,EXAMINATION,search
+183,EXAMINATION,survey
+184,EXAMINATION,testing
+185,EXAMINATION,time_and_motion_study
+186,ACADAMIC,None
+187,A CADEMIC Q UALIFICATION,None
+188,ACADEMIC QUALIFICATON,None
+189,RECORD,file
+190,RECORD,history
+191,RECORD,memorabilia
+192,RECORD,stub
+193,RECORD,working_papers
+194,RECORD,written_record
+195,passing,forward_pass
+196,passing,lateral_pass
+197,passing,spot_pass
+198,EDUC ATIONAL QUALIFIACTION,None
+199,Division,special_forces
+200,Course,adult_education
+201,Course,art_class
+202,Course,childbirth-preparation_class
+203,Course,correspondence_course
+204,Course,course_of_lectures
+205,Course,directed_study
+206,Course,elective_course
+207,Course,extension_course
+208,Course,home_study
+209,Course,industrial_arts
+210,Course,orientation_course
+211,Course,propaedeutic
+212,Course,refresher_course
+213,Course,required_course
+214,Course,seminar
+215,Course,shop_class
+216,Course,workshop
+217,CourseYearUniversity,None
+218,Uni,None
+219,DUCATION,None
+220,DISTINCTIONS,contradistinction
+221,DISTINCTIONS,hairsplitting
+222,DISTINCTIONS,line
+223,UALIFICATIONS,None
+224,EDUCTIONAL,None
+225,Qualifcation,None
+226,QUALIFICATIO,None
+227,QULIFICATION,None
+228,EDUCATIONALSUMMARY,None
+229,QUALIFICAION,None
+230,Educatio,None
+231,EDUCATIONALQUALIFICATION,None
+232,EDUCATIOAL,None
+233,ASPECT,sector
+234,ASPECT,side
+235,ASPECT,surface
+236,DISCIPLINE,allometry
+237,DISCIPLINE,architecture
+238,DISCIPLINE,bibliotics
+239,DISCIPLINE,communications
+240,DISCIPLINE,engineering
+241,DISCIPLINE,escapology
+242,DISCIPLINE,frontier
+243,DISCIPLINE,futurology
+244,DISCIPLINE,genealogy
+245,DISCIPLINE,graphology
+246,DISCIPLINE,humanistic_discipline
+247,DISCIPLINE,major
+248,DISCIPLINE,military_science
+249,DISCIPLINE,numerology
+250,DISCIPLINE,occultism
+251,DISCIPLINE,ology
+252,DISCIPLINE,protology
+253,DISCIPLINE,science
+254,DISCIPLINE,theogony
+255,DISCIPLINE,theology
+256,Degrees,amplitude_level
+257,Degrees,depth
+258,Degrees,extreme
+259,Degrees,grind
+260,Degrees,high
+261,Degrees,highness
+262,Degrees,immoderation
+263,Degrees,intensity
+264,Degrees,low
+265,Degrees,lowness
+266,Degrees,moderation
+267,Degrees,quality
+268,Degrees,sun_protection_factor
+269,constitutes,compose
+270,constitutes,fall_into
+271,constitutes,form
+272,constitutes,make
+273,constitutes,present
+274,constitutes,range
+275,constitutes,supplement
+276,Qualification,eligibility
+277,Qualification,ineligibility
+278,EducationalQualifications,None
+279,Qualifications,eligibility
+280,Qualifications,ineligibility
+281,DEATILS,None
+282,EducationQualification,None
+283,EducationalQualification,None
+284,ACADAMICS,None
+285,EDUCATIONS,coeducation
+286,EDUCATIONS,continuing_education
+287,EDUCATIONS,course
+288,EDUCATIONS,elementary_education
+289,EDUCATIONS,extension
+290,EDUCATIONS,extracurricular_activity
+291,EDUCATIONS,higher_education
+292,EDUCATIONS,secondary_education
+293,EDUCATIONS,team_teaching
+294,EDUCATIONS,work-study_program
+295,QUALIFIACTION,None
+296,ducational,None
+297,Qualifica,None
+298,InstitutionName,None
+299,UniversityYear,None
+300,ACCADEMIC,None
+301,AcademicProfile,None
+302,QUALLIFICATION,None
+303,QUALIFICATIONDETAILS,None
+304,EducationiDetailsi,None
+305,EducationalProfile,None
+306,AcademicQualification,None
+307,ACEDAMIC,None
+308,ACADEMICDETAILS,None
+309,EDUCATIONALDETAILS,None

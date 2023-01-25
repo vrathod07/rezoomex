@@ -1,0 +1,3155 @@
+,Destination,Relation,_,Source
+0,Company,description,"""type of company""",Company
+1,Accenture,IT Services and IT Consulting,"""type of company""",Company
+2,ACI,Construction,"""type of company""",Company
+3,ACTIS,Financial Services,"""type of company""",Company
+4,Adobe,Software Development,"""type of company""",Company
+5,AEFA,Financial Services,"""type of company""",Company
+6,Affinity,Business Consulting and Services,"""type of company""",Company
+7,Altisource,Real Estate,"""type of company""",Company
+8,Amazon,"Technology, Information and Internet","""type of company""",Company
+9,Amdocs,Telecommunications,"""type of company""",Company
+10,Aptara,Book and Periodical Publishing,"""type of company""",Company
+11,Asurion,IT Services and IT Consulting,"""type of company""",Company
+12,ATMT,Financial Services,"""type of company""",Company
+13,BMC,Civil Engineering,"""type of company""",Company
+14,Buzzle,IT Services and IT Consulting,"""type of company""",Company
+15,Capgemini,IT Services and IT Consulting,"""type of company""",Company
+16,CarPro,Truck Transportation,"""type of company""",Company
+17,Celio,Retail,"""type of company""",Company
+18,Cisco,Software Development,"""type of company""",Company
+19,CREDIT-SUISSE,Banking,"""type of company""",Company
+20,CRiMson,IT Services and IT Consulting,"""type of company""",Company
+21,ECS,Business Consulting and Services,"""type of company""",Company
+22,Elba,Non-profit Organizations,"""type of company""",Company
+23,Enbridge,Oil and Gas,"""type of company""",Company
+24,Episys,Software Development,"""type of company""",Company
+25,EPRS,Medical Equipment Manufacturing,"""type of company""",Company
+26,Ernst,Design Services,"""type of company""",Company
+27,Falcon,Retail Office Equipment,"""type of company""",Company
+28,FDCS,"Transportation, Logistics, Supply Chain and Storage","""type of company""",Company
+29,Google,"Technology, Information and Internet","""type of company""",Company
+30,GSI,Staffing and Recruiting,"""type of company""",Company
+31,Harbinger,"Technology, Information and Internet","""type of company""",Company
+32,HP,IT Services and IT Consulting,"""type of company""",Company
+33,HSBC,Financial Services,"""type of company""",Company
+34,Hydra,Advertising Services,"""type of company""",Company
+35,I-Valuebridge,Software Development,"""type of company""",Company
+36,IBM,IT Services and IT Consulting,"""type of company""",Company
+37,Infoservices,IT Services and IT Consulting,"""type of company""",Company
+38,Infosys,IT Services and IT Consulting,"""type of company""",Company
+39,IRIS,Advertising Services,"""type of company""",Company
+40,ISL,Software Development,"""type of company""",Company
+41,JLT,Graphic Design,"""type of company""",Company
+42,Kalpataru,Human Resources Services,"""type of company""",Company
+43,Mccann,Advertising Services,"""type of company""",Company
+44,Medline,Wellness and Fitness Services,"""type of company""",Company
+45,Metadesign,Design Services,"""type of company""",Company
+46,MetrixLine,IT Services and IT Consulting,"""type of company""",Company
+47,Netezza,Computer Hardware Manufacturing,"""type of company""",Company
+48,Nichetech,IT Services and IT Consulting,"""type of company""",Company
+49,PMC,Business Consulting and Services,"""type of company""",Company
+50,Quinstreet,Advertising Services,"""type of company""",Company
+51,Radix,Software Development,"""type of company""",Company
+52,Redigital,Advertising Services,"""type of company""",Company
+53,Reliance,Oil and Gas,"""type of company""",Company
+54,Samcom,Retail Office Equipment,"""type of company""",Company
+55,SAOC,Hospitals and Health Care,"""type of company""",Company
+56,Sapphire,IT Services and IT Consulting,"""type of company""",Company
+57,SELA,Events Services,"""type of company""",Company
+58,SensorLab,Non-profit Organizations,"""type of company""",Company
+59,SES,Telecommunications,"""type of company""",Company
+60,SherPaz,Human Resources Services,"""type of company""",Company
+61,Siddhtech,IT Services and IT Consulting,"""type of company""",Company
+62,Simplexity,"Technology, Information and Internet","""type of company""",Company
+63,SITA,IT Services and IT Consulting,"""type of company""",Company
+64,Sungrace,IT Services and IT Consulting,"""type of company""",Company
+65,Symphony,Philanthropic Fundraising Services,"""type of company""",Company
+66,Synechron,Financial Services,"""type of company""",Company
+67,Synerzip,Software Development,"""type of company""",Company
+68,Syntel,IT Services and IT Consulting,"""type of company""",Company
+69,Tangoe,IT Services and IT Consulting,"""type of company""",Company
+70,Technosys,Software Development,"""type of company""",Company
+71,Teradata,IT Services and IT Consulting,"""type of company""",Company
+72,Thales,IT Services and IT Consulting,"""type of company""",Company
+73,TIE,Investment Banking,"""type of company""",Company
+74,Tieto,IT Services and IT Consulting,"""type of company""",Company
+75,Torrent,Advertising Services,"""type of company""",Company
+76,Twitter,"Technology, Information and Internet","""type of company""",Company
+77,Uniscan,Security and Investigations,"""type of company""",Company
+78,Venetian,Accounting,"""type of company""",Company
+79,Vodafone,Telecommunications,"""type of company""",Company
+80,Wipro,IT Services and IT Consulting,"""type of company""",Company
+81,Xchange,Venture Capital and Private Equity Principals,"""type of company""",Company
+82,Xento,IT Services and IT Consulting,"""type of company""",Company
+83,Xpanxion,IT Services and IT Consulting,"""type of company""",Company
+84,XTPL,Nanotechnology Research,"""type of company""",Company
+85,SQTL,IT Services and IT Consulting,"""type of company""",Company
+86,Tresensa,Advertising Services,"""type of company""",Company
+87,Codewalla,Software Development,"""type of company""",Company
+88,Avaya,IT Services and IT Consulting,"""type of company""",Company
+89,Xyratex,Computer Hardware Manufacturing,"""type of company""",Company
+90,Webquest,Design Services,"""type of company""",Company
+91,ESDS,IT Services and IT Consulting,"""type of company""",Company
+92,AXA,Insurance,"""type of company""",Company
+93,Siemens,Automation Machinery Manufacturing,"""type of company""",Company
+94,Zensar,IT Services and IT Consulting,"""type of company""",Company
+95,Fujitsu,IT Services and IT Consulting,"""type of company""",Company
+96,Microsoft,Software Development,"""type of company""",Company
+97,CREE,Semiconductor Manufacturing,"""type of company""",Company
+98,EXFO,Telecommunications,"""type of company""",Company
+99,Icertis,IT Services and IT Consulting,"""type of company""",Company
+0,Spreadsheet,Skill,,Analayst
+1,Data Cleansing,Skill,,Analayst
+2,Data Analysis,Skill,,Analayst
+3,Data Visualization (DataViz),Skill,,Analayst
+4,SQL,Skill,,Analayst
+5,Questioning,Skill,,Analayst
+6,Decision-Making,Skill,,Analayst
+7,Problem Solving,Skill,,Analayst
+8,Metadata,Skill,,Analayst
+9,Spreadsheet,Skill,,Analayst
+10,Data Cleansing,Skill,,Analayst
+11,Data Analysis,Skill,,Analayst
+12,Data Visualization (DataViz),Skill,,Analayst
+13,SQL,Skill,,Analayst
+14,Questioning,Skill,,Analayst
+15,Decision-Making,Skill,,Analayst
+16,Problem Solving,Skill,,Analayst
+17,Metadata,Skill,,Analayst
+18,Data Collection,Skill,,Analayst
+19,Data Ethics,Skill,,Analayst
+20,Sample Size Determination,Skill,,Analayst
+21, Communication,Skill,,ANIMATOR
+22, Computer Graphics,Skill,,ANIMATOR
+23, Creativity,Skill,,ANIMATOR
+24, Documents,Skill,,ANIMATOR
+25, Entrepreneurship,Skill,,ANIMATOR
+26, Game Design,Skill,,ANIMATOR
+27, Human Computer Interaction,Skill,,ANIMATOR
+28, Interactive Design,Skill,,ANIMATOR
+29, Interactivity,Skill,,ANIMATOR
+30, Research and Design,Skill,,ANIMATOR
+31, Storytelling,Skill,,ANIMATOR
+32, User Experience,Skill,,ANIMATOR
+33, Visual Design,Skill,,ANIMATOR
+34, Writing,Skill,,ANIMATOR
+35, Editing,Skill,,ANIMATOR
+36, Marketing,Skill,,ANIMATOR
+37, Research and Design,Skill,,Architect
+38, Entrepreneurship,Skill,,Architect
+39, Creativity,Skill,,Architect
+40, Architecture,Skill,,Architect
+41, Career,Skill,,Associate Consultant
+42, Collaboration,Skill,,Associate Consultant
+43, Communication,Skill,,Associate Consultant
+44, Leadership and Management,Skill,,Associate Consultant
+45, Communication,Skill,,Associate Consultant
+46, Leadership and Management,Skill,,Associate Consultant
+47, Collaboration,Skill,,Associate Consultant
+48, Human Resources,Skill,,Associate Consultant
+49, Supply Chain and Logistics,Skill,,Associate Consultant
+50, Organizational Development,Skill,,Associate Consultant
+51, Software Engineering,Skill,,Associate Consultant
+52, Agile Management,Skill,,Associate Consultant
+53, Planning,Skill,,Associate Consultant
+54, Operations Management,Skill,,Associate Consultant
+55, Sales,Skill,,Associate Consultant
+56, Strategy and Operations,Skill,,Associate Consultant
+57, Culture,Skill,,Associate Consultant
+58, Leadership and Management,Skill,,Associate Consultant
+59, Business Process Management,Skill,,Associate Consultant
+60, Communication,Skill,,Associate Consultant
+61, Project Management,Skill,,Associate Consultant
+62, Project,Skill,,Associate Consultant
+63, Software Engineering Tools,Skill,,Associate Consultant
+64, Entrepreneurship,Skill,,Associate Consultant
+65, Change Management,Skill,,Associate Consultant
+66, Leadership,Skill,,Associate Consultant
+67, Organizational Structure,Skill,,Associate Consultant
+68, Business Psychology,Skill,,Associate Consultant
+69, Career,Skill,,Associate Consultant
+70, Collaboration,Skill,,Associate Consultant
+71, Communication,Skill,,Associate Consultant
+72, Leadership and Management,Skill,,Associate Consultant
+73, Communication,Skill,,Associate Consultant
+74, Leadership and Management,Skill,,Associate Consultant
+75, Collaboration,Skill,,Associate Consultant
+76, Human Resources,Skill,,Associate Consultant
+77, Supply Chain and Logistics,Skill,,Associate Consultant
+78, Organizational Development,Skill,,Associate Consultant
+79, Software Engineering,Skill,,Associate Consultant
+80, Agile Management,Skill,,Associate Consultant
+81, Planning,Skill,,Associate Consultant
+82, Operations Management,Skill,,Associate Consultant
+83, Sales,Skill,,Associate Consultant
+84, Strategy and Operations,Skill,,Associate Consultant
+85, Culture,Skill,,Associate Consultant
+86, Leadership and Management,Skill,,Associate Consultant
+87, Business Process Management,Skill,,Associate Consultant
+88, Communication,Skill,,Associate Consultant
+89, Project Management,Skill,,Associate Consultant
+90, Project,Skill,,Associate Consultant
+91, Software Engineering Tools,Skill,,Associate Consultant
+92, Entrepreneurship,Skill,,Associate Consultant
+93, Change Management,Skill,,Associate Consultant
+94, Leadership,Skill,,Associate Consultant
+95, Organizational Structure,Skill,,Associate Consultant
+96, Business Psychology,Skill,,Associate Consultant
+97,Google Compute Engine,Skill,,Cloud DevOps Engineer
+98,Google App Engine (GAE),Skill,,Cloud DevOps Engineer
+99,Google Cloud Platform,Skill,,Cloud DevOps Engineer
+100,Cloud Computing,Skill,,Cloud DevOps Engineer
+101,SRE Culture,Skill,,Cloud DevOps Engineer
+102,Business Value,Skill,,Cloud DevOps Engineer
+103,Configuration Management,Skill,,Cloud DevOps Engineer
+104, Kubernetes,Skill,,Cloud DevOps Engineer
+105,Docker Engine,Skill,,Cloud DevOps Engineer
+106,Docker Swarm,Skill,,Cloud DevOps Engineer
+107,Automation,Skill,,Cloud DevOps Engineer
+108,GitHub,Skill,,Cloud DevOps Engineer
+109, Career,Skill,,Consulatant
+110, Collaboration,Skill,,Consulatant
+111, Communication,Skill,,Consulatant
+112, Leadership and Management,Skill,,Consulatant
+113, Communication,Skill,,Consulatant
+114, Leadership and Management,Skill,,Consulatant
+115, Collaboration,Skill,,Consulatant
+116, Human Resources,Skill,,Consulatant
+117, Supply Chain and Logistics,Skill,,Consulatant
+118, Organizational Development,Skill,,Consulatant
+119, Software Engineering,Skill,,Consulatant
+120, Agile Management,Skill,,Consulatant
+121, Planning,Skill,,Consulatant
+122, Operations Management,Skill,,Consulatant
+123, Sales,Skill,,Consulatant
+124, Strategy and Operations,Skill,,Consulatant
+125, Culture,Skill,,Consulatant
+126, Leadership and Management,Skill,,Consulatant
+127, Business Process Management,Skill,,Consulatant
+128, Communication,Skill,,Consulatant
+129, Project Management,Skill,,Consulatant
+130, Project,Skill,,Consulatant
+131, Software Engineering Tools,Skill,,Consulatant
+132, Entrepreneurship,Skill,,Consulatant
+133, Change Management,Skill,,Consulatant
+134, Leadership,Skill,,Consulatant
+135, Organizational Structure,Skill,,Consulatant
+136, Business Psychology,Skill,,Consulatant
+137,Relational Database Management System (RDBMS),Skill,,Data Scientist
+138,Cloud Databases,Skill,,Data Scientist
+139,Python Programming,Skill,,Data Scientist
+140,SQL,Skill,,Data Scientist
+141,Deep Learning,Skill,,Data Scientist
+142,Machine Learning,Skill,,Data Scientist
+143,Big Data,Skill,,Data Scientist
+144,Data Mining,Skill,,Data Scientist
+145,Github,Skill,,Data Scientist
+146,Jupyter notebooks,Skill,,Data Scientist
+147,Rstudio,Skill,,Data Scientist
+148,R Programming,Skill,,Data Scientist
+149,Linear Regression,Skill,,Data Scientist
+150,Statistical Hypothesis Testing,Skill,,Data Scientist
+151,Statistics,Skill,,Data Scientist
+152,Linear Algebra,Skill,,Data Scientist
+153,Confidence Interval,Skill,,Data Scientist
+154,Biostatistics,Skill,,Data Scientist
+155,Manage Azure resources for machine learning,Skill,,Data Scientist
+156,Deploy and operationalize machine learning solutions,Skill,,Data Scientist
+157,Run experiments and train models,Skill,,Data Scientist
+158,Implement responsible machine learning,Skill,,Data Scientist
+159,Machine Learning,Skill,,Data Scientist
+160,Supervised Learning,Skill,,Data Scientist
+161,Regression Analysis,Skill,,Data Scientist
+162,Use the Azure Machine Learning SDK to train a model,Skill,,Data Scientist
+163,Select models and protect sensitive data,Skill,,Data Scientist
+164,Orchestrate pipelines and deploy real-time machine learning services with Azure Machine Learning,Skill,,Data Scientist
+165,Business Intelligence,Skill,,DB Consultant
+166,Data Warehousing,Skill,,DB Consultant
+167,Database (DBMS),Skill,,DB Consultant
+168,NoSQL,Skill,,DB Consultant
+169,Database (DB) Design,Skill,,DB Consultant
+170,Entity,Skill,,DB Consultant
+171,Relational Database,Skill,,DB Consultant
+172,SQL,Skill,,DB Consultant
+173,Business Intelligence,Skill,,DB Consultant
+174,Data Warehousing,Skill,,DB Consultant
+175,Database (DBMS),Skill,,DB Consultant
+176,NoSQL,Skill,,DB Consultant
+177,Database (DB) Design,Skill,,DB Consultant
+178,Entity,Skill,,DB Consultant
+179,Relational Database,Skill,,DB Consultant
+180,SQL,Skill,,DB Consultant
+181,Expected Return,Skill,,DB Consultant
+182,Sap Hana,Skill,,DB Consultant
+183,Document Warehouse,Skill,,DB Consultant
+184,Super Column,Skill,,DB Consultant
+185,Machine Learning,Skill,,Deployer
+186,Tensorflow,Skill,,Deployer
+187,advanced deployment,Skill,,Deployer
+188,Object Detection,Skill,,Deployer
+189,JavaScript,Skill,,Deployer
+190,Convolutional Neural Network,Skill,,Deployer
+191,TensorFlow.js,Skill,,Deployer
+192,TensorFlow Lite,Skill,,Deployer
+193,Mathematical Optimization,Skill,,Deployer
+194,Artificial Neural Network,Skill,,Deployer
+195,"Extraction, Transformation And Loading (ETL)",Skill,,Deployer
+196,Data Pipelines,Skill,,Deployer
+197,Debugging,Skill,,DevOps
+198,Encryption Algorithms and Techniques,Skill,,DevOps
+199,Customer Service,Skill,,DevOps
+200,Network Protocols,Skill,,DevOps
+201,Cloud Computing,Skill,,DevOps
+202,Binary Code,Skill,,DevOps
+203, Agile Software Development,Skill,,DevOps
+204, Algorithms,Skill,,DevOps
+205, Application Development,Skill,,DevOps
+206, BlockChain,Skill,,DevOps
+207, Cloud Computing,Skill,,DevOps
+208, Cloud Infrastructure,Skill,,DevOps
+209, Cloud Platforms,Skill,,DevOps
+210, Cloud Storage,Skill,,DevOps
+211, Collaboration,Skill,,DevOps
+212, Communication,Skill,,DevOps
+213, Computational Logic,Skill,,DevOps
+214, Computer Architecture,Skill,,DevOps
+215, Computer Graphics,Skill,,DevOps
+216, Computer Networking,Skill,,DevOps
+217, Computer Programming,Skill,,DevOps
+218, Computer Programming Tools,Skill,,DevOps
+219, Continuous Delivery,Skill,,DevOps
+220, Continuous Integration,Skill,,DevOps
+221, Data Management,Skill,,DevOps
+222, Design and Product,Skill,,DevOps
+223, DevOps,Skill,,DevOps
+224, Distributed Computing Architecture,Skill,,DevOps
+225, Entrepreneurship,Skill,,DevOps
+226, Extract,Skill,,DevOps
+227, Transform,Skill,,DevOps
+228, Load,Skill,,DevOps
+229, Finance,Skill,,DevOps
+230, Full-Stack Web Development,Skill,,DevOps
+231, Human Computer Interaction,Skill,,DevOps
+232, IBM Cloud,Skill,,DevOps
+233, Interactive Design,Skill,,DevOps
+234, Journalism,Skill,,DevOps
+235, Kubernetes,Skill,,DevOps
+236, Leadership and Management,Skill,,DevOps
+237, Mathematical Theory & Analysis,Skill,,DevOps
+238, Mathematics,Skill,,DevOps
+239, Network Architecture,Skill,,DevOps
+240, Network Security,Skill,,DevOps
+241, Operating Systems,Skill,,DevOps
+242, Planning,Skill,,DevOps
+243, Product Design,Skill,,DevOps
+244, Product Development,Skill,,DevOps
+245, Programming Principles,Skill,,DevOps
+246, Project Management,Skill,,DevOps
+247, Python Programming,Skill,,DevOps
+248, Security Engineering,Skill,,DevOps
+249, Software Architecture,Skill,,DevOps
+250, Software As A Service,Skill,,DevOps
+251, Software Engineering,Skill,,DevOps
+252, Software Engineering Tools,Skill,,DevOps
+253, Software Framework,Skill,,DevOps
+254, Software Testing,Skill,,DevOps
+255, Statistical Programming,Skill,,DevOps
+256, Strategy and Operations,Skill,,DevOps
+257, Supply Chain and Logistics,Skill,,DevOps
+258, System Programming,Skill,,DevOps
+259, Systems Design,Skill,,DevOps
+260, Theoretical Computer Science,Skill,,DevOps
+261, Web Development,Skill,,DevOps
+262, Amazon Web Services,Skill,,DevOps
+263, Cloud Computing,Skill,,DevOps
+264, Cloud Infrastructure,Skill,,DevOps
+265, Cloud Load Balancing,Skill,,DevOps
+266, Computer Networking,Skill,,DevOps
+267, Continuous Delivery,Skill,,DevOps
+268, Continuous Integration,Skill,,DevOps
+269, Databases,Skill,,DevOps
+270, DevOps,Skill,,DevOps
+271, Devops Tools,Skill,,DevOps
+272, Network Security,Skill,,DevOps
+273, Security Engineering,Skill,,DevOps
+274, Agile Software Development,Skill,,DevOps
+275, BlockChain,Skill,,DevOps
+276, Cloud Computing,Skill,,DevOps
+277, Cloud Infrastructure,Skill,,DevOps
+278, Cloud Platforms,Skill,,DevOps
+279, Cloud Storage,Skill,,DevOps
+280, Collaboration,Skill,,DevOps
+281, Communication,Skill,,DevOps
+282, Computer Architecture,Skill,,DevOps
+283, Computer Graphics,Skill,,DevOps
+284, Computer Networking,Skill,,DevOps
+285, Computer Programming,Skill,,DevOps
+286, Continuous Delivery,Skill,,DevOps
+287, Continuous Integration,Skill,,DevOps
+288, Design and Product,Skill,,DevOps
+289, DevOps,Skill,,DevOps
+290, Entrepreneurship,Skill,,DevOps
+291, Finance,Skill,,DevOps
+292, Human Computer Interaction,Skill,,DevOps
+293, IBM Cloud,Skill,,DevOps
+294, Interactive Design,Skill,,DevOps
+295, Leadership and Management,Skill,,DevOps
+296, Network Architecture,Skill,,DevOps
+297, Network Security,Skill,,DevOps
+298, Operating Systems,Skill,,DevOps
+299, Planning,Skill,,DevOps
+300, Product Design,Skill,,DevOps
+301, Product Development,Skill,,DevOps
+302, Project Management,Skill,,DevOps
+303, Security,Skill,,DevOps
+304, Security Engineering,Skill,,DevOps
+305, Software Architecture,Skill,,DevOps
+306, Software As A Service,Skill,,DevOps
+307, Software Engineering,Skill,,DevOps
+308, Software Framework,Skill,,DevOps
+309, Software Testing,Skill,,DevOps
+310, Strategy and Operations,Skill,,DevOps
+311, Supply Chain and Logistics,Skill,,DevOps
+312, System Programming,Skill,,DevOps
+313, Theoretical Computer Science,Skill,,DevOps
+314, Accounting,Skill,,Engineer
+315, Communication,Skill,,Engineer
+316, Cost,Skill,,Engineer
+317, Entrepreneurship,Skill,,Engineer
+318, Estimation,Skill,,Engineer
+319, Finance,Skill,,Engineer
+320, Generally Accepted Accounting Principles (GAAP),Skill,,Engineer
+321, Human Resources,Skill,,Engineer
+322, Leadership Development,Skill,,Engineer
+323, Leadership and Management,Skill,,Engineer
+324, Planning,Skill,,Engineer
+325, Probability & Statistics,Skill,,Engineer
+326, Procurement,Skill,,Engineer
+327, Project,Skill,,Engineer
+328, Project Management,Skill,,Engineer
+329, Project Planning,Skill,,Engineer
+330, Risk,Skill,,Engineer
+331, Risk Management,Skill,,Engineer
+332, Schedule,Skill,,Engineer
+333, Statistical Tests,Skill,,Engineer
+334, Strategy and Operations,Skill,,Engineer
+335, Supply Chain and Logistics,Skill,,Engineer
+336,Software Development,Skill,,Engineer
+337, Time Management,Skill,,Engineer
+338,Cascading Style Sheets (CSS),Skill,,Front End Developer
+339,HTML,Skill,,Front End Developer
+340,UI/UX design,Skill,,Front End Developer
+341,React,Skill,,Front End Developer
+342,JavaScript,Skill,,Front End Developer
+343,Web Development Tools,Skill,,Front End Developer
+344,User Interface,Skill,,Front End Developer
+345,Cascading Style Sheets (CSS),Skill,,Front End Developer
+346,HTML,Skill,,Front End Developer
+347,UI/UX design,Skill,,Front End Developer
+348,React,Skill,,Front End Developer
+349,JavaScript,Skill,,Front End Developer
+350,Web Development Tools,Skill,,Front End Developer
+351,User Interface,Skill,,Front End Developer
+352,Front-End Web Development,Skill,,Front End Developer
+353,HTML and CSS,Skill,,Front End Developer
+354,Responsive Web Design,Skill,,Front End Developer
+355,Test-Driven Development,Skill,,Front End Developer
+356,Object-Oriented Programming (OOP),Skill,,Front End Developer
+357,User Experience (UX),Skill,,Front End Developer
+358,UX Research,Skill,,Front End Developer
+359,Wireframe,Skill,,Front End Developer
+360,Prototype,Skill,,Front End Developer
+361,User Experience Design (UXD),Skill,,Front End Developer
+362,Usability Testing,Skill,,Front End Developer
+363,mockup,Skill,,Front End Developer
+364,Figma,Skill,,Front End Developer
+365,Adobe XD,Skill,,Front End Developer
+366,UX design jobs,Skill,,Front End Developer
+367, Accounting,Skill,,Graduate engineer
+368, Communication,Skill,,Graduate engineer
+369, Cost,Skill,,Graduate engineer
+370, Entrepreneurship,Skill,,Graduate engineer
+371, Estimation,Skill,,Graduate engineer
+372, Finance,Skill,,Graduate engineer
+373, Generally Accepted Accounting Principles (GAAP),Skill,,Graduate engineer
+374, Human Resources,Skill,,Graduate engineer
+375, Leadership Development,Skill,,Graduate engineer
+376, Leadership and Management,Skill,,Graduate engineer
+377, Planning,Skill,,Graduate engineer
+378, Probability & Statistics,Skill,,Graduate engineer
+379, Procurement,Skill,,Graduate engineer
+380, Project,Skill,,Graduate engineer
+381, Project Management,Skill,,Graduate engineer
+382, Project Planning,Skill,,Graduate engineer
+383, Risk,Skill,,Graduate engineer
+384, Risk Management,Skill,,Graduate engineer
+385, Schedule,Skill,,Graduate engineer
+386, Statistical Tests,Skill,,Graduate engineer
+387, Strategy and Operations,Skill,,Graduate engineer
+388, Supply Chain and Logistics,Skill,,Graduate engineer
+389, Time Management,Skill,,Graduate engineer
+390, Analysis,Skill,,HR
+391, Benefits,Skill,,HR
+392, Compensation,Skill,,HR
+393, Employment,Skill,,HR
+394, Entrepreneurship,Skill,,HR
+395, Human Resources,Skill,,HR
+396, Leadership,Skill,,HR
+397, Leadership and Management,Skill,,HR
+398, Marketing,Skill,,HR
+399, Onboarding,Skill,,HR
+400, People Management,Skill,,HR
+401, Performance,Skill,,HR
+402, Performance Management,Skill,,HR
+403, Recruitment,Skill,,HR
+404, Sales,Skill,,HR
+405, Strategy,Skill,,HR
+406, Strategy and Operations,Skill,,HR
+407, Behavior,Skill,,HR
+408, Brand,Skill,,HR
+409, Business Psychology,Skill,,HR
+410, Communication,Skill,,HR
+411, Conflict Management,Skill,,HR
+412, Culture,Skill,,HR
+413, Entrepreneurship,Skill,,HR
+414, Human Resources,Skill,,HR
+415, Leadership and Management,Skill,,HR
+416, Marketing,Skill,,HR
+417, Motivation,Skill,,HR
+418, Resource,Skill,,HR
+419, Sales,Skill,,HR
+420, Strategy,Skill,,HR
+421, Strategy and Operations,Skill,,HR
+422, Human Resources,Skill,,HR
+423, Data Visualization,Skill,,HR
+424, Analysis,Skill,,HR
+425, Employee Relations,Skill,,HR
+426, Data Analysis,Skill,,HR
+427, Resource,Skill,,HR
+428, Business Analysis,Skill,,HR
+429, Analytics,Skill,,HR
+430, Storytelling,Skill,,HR
+431, Communication,Skill,,HR
+432, People Analysis,Skill,,HR
+433,Persistence,Skill,,IOS Devloper
+434,iOS App Development,Skill,,IOS Devloper
+435,Xcode,Skill,,IOS Devloper
+436,Swift (Programming Language),Skill,,IOS Devloper
+437,Syntax,Skill,,IOS Devloper
+438,Computer Programming,Skill,,IOS Devloper
+439,Core Data,Skill,,IOS Devloper
+440,Debugging,Skill,,IT Administrator
+441,Encryption Algorithms and Techniques,Skill,,IT Administrator
+442,Customer Service,Skill,,IT Administrator
+443,Network Protocols,Skill,,IT Administrator
+444,Cloud Computing,Skill,,IT Administrator
+445,Binary Code,Skill,,IT Administrator
+446,Customer Support,Skill,,IT Administrator
+447,Linux,Skill,,IT Administrator
+448,Troubleshooting,Skill,,IT Administrator
+449,Domain Name System (DNS),Skill,,IT Administrator
+450,Ipv4,Skill,,IT Administrator
+451,Network Model,Skill,,IT Administrator
+452,Directory Service,Skill,,IT Administrator
+453,Lightweight Directory Access Protocol (LDAP),Skill,,IT Administrator
+454,Backup,Skill,,IT Administrator
+455,Directory Service,Skill,,IT Administrator
+456,Lightweight Directory Access Protocol (LDAP),Skill,,IT Administrator
+457,Backup,Skill,,IT Administrator
+458, Algorithms,Skill,,Java developer
+459, Computer Architecture,Skill,,Java developer
+460, Computer Graphics,Skill,,Java developer
+461, Computer Networking,Skill,,Java developer
+462, Computer Programming,Skill,,Java developer
+463, Cryptography,Skill,,Java developer
+464, Data Analysis,Skill,,Java developer
+465, Data Management,Skill,,Java developer
+466, Data Structures,Skill,,Java developer
+467, Entrepreneurship,Skill,,Java developer
+468, General Statistics,Skill,,Java developer
+469, HTML and CSS,Skill,,Java developer
+470, Interfaces,Skill,,Java developer
+471, Java (Software Platform),Skill,,Java developer
+472, Java Programming,Skill,,Java developer
+473, Javascript,Skill,,Java developer
+474, Leadership and Management,Skill,,Java developer
+475, Machine Learning,Skill,,Java developer
+476, Markov Model,Skill,,Java developer
+477, Mobile Development,Skill,,Java developer
+478, Network Architecture,Skill,,Java developer
+479, Probability & Statistics,Skill,,Java developer
+480, Problem Solving,Skill,,Java developer
+481, Programming Principles,Skill,,Java developer
+482, Research and Design,Skill,,Java developer
+483, Security Engineering,Skill,,Java developer
+484, Software,Skill,,Java developer
+485, Software Engineering,Skill,,Java developer
+486, Software Testing,Skill,,Java developer
+487, Theoretical Computer Science,Skill,,Java developer
+488, Web Design,Skill,,Java developer
+489, Web Development,Skill,,Java developer
+490, Algorithms,Skill,,Java developer
+491, Application Development,Skill,,Java developer
+492, Communication,Skill,,Java developer
+493, Computational Logic,Skill,,Java developer
+494, Computer Architecture,Skill,,Java developer
+495, Computer Programming,Skill,,Java developer
+496, Computer Programming Tools,Skill,,Java developer
+497, Data Management,Skill,,Java developer
+498, Data Structures,Skill,,Java developer
+499, Front-End Web Development,Skill,,Java developer
+500, HTML and CSS,Skill,,Java developer
+501, Hardware Design,Skill,,Java developer
+502, Human Computer Interaction,Skill,,Java developer
+503, Javascript,Skill,,Java developer
+504, Journalism,Skill,,Java developer
+505, Mathematical Theory & Analysis,Skill,,Java developer
+506, Mathematics,Skill,,Java developer
+507, Mobile Development,Skill,,Java developer
+508, Mobile Development Tools,Skill,,Java developer
+509, Operations Research,Skill,,Java developer
+510, Other Web Frameworks,Skill,,Java developer
+511, Programming Principles,Skill,,Java developer
+512, React (web framework),Skill,,Java developer
+513, Research and Design,Skill,,Java developer
+514, Software Architecture,Skill,,Java developer
+515, Software Engineering,Skill,,Java developer
+516, Software Engineering Tools,Skill,,Java developer
+517, Software Testing,Skill,,Java developer
+518, Strategy and Operations,Skill,,Java developer
+519, Theoretical Computer Science,Skill,,Java developer
+520, User Experience,Skill,,Java developer
+521, Web Design,Skill,,Java developer
+522, Web Development,Skill,,Java developer
+523, Algorithms,Skill,,Java developer
+524, Computer Architecture,Skill,,Java developer
+525, Computer Graphics,Skill,,Java developer
+526, Computer Programming,Skill,,Java developer
+527, Cryptography,Skill,,Java developer
+528, Data Management,Skill,,Java developer
+529, Data Structures,Skill,,Java developer
+530, Entrepreneurship,Skill,,Java developer
+531, Hardware Design,Skill,,Java developer
+532, Java (Software Platform),Skill,,Java developer
+533, Java Programming,Skill,,Java developer
+534, Leadership and Management,Skill,,Java developer
+535, Mobile Development,Skill,,Java developer
+536, Object-Oriented Programming,Skill,,Java developer
+537, Problem Solving,Skill,,Java developer
+538, Programming Principles,Skill,,Java developer
+539, Research and Design,Skill,,Java developer
+540, Security Engineering,Skill,,Java developer
+541, Software,Skill,,Java developer
+542, Theoretical Computer Science,Skill,,Java developer
+543, Web Development,Skill,,Java developer
+544, Agile Software Development,Skill,,Manager
+545, Application Development,Skill,,Manager
+546, Budget Management,Skill,,Manager
+547, Business Analysis,Skill,,Manager
+548, Business Process Management,Skill,,Manager
+549, Business Psychology,Skill,,Manager
+550, Change Management,Skill,,Manager
+551, Communication,Skill,,Manager
+552, Culture,Skill,,Manager
+553, Data Analysis,Skill,,Manager
+554, Data Visualization,Skill,,Manager
+555, Design and Product,Skill,,Manager
+556, Entrepreneurship,Skill,,Manager
+557, Finance,Skill,,Manager
+558, Human Resources,Skill,,Manager
+559, Leadership Development,Skill,,Manager
+560, Leadership and Management,Skill,,Manager
+561, Marketing,Skill,,Manager
+562, Operations Management,Skill,,Manager
+563, Operations Research,Skill,,Manager
+564, Organizational Development,Skill,,Manager
+565, Planning,Skill,,Manager
+566, Probability & Statistics,Skill,,Manager
+567, Procurement,Skill,,Manager
+568, Product Design,Skill,,Manager
+569, Project,Skill,,Manager
+570, Project Management,Skill,,Manager
+571, Public Relations,Skill,,Manager
+572, Research and Design,Skill,,Manager
+573, Risk,Skill,,Manager
+574, Risk Management,Skill,,Manager
+575, Sales,Skill,,Manager
+576, Software,Skill,,Manager
+577, Software Engineering,Skill,,Manager
+578, Software Engineering Tools,Skill,,Manager
+579, Software Testing,Skill,,Manager
+580, Spreadsheet Software,Skill,,Manager
+581, Statistical Tests,Skill,,Manager
+582, Storytelling,Skill,,Manager
+583, Strategy,Skill,,Manager
+584, Strategy and Operations,Skill,,Manager
+585, Supply Chain Systems,Skill,,Manager
+586, Supply Chain and Logistics,Skill,,Manager
+587, User Experience,Skill,,Manager
+588, Vendor Management,Skill,,Manager
+589, Writing,Skill,,Manager
+590, Business Psychology,Skill,,Manager
+591, Collaboration,Skill,,Manager
+592, Communication,Skill,,Manager
+593, Conflict Management,Skill,,Manager
+594, Employment,Skill,,Manager
+595, Entrepreneurship,Skill,,Manager
+596, Human Resources,Skill,,Manager
+597, Influencing,Skill,,Manager
+598, Leadership,Skill,,Manager
+599, Leadership Development,Skill,,Manager
+600, Leadership and Management,Skill,,Manager
+601, Marketing,Skill,,Manager
+602, Motivation,Skill,,Manager
+603, People Development,Skill,,Manager
+604, Performance,Skill,,Manager
+605, Performance Management,Skill,,Manager
+606, Recruitment,Skill,,Manager
+607, Sales,Skill,,Manager
+608, Strategy,Skill,,Manager
+609, Strategy and Operations,Skill,,Manager
+610, Talent Management,Skill,,Manager
+611, Team Management,Skill,,Manager
+612, Entrepreneurship,Skill,,Manager
+613, Strategy and Operations,Skill,,Manager
+614, Human Resources,Skill,,Manager
+615, Supply Chain and Logistics,Skill,,Manager
+616, Sales,Skill,,Manager
+617, Leadership and Management,Skill,,Manager
+618, Project Management,Skill,,Manager
+619, Conflict Management,Skill,,Manager
+620, Performance Management,Skill,,Manager
+621, Leadership,Skill,,Manager
+622,Market Analysis,Skill,,Marketing manager
+623,Marketing,Skill,,Marketing manager
+624,Marketing Strategy,Skill,,Marketing manager
+625,Marketing Mix,Skill,,Marketing manager
+626, Application Development,Skill,,Mean Stack Developer
+627, Back-End Web Development,Skill,,Mean Stack Developer
+628, BlockChain,Skill,,Mean Stack Developer
+629, Cloud Applications,Skill,,Mean Stack Developer
+630, Cloud Computing,Skill,,Mean Stack Developer
+631, Cloud Foundry,Skill,,Mean Stack Developer
+632, Cloud Infrastructure,Skill,,Mean Stack Developer
+633, Cloud Platforms,Skill,,Mean Stack Developer
+634, Cloud Storage,Skill,,Mean Stack Developer
+635, Computational Logic,Skill,,Mean Stack Developer
+636, Computer Architecture,Skill,,Mean Stack Developer
+637, Computer Graphics,Skill,,Mean Stack Developer
+638, Computer Networking,Skill,,Mean Stack Developer
+639, Computer Programming,Skill,,Mean Stack Developer
+640, Computer Programming Tools,Skill,,Mean Stack Developer
+641, Continuous Delivery,Skill,,Mean Stack Developer
+642, Continuous Integration,Skill,,Mean Stack Developer
+643, Data Management,Skill,,Mean Stack Developer
+644, Database Administration,Skill,,Mean Stack Developer
+645, Database Application,Skill,,Mean Stack Developer
+646, Database Design,Skill,,Mean Stack Developer
+647, Databases,Skill,,Mean Stack Developer
+648, DevOps,Skill,,Mean Stack Developer
+649, Devops Tools,Skill,,Mean Stack Developer
+650, Distributed Computing Architecture,Skill,,Mean Stack Developer
+651, Extract,Skill,,Mean Stack Developer
+652, Transform,Skill,,Mean Stack Developer
+653, Load,Skill,,Mean Stack Developer
+654, Finance,Skill,,Mean Stack Developer
+655, Front-End Web Development,Skill,,Mean Stack Developer
+656, Full-Stack Web Development,Skill,,Mean Stack Developer
+657, Github,Skill,,Mean Stack Developer
+658, HTML and CSS,Skill,,Mean Stack Developer
+659, Human Computer Interaction,Skill,,Mean Stack Developer
+660, IBM Cloud,Skill,,Mean Stack Developer
+661, Interactive Design,Skill,,Mean Stack Developer
+662, Javascript,Skill,,Mean Stack Developer
+663, Kubernetes,Skill,,Mean Stack Developer
+664, Mathematical Theory & Analysis,Skill,,Mean Stack Developer
+665, Mathematics,Skill,,Mean Stack Developer
+666, Network Architecture,Skill,,Mean Stack Developer
+667, Network Security,Skill,,Mean Stack Developer
+668, NoSQL,Skill,,Mean Stack Developer
+669, Operating Systems,Skill,,Mean Stack Developer
+670, Other Web Frameworks,Skill,,Mean Stack Developer
+671, Python Programming,Skill,,Mean Stack Developer
+672, React (web framework),Skill,,Mean Stack Developer
+673, SQL,Skill,,Mean Stack Developer
+674, Security Engineering,Skill,,Mean Stack Developer
+675, Software,Skill,,Mean Stack Developer
+676, Software Architecture,Skill,,Mean Stack Developer
+677, Software As A Service,Skill,,Mean Stack Developer
+678, Software Engineering,Skill,,Mean Stack Developer
+679, Software Framework,Skill,,Mean Stack Developer
+680, Software Testing,Skill,,Mean Stack Developer
+681, Statistical Programming,Skill,,Mean Stack Developer
+682, System Programming,Skill,,Mean Stack Developer
+683, Systems Design,Skill,,Mean Stack Developer
+684, Theoretical Computer Science,Skill,,Mean Stack Developer
+685, Web Design,Skill,,Mean Stack Developer
+686, Web Development,Skill,,Mean Stack Developer
+687, Web Development Tools,Skill,,Mean Stack Developer
+688, Application Development,Skill,,Mean Stack Developer
+689, Authentication,Skill,,Mean Stack Developer
+690, Cloud Computing,Skill,,Mean Stack Developer
+691, Computer Programming,Skill,,Mean Stack Developer
+692, Computer Programming Tools,Skill,,Mean Stack Developer
+693, Databases,Skill,,Mean Stack Developer
+694, Distributed Computing Architecture,Skill,,Mean Stack Developer
+695, Front-End Web Development,Skill,,Mean Stack Developer
+696, Github,Skill,,Mean Stack Developer
+697, Human Computer Interaction,Skill,,Mean Stack Developer
+698, Javascript,Skill,,Mean Stack Developer
+699, Mobile Development,Skill,,Mean Stack Developer
+700, Mongodb,Skill,,Mean Stack Developer
+701, NoSQL,Skill,,Mean Stack Developer
+702, Operating Systems,Skill,,Mean Stack Developer
+703, Programming Principles,Skill,,Mean Stack Developer
+704, React (web framework),Skill,,Mean Stack Developer
+705, Security Engineering,Skill,,Mean Stack Developer
+706, Software Architecture,Skill,,Mean Stack Developer
+707, Software As A Service,Skill,,Mean Stack Developer
+708, Software Engineering,Skill,,Mean Stack Developer
+709, Software Engineering Tools,Skill,,Mean Stack Developer
+710, Software Security,Skill,,Mean Stack Developer
+711, System Security,Skill,,Mean Stack Developer
+712, Theoretical Computer Science,Skill,,Mean Stack Developer
+713, User Experience,Skill,,Mean Stack Developer
+714, Web Design,Skill,,Mean Stack Developer
+715, Web Development,Skill,,Mean Stack Developer
+716, Angular,Skill,,Mean Stack Developer
+717, Application Development,Skill,,Mean Stack Developer
+718, Cloud Computing,Skill,,Mean Stack Developer
+719, Computer Programming,Skill,,Mean Stack Developer
+720, Computer Programming Tools,Skill,,Mean Stack Developer
+721, Databases,Skill,,Mean Stack Developer
+722, Distributed Computing Architecture,Skill,,Mean Stack Developer
+723, Human Computer Interaction,Skill,,Mean Stack Developer
+724, Javascript,Skill,,Mean Stack Developer
+725, Mobile Development,Skill,,Mean Stack Developer
+726, Mongodb,Skill,,Mean Stack Developer
+727, NoSQL,Skill,,Mean Stack Developer
+728, Operating Systems,Skill,,Mean Stack Developer
+729, Other Programming Languages,Skill,,Mean Stack Developer
+730, Programming Principles,Skill,,Mean Stack Developer
+731, Security Engineering,Skill,,Mean Stack Developer
+732, Software Architecture,Skill,,Mean Stack Developer
+733, Software As A Service,Skill,,Mean Stack Developer
+734, Software Engineering,Skill,,Mean Stack Developer
+735, Software Engineering Tools,Skill,,Mean Stack Developer
+736, Software Security,Skill,,Mean Stack Developer
+737, System Security,Skill,,Mean Stack Developer
+738, Theoretical Computer Science,Skill,,Mean Stack Developer
+739, User Experience,Skill,,Mean Stack Developer
+740, Web Design,Skill,,Mean Stack Developer
+741, Web Development,Skill,,Mean Stack Developer
+742,ExpressJS,Skill,,Mean Stack Developer
+743,Node.js,Skill,,Mean Stack Developer
+744,Process Management,Skill,,Operations manager
+745,Operations Management,Skill,,Operations manager
+746,Six Sigma,Skill,,Operations manager
+747,Inventory,Skill,,Operations manager
+748,Organizational Culture,Skill,,Program Manager
+749,Career Development,Skill,,Program Manager
+750,Strategic Thinking,Skill,,Program Manager
+751,Change Management,Skill,,Program Manager
+752,Project Management,Skill,,Program Manager
+753,Stakeholder Management,Skill,,Program Manager
+754,Business Writing,Skill,,Program Manager
+755,Project Charter,Skill,,Program Manager
+756,Project Planning,Skill,,Program Manager
+757,Risk Management,Skill,,Program Manager
+758,Task Estimation,Skill,,Program Manager
+759,Procurement,Skill,,Program Manager
+760,Using Version Control,Skill,,Programmer Analyst
+761,Troubleshooting & Debugging,Skill,,Programmer Analyst
+762,Python Programming,Skill,,Programmer Analyst
+763,Configuration Management,Skill,,Programmer Analyst
+764,Automation,Skill,,Programmer Analyst
+765,Basic Python Data Structures,Skill,,Programmer Analyst
+766,Research and analytic skills,Skill,,Programmer Analyst
+767,Working knowledge of database management tools,Skill,,Programmer Analyst
+768,Excellent problem-solving and critical thinking skills,Skill,,Programmer Analyst
+769,Project management and organisational skills,Skill,,Programmer Analyst
+770,market analysis,Skill,,Programmer Analyst
+771,statistics,Skill,,Programmer Analyst
+772,Organizational Culture,Skill,,Project engineer
+773,Career Development,Skill,,Project engineer
+774,Strategic Thinking,Skill,,Project engineer
+775,Change Management,Skill,,Project engineer
+776,Project Management,Skill,,Project engineer
+777,Stakeholder Management,Skill,,Project engineer
+778, Agile Software Development,Skill,,Project Engineer
+779, Application Development,Skill,,Project Engineer
+780, Budget Management,Skill,,Project Engineer
+781, Business Analysis,Skill,,Project Engineer
+782, Business Process Management,Skill,,Project Engineer
+783, Business Psychology,Skill,,Project Engineer
+784, Change Management,Skill,,Project Engineer
+785, Communication,Skill,,Project Engineer
+786, Culture,Skill,,Project Engineer
+787, Data Analysis,Skill,,Project Engineer
+788, Data Visualization,Skill,,Project Engineer
+789, Design and Product,Skill,,Project Engineer
+790, Entrepreneurship,Skill,,Project Engineer
+791, Finance,Skill,,Project Engineer
+792, Human Resources,Skill,,Project Engineer
+793, Leadership Development,Skill,,Project Engineer
+794, Leadership and Management,Skill,,Project Engineer
+795, Marketing,Skill,,Project Engineer
+796, Operations Management,Skill,,Project Engineer
+797, Operations Research,Skill,,Project Engineer
+798, Organizational Development,Skill,,Project Engineer
+799, Planning,Skill,,Project Engineer
+800, Probability & Statistics,Skill,,Project Engineer
+801, Procurement,Skill,,Project Engineer
+802, Product Design,Skill,,Project Engineer
+803, Project,Skill,,Project Engineer
+804, Public Relations,Skill,,Project Engineer
+805, Research and Design,Skill,,Project Engineer
+806, Risk,Skill,,Project Engineer
+807, Risk Management,Skill,,Project Engineer
+808, Sales,Skill,,Project Engineer
+809, Software,Skill,,Project Engineer
+810, Software Engineering,Skill,,Project Engineer
+811, Software Engineering Tools,Skill,,Project Engineer
+812, Software Testing,Skill,,Project Engineer
+813, Spreadsheet Software,Skill,,Project Engineer
+814, Statistical Tests,Skill,,Project Engineer
+815, Storytelling,Skill,,Project Engineer
+816, Strategy,Skill,,Project Engineer
+817, Strategy and Operations,Skill,,Project Engineer
+818, Supply Chain Systems,Skill,,Project Engineer
+819, Supply Chain and Logistics,Skill,,Project Engineer
+820, User Experience,Skill,,Project Engineer
+821, Vendor Management,Skill,,Project Engineer
+822, Writing,Skill,,Project Engineer
+823, Human Resources,Skill,,Project Engineer
+824, Supply Chain and Logistics,Skill,,Project Engineer
+825, Organizational Development,Skill,,Project Engineer
+826, Software Engineering,Skill,,Project Engineer
+827, Agile Management,Skill,,Project Engineer
+828, Planning,Skill,,Project Engineer
+829, Operations Management,Skill,,Project Engineer
+830, Sales,Skill,,Project Engineer
+831, Strategy and Operations,Skill,,Project Engineer
+832, Culture,Skill,,Project Engineer
+833, Leadership and Management,Skill,,Project Engineer
+834, Business Process Management,Skill,,Project Engineer
+835, Communication,Skill,,Project Engineer
+836, Project Management,Skill,,Project Engineer
+837, Project,Skill,,Project Engineer
+838, Software Engineering Tools,Skill,,Project Engineer
+839, Entrepreneurship,Skill,,Project Engineer
+840, Change Management,Skill,,Project Engineer
+841, Leadership,Skill,,Project Engineer
+842, Organizational Structure,Skill,,Project Engineer
+843, Business Psychology,Skill,,Project Engineer
+844, Budget Management,Skill,,Project Engineer
+845, Change Management,Skill,,Project Engineer
+846, Communication,Skill,,Project Engineer
+847, Conflict Management,Skill,,Project Engineer
+848, Cost,Skill,,Project Engineer
+849, Entrepreneurship,Skill,,Project Engineer
+850, Finance,Skill,,Project Engineer
+851, Human Resources,Skill,,Project Engineer
+852, Leadership and Management,Skill,,Project Engineer
+853, Operations Research,Skill,,Project Engineer
+854, Planning,Skill,,Project Engineer
+855, Probability & Statistics,Skill,,Project Engineer
+856, Project Management,Skill,,Project Engineer
+857, Research and Design,Skill,,Project Engineer
+858, Risk,Skill,,Project Engineer
+859, Risk Management,Skill,,Project Engineer
+860, Schedule,Skill,,Project Engineer
+861, Statistical Tests,Skill,,Project Engineer
+862, Strategy and Operations,Skill,,Project Engineer
+863, Supply Chain and Logistics,Skill,,Project Engineer
+864, Agile Software Development,Skill,,Project Lead
+865, Application Development,Skill,,Project Lead
+866, Budget Management,Skill,,Project Lead
+867, Business Analysis,Skill,,Project Lead
+868, Business Process Management,Skill,,Project Lead
+869, Business Psychology,Skill,,Project Lead
+870, Change Management,Skill,,Project Lead
+871, Communication,Skill,,Project Lead
+872, Culture,Skill,,Project Lead
+873, Data Analysis,Skill,,Project Lead
+874, Data Visualization,Skill,,Project Lead
+875, Design and Product,Skill,,Project Lead
+876, Entrepreneurship,Skill,,Project Lead
+877, Finance,Skill,,Project Lead
+878, Human Resources,Skill,,Project Lead
+879, Leadership Development,Skill,,Project Lead
+880, Leadership and Management,Skill,,Project Lead
+881, Marketing,Skill,,Project Lead
+882, Operations Management,Skill,,Project Lead
+883, Operations Research,Skill,,Project Lead
+884, Organizational Development,Skill,,Project Lead
+885, Planning,Skill,,Project Lead
+886, Probability & Statistics,Skill,,Project Lead
+887, Procurement,Skill,,Project Lead
+888, Product Design,Skill,,Project Lead
+889, Project,Skill,,Project Lead
+890, Project Management,Skill,,Project Lead
+891, Public Relations,Skill,,Project Lead
+892, Research and Design,Skill,,Project Lead
+893, Risk,Skill,,Project Lead
+894, Risk Management,Skill,,Project Lead
+895, Sales,Skill,,Project Lead
+896, Software,Skill,,Project Lead
+897, Software Engineering,Skill,,Project Lead
+898, Software Engineering Tools,Skill,,Project Lead
+899, Software Testing,Skill,,Project Lead
+900, Spreadsheet Software,Skill,,Project Lead
+901, Statistical Tests,Skill,,Project Lead
+902, Storytelling,Skill,,Project Lead
+903, Strategy,Skill,,Project Lead
+904, Strategy and Operations,Skill,,Project Lead
+905, Supply Chain Systems,Skill,,Project Lead
+906, Supply Chain and Logistics,Skill,,Project Lead
+907, User Experience,Skill,,Project Lead
+908, Vendor Management,Skill,,Project Lead
+909, Writing,Skill,,Project Lead
+910, Human Resources,Skill,,Project Lead
+911, Supply Chain and Logistics,Skill,,Project Lead
+912, Organizational Development,Skill,,Project Lead
+913, Software Engineering,Skill,,Project Lead
+914, Agile Management,Skill,,Project Lead
+915, Planning,Skill,,Project Lead
+916, Operations Management,Skill,,Project Lead
+917, Sales,Skill,,Project Lead
+918, Strategy and Operations,Skill,,Project Lead
+919, Culture,Skill,,Project Lead
+920, Leadership and Management,Skill,,Project Lead
+921, Business Process Management,Skill,,Project Lead
+922, Communication,Skill,,Project Lead
+923, Project Management,Skill,,Project Lead
+924, Project,Skill,,Project Lead
+925, Software Engineering Tools,Skill,,Project Lead
+926, Entrepreneurship,Skill,,Project Lead
+927, Change Management,Skill,,Project Lead
+928, Leadership,Skill,,Project Lead
+929, Organizational Structure,Skill,,Project Lead
+930, Business Psychology,Skill,,Project Lead
+931, Budget Management,Skill,,Project Lead
+932, Change Management,Skill,,Project Lead
+933, Communication,Skill,,Project Lead
+934, Conflict Management,Skill,,Project Lead
+935, Cost,Skill,,Project Lead
+936, Entrepreneurship,Skill,,Project Lead
+937, Finance,Skill,,Project Lead
+938, Human Resources,Skill,,Project Lead
+939, Leadership and Management,Skill,,Project Lead
+940, Operations Research,Skill,,Project Lead
+941, Planning,Skill,,Project Lead
+942, Probability & Statistics,Skill,,Project Lead
+943, Project Management,Skill,,Project Lead
+944, Research and Design,Skill,,Project Lead
+945, Risk,Skill,,Project Lead
+946, Risk Management,Skill,,Project Lead
+947, Schedule,Skill,,Project Lead
+948, Statistical Tests,Skill,,Project Lead
+949, Strategy and Operations,Skill,,Project Lead
+950, Supply Chain and Logistics,Skill,,Project Lead
+951, Agile Software Development,Skill,,Project Leader
+952, Application Development,Skill,,Project Leader
+953, Budget Management,Skill,,Project Leader
+954, Business Analysis,Skill,,Project Leader
+955, Business Process Management,Skill,,Project Leader
+956, Business Psychology,Skill,,Project Leader
+957, Change Management,Skill,,Project Leader
+958, Communication,Skill,,Project Leader
+959, Culture,Skill,,Project Leader
+960, Data Analysis,Skill,,Project Leader
+961, Data Visualization,Skill,,Project Leader
+962, Design and Product,Skill,,Project Leader
+963, Entrepreneurship,Skill,,Project Leader
+964, Finance,Skill,,Project Leader
+965, Human Resources,Skill,,Project Leader
+966, Leadership Development,Skill,,Project Leader
+967, Leadership and Management,Skill,,Project Leader
+968, Marketing,Skill,,Project Leader
+969, Operations Management,Skill,,Project Leader
+970, Operations Research,Skill,,Project Leader
+971, Organizational Development,Skill,,Project Leader
+972, Planning,Skill,,Project Leader
+973, Probability & Statistics,Skill,,Project Leader
+974, Procurement,Skill,,Project Leader
+975, Product Design,Skill,,Project Leader
+976, Project,Skill,,Project Leader
+977, Project Management,Skill,,Project Leader
+978, Public Relations,Skill,,Project Leader
+979, Research and Design,Skill,,Project Leader
+980, Risk,Skill,,Project Leader
+981, Risk Management,Skill,,Project Leader
+982, Sales,Skill,,Project Leader
+983, Software,Skill,,Project Leader
+984, Software Engineering,Skill,,Project Leader
+985, Software Engineering Tools,Skill,,Project Leader
+986, Software Testing,Skill,,Project Leader
+987, Spreadsheet Software,Skill,,Project Leader
+988, Statistical Tests,Skill,,Project Leader
+989, Storytelling,Skill,,Project Leader
+990, Strategy,Skill,,Project Leader
+991, Strategy and Operations,Skill,,Project Leader
+992, Supply Chain Systems,Skill,,Project Leader
+993, Supply Chain and Logistics,Skill,,Project Leader
+994, User Experience,Skill,,Project Leader
+995, Vendor Management,Skill,,Project Leader
+996, Writing,Skill,,Project Leader
+997, Human Resources,Skill,,Project Leader
+998, Supply Chain and Logistics,Skill,,Project Leader
+999, Organizational Development,Skill,,Project Leader
+1000, Software Engineering,Skill,,Project Leader
+1001, Agile Management,Skill,,Project Leader
+1002, Planning,Skill,,Project Leader
+1003, Operations Management,Skill,,Project Leader
+1004, Sales,Skill,,Project Leader
+1005, Strategy and Operations,Skill,,Project Leader
+1006, Culture,Skill,,Project Leader
+1007, Leadership and Management,Skill,,Project Leader
+1008, Business Process Management,Skill,,Project Leader
+1009, Communication,Skill,,Project Leader
+1010, Project Management,Skill,,Project Leader
+1011, Project,Skill,,Project Leader
+1012, Software Engineering Tools,Skill,,Project Leader
+1013, Entrepreneurship,Skill,,Project Leader
+1014, Change Management,Skill,,Project Leader
+1015, Leadership,Skill,,Project Leader
+1016, Organizational Structure,Skill,,Project Leader
+1017, Business Psychology,Skill,,Project Leader
+1018, Budget Management,Skill,,Project Leader
+1019, Change Management,Skill,,Project Leader
+1020, Communication,Skill,,Project Leader
+1021, Conflict Management,Skill,,Project Leader
+1022, Cost,Skill,,Project Leader
+1023, Entrepreneurship,Skill,,Project Leader
+1024, Finance,Skill,,Project Leader
+1025, Human Resources,Skill,,Project Leader
+1026, Leadership and Management,Skill,,Project Leader
+1027, Operations Research,Skill,,Project Leader
+1028, Planning,Skill,,Project Leader
+1029, Probability & Statistics,Skill,,Project Leader
+1030, Project Management,Skill,,Project Leader
+1031, Research and Design,Skill,,Project Leader
+1032, Risk,Skill,,Project Leader
+1033, Risk Management,Skill,,Project Leader
+1034, Schedule,Skill,,Project Leader
+1035, Statistical Tests,Skill,,Project Leader
+1036, Strategy and Operations,Skill,,Project Leader
+1037, Supply Chain and Logistics,Skill,,Project Leader
+1038, Agile Software Development,Skill,,Project Leader
+1039, Application Development,Skill,,Project Leader
+1040, Budget Management,Skill,,Project Leader
+1041, Business Analysis,Skill,,Project Leader
+1042, Business Process Management,Skill,,Project Leader
+1043, Business Psychology,Skill,,Project Leader
+1044, Change Management,Skill,,Project Leader
+1045, Communication,Skill,,Project Leader
+1046, Culture,Skill,,Project Leader
+1047, Data Analysis,Skill,,Project Leader
+1048, Data Visualization,Skill,,Project Leader
+1049, Design and Product,Skill,,Project Leader
+1050, Entrepreneurship,Skill,,Project Leader
+1051, Finance,Skill,,Project Leader
+1052, Human Resources,Skill,,Project Leader
+1053, Leadership Development,Skill,,Project Leader
+1054, Leadership and Management,Skill,,Project Leader
+1055, Marketing,Skill,,Project Leader
+1056, Operations Management,Skill,,Project Leader
+1057, Operations Research,Skill,,Project Leader
+1058, Organizational Development,Skill,,Project Leader
+1059, Planning,Skill,,Project Leader
+1060, Probability & Statistics,Skill,,Project Leader
+1061, Procurement,Skill,,Project Leader
+1062, Product Design,Skill,,Project Leader
+1063, Project,Skill,,Project Leader
+1064, Project Management,Skill,,Project Leader
+1065, Public Relations,Skill,,Project Leader
+1066, Research and Design,Skill,,Project Leader
+1067, Risk,Skill,,Project Leader
+1068, Risk Management,Skill,,Project Leader
+1069, Sales,Skill,,Project Leader
+1070, Software,Skill,,Project Leader
+1071, Software Engineering,Skill,,Project Leader
+1072, Software Engineering Tools,Skill,,Project Leader
+1073, Software Testing,Skill,,Project Leader
+1074, Spreadsheet Software,Skill,,Project Leader
+1075, Statistical Tests,Skill,,Project Leader
+1076, Storytelling,Skill,,Project Leader
+1077, Strategy,Skill,,Project Leader
+1078, Strategy and Operations,Skill,,Project Leader
+1079, Supply Chain Systems,Skill,,Project Leader
+1080, Supply Chain and Logistics,Skill,,Project Leader
+1081, User Experience,Skill,,Project Leader
+1082, Vendor Management,Skill,,Project Leader
+1083, Writing,Skill,,Project Leader
+1084, Human Resources,Skill,,Project Leader
+1085, Supply Chain and Logistics,Skill,,Project Leader
+1086, Organizational Development,Skill,,Project Leader
+1087, Software Engineering,Skill,,Project Leader
+1088, Agile Management,Skill,,Project Leader
+1089, Planning,Skill,,Project Leader
+1090, Operations Management,Skill,,Project Leader
+1091, Sales,Skill,,Project Leader
+1092, Strategy and Operations,Skill,,Project Leader
+1093, Culture,Skill,,Project Leader
+1094, Leadership and Management,Skill,,Project Leader
+1095, Business Process Management,Skill,,Project Leader
+1096, Communication,Skill,,Project Leader
+1097, Project Management,Skill,,Project Leader
+1098, Project,Skill,,Project Leader
+1099, Software Engineering Tools,Skill,,Project Leader
+1100, Entrepreneurship,Skill,,Project Leader
+1101, Change Management,Skill,,Project Leader
+1102, Leadership,Skill,,Project Leader
+1103, Organizational Structure,Skill,,Project Leader
+1104, Business Psychology,Skill,,Project Leader
+1105, Budget Management,Skill,,Project Leader
+1106, Change Management,Skill,,Project Leader
+1107, Communication,Skill,,Project Leader
+1108, Conflict Management,Skill,,Project Leader
+1109, Cost,Skill,,Project Leader
+1110, Entrepreneurship,Skill,,Project Leader
+1111, Finance,Skill,,Project Leader
+1112, Human Resources,Skill,,Project Leader
+1113, Leadership and Management,Skill,,Project Leader
+1114, Operations Research,Skill,,Project Leader
+1115, Planning,Skill,,Project Leader
+1116, Probability & Statistics,Skill,,Project Leader
+1117, Project Management,Skill,,Project Leader
+1118, Research and Design,Skill,,Project Leader
+1119, Risk,Skill,,Project Leader
+1120, Risk Management,Skill,,Project Leader
+1121, Schedule,Skill,,Project Leader
+1122, Statistical Tests,Skill,,Project Leader
+1123, Strategy and Operations,Skill,,Project Leader
+1124, Supply Chain and Logistics,Skill,,Project Leader
+1125,Organizational Culture,Skill,,Project Manager
+1126,Career Development,Skill,,Project Manager
+1127,Strategic Thinking,Skill,,Project Manager
+1128,Change Management,Skill,,Project Manager
+1129,Project Management,Skill,,Project Manager
+1130,Stakeholder Management,Skill,,Project Manager
+1131,Business Writing,Skill,,Project Manager
+1132,Project Charter,Skill,,Project Manager
+1133,Project Planning,Skill,,Project Manager
+1134,Risk Management,Skill,,Project Manager
+1135,Task Estimation,Skill,,Project Manager
+1136,Procurement,Skill,,Project Manager
+1137, Communication,Skill,,QA
+1138, Computer Programming,Skill,,QA
+1139, Computer Programming Tools,Skill,,QA
+1140, Java Programming,Skill,,QA
+1141, Journalism,Skill,,QA
+1142, Mobile Development,Skill,,QA
+1143, Programming Principles,Skill,,QA
+1144, Software,Skill,,QA
+1145, Software Engineering,Skill,,QA
+1146, Software Testing,Skill,,QA
+1147, Unit Testing,Skill,,QA
+1148, .Properties,Skill,,QA
+1149, Communication,Skill,,QA
+1150, Computer Programming,Skill,,QA
+1151, Computer Programming Tools,Skill,,QA
+1152, Java Programming,Skill,,QA
+1153, Journalism,Skill,,QA
+1154, Mobile Development,Skill,,QA
+1155, Programming Principles,Skill,,QA
+1156, Software,Skill,,QA
+1157, Software Engineering,Skill,,QA
+1158, Software Testing,Skill,,QA
+1159, Unit Testing,Skill,,QA
+1160, Analysis,Skill,,QA
+1161, Business Analysis,Skill,,QA
+1162, Business Psychology,Skill,,QA
+1163, Correlation And Dependence,Skill,,QA
+1164, Data Analysis,Skill,,QA
+1165, Entrepreneurship,Skill,,QA
+1166, Estimation,Skill,,QA
+1167, General Statistics,Skill,,QA
+1168, Leadership and Management,Skill,,QA
+1169, Mathematics,Skill,,QA
+1170, Measurement,Skill,,QA
+1171, Organizational Development,Skill,,QA
+1172, Probability,Skill,,QA
+1173, Probability & Statistics,Skill,,QA
+1174, Process,Skill,,QA
+1175, Project,Skill,,QA
+1176, Project Management,Skill,,QA
+1177, Regression,Skill,,QA
+1178, Software Engineering,Skill,,QA
+1179, Software Testing,Skill,,QA
+1180, Statistical Analysis,Skill,,QA
+1181, Strategy and Operations,Skill,,QA
+1182, Trigonometric Integral,Skill,,QA
+1183,Spreadsheet,Skill,,Report analyst
+1184,Data Cleansing,Skill,,Report analyst
+1185,Data Analysis,Skill,,Report analyst
+1186,Data Visualization (DataViz),Skill,,Report analyst
+1187,SQL,Skill,,Report analyst
+1188,Questioning,Skill,,Report analyst
+1189,Decision-Making,Skill,,Report analyst
+1190,Problem Solving,Skill,,Report analyst
+1191,Metadata,Skill,,Report analyst
+1192, Business Analysis,Skill,,Senior Analyst
+1193, Strategy and Operations,Skill,,Senior Analyst
+1194, Entrepreneurship,Skill,,Senior Analyst
+1195, Business Process Management,Skill,,Senior Analyst
+1196, Analysis,Skill,,Senior Analyst
+1197, Process,Skill,,Senior Analyst
+1198, Business Process,Skill,,Senior Analyst
+1199, Process Analysis,Skill,,Senior Analyst
+1200, Algorithms,Skill,,Senior Analyst
+1201, Application Development,Skill,,Senior Analyst
+1202, Bias,Skill,,Senior Analyst
+1203, Big Data,Skill,,Senior Analyst
+1204, Budget Management,Skill,,Senior Analyst
+1205, Business Analysis,Skill,,Senior Analyst
+1206, Business Communication,Skill,,Senior Analyst
+1207, Change Management,Skill,,Senior Analyst
+1208, Cloud Computing,Skill,,Senior Analyst
+1209, Communication,Skill,,Senior Analyst
+1210, Computational Logic,Skill,,Senior Analyst
+1211, Computer Architecture,Skill,,Senior Analyst
+1212, Computer Networking,Skill,,Senior Analyst
+1213, Computer Programming,Skill,,Senior Analyst
+1214, Computer Programming Tools,Skill,,Senior Analyst
+1215, Cryptography,Skill,,Senior Analyst
+1216, Data Analysis,Skill,,Senior Analyst
+1217, Data Analysis Software,Skill,,Senior Analyst
+1218, Data Management,Skill,,Senior Analyst
+1219, Data Mining,Skill,,Senior Analyst
+1220, Data Model,Skill,,Senior Analyst
+1221, Data Structures,Skill,,Senior Analyst
+1222, Data Visualization,Skill,,Senior Analyst
+1223, Data Visualization Software,Skill,,Senior Analyst
+1224, Database Administration,Skill,,Senior Analyst
+1225, Database Design,Skill,,Senior Analyst
+1226, Databases,Skill,,Senior Analyst
+1227, Decision Making,Skill,,Senior Analyst
+1228, Design and Product,Skill,,Senior Analyst
+1229, Distributed Computing Architecture,Skill,,Senior Analyst
+1230, Entrepreneurship,Skill,,Senior Analyst
+1231, Extract,Skill,,Senior Analyst
+1232, Transform,Skill,,Senior Analyst
+1233, Load,Skill,,Senior Analyst
+1234, Feature Engineering,Skill,,Senior Analyst
+1235, Finance,Skill,,Senior Analyst
+1236, Financial Analysis,Skill,,Senior Analyst
+1237, Full-Stack Web Development,Skill,,Senior Analyst
+1238, General Statistics,Skill,,Senior Analyst
+1239, Interactive Data Visualization,Skill,,Senior Analyst
+1240, Leadership and Management,Skill,,Senior Analyst
+1241, Machine Learning,Skill,,Senior Analyst
+1242, Mathematical Theory & Analysis,Skill,,Senior Analyst
+1243, Mathematics,Skill,,Senior Analyst
+1244, Network Security,Skill,,Senior Analyst
+1245, Other Programming Languages,Skill,,Senior Analyst
+1246, Plot (Graphics),Skill,,Senior Analyst
+1247, Privacy,Skill,,Senior Analyst
+1248, Probability & Statistics,Skill,,Senior Analyst
+1249, Problem Solving,Skill,,Senior Analyst
+1250, Product Design,Skill,,Senior Analyst
+1251, Programming Principles,Skill,,Senior Analyst
+1252, Project Management,Skill,,Senior Analyst
+1253, R Programming,Skill,,Senior Analyst
+1254, Research and Design,Skill,,Senior Analyst
+1255, SQL,Skill,,Senior Analyst
+1256, Security,Skill,,Senior Analyst
+1257, Security Engineering,Skill,,Senior Analyst
+1258, Security Strategy,Skill,,Senior Analyst
+1259, Small Data,Skill,,Senior Analyst
+1260, Software Engineering,Skill,,Senior Analyst
+1261, Software Security,Skill,,Senior Analyst
+1262, Spreadsheet Software,Skill,,Senior Analyst
+1263, Statistical Analysis,Skill,,Senior Analyst
+1264, Statistical Programming,Skill,,Senior Analyst
+1265, Storytelling,Skill,,Senior Analyst
+1266, Strategy and Operations,Skill,,Senior Analyst
+1267, Theoretical Computer Science,Skill,,Senior Analyst
+1268, Visual Design,Skill,,Senior Analyst
+1269, Web Development,Skill,,Senior Analyst
+1270, Accounting,Skill,,Senior Analyst
+1271, Analysis,Skill,,Senior Analyst
+1272, Big Data,Skill,,Senior Analyst
+1273, Business Analysis,Skill,,Senior Analyst
+1274, Business Analytics,Skill,,Senior Analyst
+1275, Business Psychology,Skill,,Senior Analyst
+1276, Collaboration,Skill,,Senior Analyst
+1277, Communication,Skill,,Senior Analyst
+1278, Computational Logic,Skill,,Senior Analyst
+1279, Computer Programming,Skill,,Senior Analyst
+1280, Computer Programming Tools,Skill,,Senior Analyst
+1281, Customer Analysis,Skill,,Senior Analyst
+1282, Data Analysis,Skill,,Senior Analyst
+1283, Data Analysis Software,Skill,,Senior Analyst
+1284, Data Management,Skill,,Senior Analyst
+1285, Data Structures,Skill,,Senior Analyst
+1286, Decision Making,Skill,,Senior Analyst
+1287, Entrepreneurship,Skill,,Senior Analyst
+1288, Financial Accounting,Skill,,Senior Analyst
+1289, Financial Analysis,Skill,,Senior Analyst
+1290, Forecasting,Skill,,Senior Analyst
+1291, General Statistics,Skill,,Senior Analyst
+1292, Human Resources,Skill,,Senior Analyst
+1293, Leadership and Management,Skill,,Senior Analyst
+1294, Marketing,Skill,,Senior Analyst
+1295, Mathematical Theory & Analysis,Skill,,Senior Analyst
+1296, Mathematics,Skill,,Senior Analyst
+1297, Microsoft Excel,Skill,,Senior Analyst
+1298, Network Analysis,Skill,,Senior Analyst
+1299, People Analysis,Skill,,Senior Analyst
+1300, People Development,Skill,,Senior Analyst
+1301, Performance,Skill,,Senior Analyst
+1302, Performance Management,Skill,,Senior Analyst
+1303, Predictive Analytics,Skill,,Senior Analyst
+1304, Probability & Statistics,Skill,,Senior Analyst
+1305, Regression,Skill,,Senior Analyst
+1306, Regression Analysis,Skill,,Senior Analyst
+1307, Sales,Skill,,Senior Analyst
+1308, Spreadsheet Software,Skill,,Senior Analyst
+1309, Statistical Analysis,Skill,,Senior Analyst
+1310, Strategy,Skill,,Senior Analyst
+1311, Strategy and Operations,Skill,,Senior Analyst
+1312, Talent Management,Skill,,Senior Analyst
+1313, Theoretical Computer Science,Skill,,Senior Analyst
+1314, Business Analysis,Skill,,Senior Analyst
+1315, Strategy and Operations,Skill,,Senior Analyst
+1316, Entrepreneurship,Skill,,Senior Analyst
+1317, Business Process Management,Skill,,Senior Analyst
+1318, Analysis,Skill,,Senior Analyst
+1319, Process,Skill,,Senior Analyst
+1320, Business Process,Skill,,Senior Analyst
+1321, Process Analysis,Skill,,Senior Analyst
+1322, Algorithms,Skill,,Senior Analyst
+1323, Application Development,Skill,,Senior Analyst
+1324, Bias,Skill,,Senior Analyst
+1325, Big Data,Skill,,Senior Analyst
+1326, Budget Management,Skill,,Senior Analyst
+1327, Business Analysis,Skill,,Senior Analyst
+1328, Business Communication,Skill,,Senior Analyst
+1329, Change Management,Skill,,Senior Analyst
+1330, Cloud Computing,Skill,,Senior Analyst
+1331, Communication,Skill,,Senior Analyst
+1332, Computational Logic,Skill,,Senior Analyst
+1333, Computer Architecture,Skill,,Senior Analyst
+1334, Computer Networking,Skill,,Senior Analyst
+1335, Computer Programming,Skill,,Senior Analyst
+1336, Computer Programming Tools,Skill,,Senior Analyst
+1337, Cryptography,Skill,,Senior Analyst
+1338, Data Analysis,Skill,,Senior Analyst
+1339, Data Analysis Software,Skill,,Senior Analyst
+1340, Data Management,Skill,,Senior Analyst
+1341, Data Mining,Skill,,Senior Analyst
+1342, Data Model,Skill,,Senior Analyst
+1343, Data Structures,Skill,,Senior Analyst
+1344, Data Visualization,Skill,,Senior Analyst
+1345, Data Visualization Software,Skill,,Senior Analyst
+1346, Database Administration,Skill,,Senior Analyst
+1347, Database Design,Skill,,Senior Analyst
+1348, Databases,Skill,,Senior Analyst
+1349, Decision Making,Skill,,Senior Analyst
+1350, Design and Product,Skill,,Senior Analyst
+1351, Distributed Computing Architecture,Skill,,Senior Analyst
+1352, Entrepreneurship,Skill,,Senior Analyst
+1353, Extract,Skill,,Senior Analyst
+1354, Transform,Skill,,Senior Analyst
+1355, Load,Skill,,Senior Analyst
+1356, Feature Engineering,Skill,,Senior Analyst
+1357, Finance,Skill,,Senior Analyst
+1358, Financial Analysis,Skill,,Senior Analyst
+1359, Full-Stack Web Development,Skill,,Senior Analyst
+1360, General Statistics,Skill,,Senior Analyst
+1361, Interactive Data Visualization,Skill,,Senior Analyst
+1362, Leadership and Management,Skill,,Senior Analyst
+1363, Machine Learning,Skill,,Senior Analyst
+1364, Mathematical Theory & Analysis,Skill,,Senior Analyst
+1365, Mathematics,Skill,,Senior Analyst
+1366, Network Security,Skill,,Senior Analyst
+1367, Other Programming Languages,Skill,,Senior Analyst
+1368, Plot (Graphics),Skill,,Senior Analyst
+1369, Privacy,Skill,,Senior Analyst
+1370, Probability & Statistics,Skill,,Senior Analyst
+1371, Problem Solving,Skill,,Senior Analyst
+1372, Product Design,Skill,,Senior Analyst
+1373, Programming Principles,Skill,,Senior Analyst
+1374, Project Management,Skill,,Senior Analyst
+1375, R Programming,Skill,,Senior Analyst
+1376, Research and Design,Skill,,Senior Analyst
+1377, SQL,Skill,,Senior Analyst
+1378, Security,Skill,,Senior Analyst
+1379, Security Engineering,Skill,,Senior Analyst
+1380, Security Strategy,Skill,,Senior Analyst
+1381, Small Data,Skill,,Senior Analyst
+1382, Software Engineering,Skill,,Senior Analyst
+1383, Software Security,Skill,,Senior Analyst
+1384, Spreadsheet Software,Skill,,Senior Analyst
+1385, Statistical Analysis,Skill,,Senior Analyst
+1386, Statistical Programming,Skill,,Senior Analyst
+1387, Storytelling,Skill,,Senior Analyst
+1388, Strategy and Operations,Skill,,Senior Analyst
+1389, Theoretical Computer Science,Skill,,Senior Analyst
+1390, Visual Design,Skill,,Senior Analyst
+1391, Web Development,Skill,,Senior Analyst
+1392, Accounting,Skill,,Senior Analyst
+1393, Analysis,Skill,,Senior Analyst
+1394, Big Data,Skill,,Senior Analyst
+1395, Business Analysis,Skill,,Senior Analyst
+1396, Business Analytics,Skill,,Senior Analyst
+1397, Business Psychology,Skill,,Senior Analyst
+1398, Collaboration,Skill,,Senior Analyst
+1399, Communication,Skill,,Senior Analyst
+1400, Computational Logic,Skill,,Senior Analyst
+1401, Computer Programming,Skill,,Senior Analyst
+1402, Computer Programming Tools,Skill,,Senior Analyst
+1403, Customer Analysis,Skill,,Senior Analyst
+1404, Data Analysis,Skill,,Senior Analyst
+1405, Data Analysis Software,Skill,,Senior Analyst
+1406, Data Management,Skill,,Senior Analyst
+1407, Data Structures,Skill,,Senior Analyst
+1408, Decision Making,Skill,,Senior Analyst
+1409, Entrepreneurship,Skill,,Senior Analyst
+1410, Financial Accounting,Skill,,Senior Analyst
+1411, Financial Analysis,Skill,,Senior Analyst
+1412, Forecasting,Skill,,Senior Analyst
+1413, General Statistics,Skill,,Senior Analyst
+1414, Human Resources,Skill,,Senior Analyst
+1415, Leadership and Management,Skill,,Senior Analyst
+1416, Marketing,Skill,,Senior Analyst
+1417, Mathematical Theory & Analysis,Skill,,Senior Analyst
+1418, Mathematics,Skill,,Senior Analyst
+1419, Microsoft Excel,Skill,,Senior Analyst
+1420, Network Analysis,Skill,,Senior Analyst
+1421, People Analysis,Skill,,Senior Analyst
+1422, People Development,Skill,,Senior Analyst
+1423, Performance,Skill,,Senior Analyst
+1424, Performance Management,Skill,,Senior Analyst
+1425, Predictive Analytics,Skill,,Senior Analyst
+1426, Probability & Statistics,Skill,,Senior Analyst
+1427, Regression,Skill,,Senior Analyst
+1428, Regression Analysis,Skill,,Senior Analyst
+1429, Sales,Skill,,Senior Analyst
+1430, Spreadsheet Software,Skill,,Senior Analyst
+1431, Statistical Analysis,Skill,,Senior Analyst
+1432, Strategy,Skill,,Senior Analyst
+1433, Strategy and Operations,Skill,,Senior Analyst
+1434, Talent Management,Skill,,Senior Analyst
+1435, Theoretical Computer Science,Skill,,Senior Analyst
+1436, Agile Software Development,Skill,,Senior Software Eng
+1437, Algorithms,Skill,,Senior Software Eng
+1438, Application Development,Skill,,Senior Software Eng
+1439, BlockChain,Skill,,Senior Software Eng
+1440, Cloud Computing,Skill,,Senior Software Eng
+1441, Cloud Infrastructure,Skill,,Senior Software Eng
+1442, Cloud Platforms,Skill,,Senior Software Eng
+1443, Cloud Storage,Skill,,Senior Software Eng
+1444, Collaboration,Skill,,Senior Software Eng
+1445, Communication,Skill,,Senior Software Eng
+1446, Computational Logic,Skill,,Senior Software Eng
+1447, Computer Architecture,Skill,,Senior Software Eng
+1448, Computer Graphics,Skill,,Senior Software Eng
+1449, Computer Networking,Skill,,Senior Software Eng
+1450, Computer Programming,Skill,,Senior Software Eng
+1451, Computer Programming Tools,Skill,,Senior Software Eng
+1452, Continuous Delivery,Skill,,Senior Software Eng
+1453, Continuous Integration,Skill,,Senior Software Eng
+1454, Data Management,Skill,,Senior Software Eng
+1455, Design and Product,Skill,,Senior Software Eng
+1456, DevOps,Skill,,Senior Software Eng
+1457, Distributed Computing Architecture,Skill,,Senior Software Eng
+1458, Entrepreneurship,Skill,,Senior Software Eng
+1459, Extract,Skill,,Senior Software Eng
+1460, Transform,Skill,,Senior Software Eng
+1461, Load,Skill,,Senior Software Eng
+1462, Finance,Skill,,Senior Software Eng
+1463, Full-Stack Web Development,Skill,,Senior Software Eng
+1464, Human Computer Interaction,Skill,,Senior Software Eng
+1465, IBM Cloud,Skill,,Senior Software Eng
+1466, Interactive Design,Skill,,Senior Software Eng
+1467, Journalism,Skill,,Senior Software Eng
+1468, Kubernetes,Skill,,Senior Software Eng
+1469, Leadership and Management,Skill,,Senior Software Eng
+1470, Mathematical Theory & Analysis,Skill,,Senior Software Eng
+1471, Mathematics,Skill,,Senior Software Eng
+1472, Network Architecture,Skill,,Senior Software Eng
+1473, Network Security,Skill,,Senior Software Eng
+1474, Operating Systems,Skill,,Senior Software Eng
+1475, Planning,Skill,,Senior Software Eng
+1476, Product Design,Skill,,Senior Software Eng
+1477, Product Development,Skill,,Senior Software Eng
+1478, Programming Principles,Skill,,Senior Software Eng
+1479, Project Management,Skill,,Senior Software Eng
+1480, Python Programming,Skill,,Senior Software Eng
+1481, Security Engineering,Skill,,Senior Software Eng
+1482, Software Architecture,Skill,,Senior Software Eng
+1483, Software As A Service,Skill,,Senior Software Eng
+1484, Software Engineering,Skill,,Senior Software Eng
+1485, Software Engineering Tools,Skill,,Senior Software Eng
+1486, Software Framework,Skill,,Senior Software Eng
+1487, Software Testing,Skill,,Senior Software Eng
+1488, Statistical Programming,Skill,,Senior Software Eng
+1489, Strategy and Operations,Skill,,Senior Software Eng
+1490, Supply Chain and Logistics,Skill,,Senior Software Eng
+1491, System Programming,Skill,,Senior Software Eng
+1492, Systems Design,Skill,,Senior Software Eng
+1493, Theoretical Computer Science,Skill,,Senior Software Eng
+1494, Web Development,Skill,,Senior Software Eng
+1495, Algorithms,Skill,,Senior Software Eng
+1496, Application Development,Skill,,Senior Software Eng
+1497, Communication,Skill,,Senior Software Eng
+1498, Computational Logic,Skill,,Senior Software Eng
+1499, Computer Architecture,Skill,,Senior Software Eng
+1500, Computer Programming,Skill,,Senior Software Eng
+1501, Computer Programming Tools,Skill,,Senior Software Eng
+1502, Data Management,Skill,,Senior Software Eng
+1503, Data Structures,Skill,,Senior Software Eng
+1504, Front-End Web Development,Skill,,Senior Software Eng
+1505, HTML and CSS,Skill,,Senior Software Eng
+1506, Hardware Design,Skill,,Senior Software Eng
+1507, Human Computer Interaction,Skill,,Senior Software Eng
+1508, Javascript,Skill,,Senior Software Eng
+1509, Journalism,Skill,,Senior Software Eng
+1510, Mathematical Theory & Analysis,Skill,,Senior Software Eng
+1511, Mathematics,Skill,,Senior Software Eng
+1512, Mobile Development,Skill,,Senior Software Eng
+1513, Mobile Development Tools,Skill,,Senior Software Eng
+1514, Operations Research,Skill,,Senior Software Eng
+1515, Other Web Frameworks,Skill,,Senior Software Eng
+1516, Programming Principles,Skill,,Senior Software Eng
+1517, React (web framework),Skill,,Senior Software Eng
+1518, Research and Design,Skill,,Senior Software Eng
+1519, Software Architecture,Skill,,Senior Software Eng
+1520, Software Engineering,Skill,,Senior Software Eng
+1521, Software Engineering Tools,Skill,,Senior Software Eng
+1522, Software Testing,Skill,,Senior Software Eng
+1523, Strategy and Operations,Skill,,Senior Software Eng
+1524, Theoretical Computer Science,Skill,,Senior Software Eng
+1525, User Experience,Skill,,Senior Software Eng
+1526, Web Design,Skill,,Senior Software Eng
+1527, Web Development,Skill,,Senior Software Eng
+1528, Application Development,Skill,,Senior Software Eng
+1529, Back-End Web Development,Skill,,Senior Software Eng
+1530, BlockChain,Skill,,Senior Software Eng
+1531, Cloud Applications,Skill,,Senior Software Eng
+1532, Cloud Computing,Skill,,Senior Software Eng
+1533, Cloud Foundry,Skill,,Senior Software Eng
+1534, Cloud Infrastructure,Skill,,Senior Software Eng
+1535, Cloud Platforms,Skill,,Senior Software Eng
+1536, Cloud Storage,Skill,,Senior Software Eng
+1537, Computational Logic,Skill,,Senior Software Eng
+1538, Computer Architecture,Skill,,Senior Software Eng
+1539, Computer Graphics,Skill,,Senior Software Eng
+1540, Computer Networking,Skill,,Senior Software Eng
+1541, Computer Programming,Skill,,Senior Software Eng
+1542, Computer Programming Tools,Skill,,Senior Software Eng
+1543, Continuous Delivery,Skill,,Senior Software Eng
+1544, Continuous Integration,Skill,,Senior Software Eng
+1545, Data Management,Skill,,Senior Software Eng
+1546, Database Administration,Skill,,Senior Software Eng
+1547, Database Application,Skill,,Senior Software Eng
+1548, Database Design,Skill,,Senior Software Eng
+1549, Databases,Skill,,Senior Software Eng
+1550, DevOps,Skill,,Senior Software Eng
+1551, Devops Tools,Skill,,Senior Software Eng
+1552, Distributed Computing Architecture,Skill,,Senior Software Eng
+1553, Extract,Skill,,Senior Software Eng
+1554, Transform,Skill,,Senior Software Eng
+1555, Load,Skill,,Senior Software Eng
+1556, Finance,Skill,,Senior Software Eng
+1557, Front-End Web Development,Skill,,Senior Software Eng
+1558, Full-Stack Web Development,Skill,,Senior Software Eng
+1559, Github,Skill,,Senior Software Eng
+1560, HTML and CSS,Skill,,Senior Software Eng
+1561, Human Computer Interaction,Skill,,Senior Software Eng
+1562, IBM Cloud,Skill,,Senior Software Eng
+1563, Interactive Design,Skill,,Senior Software Eng
+1564, Javascript,Skill,,Senior Software Eng
+1565, Kubernetes,Skill,,Senior Software Eng
+1566, Mathematical Theory & Analysis,Skill,,Senior Software Eng
+1567, Mathematics,Skill,,Senior Software Eng
+1568, Network Architecture,Skill,,Senior Software Eng
+1569, Network Security,Skill,,Senior Software Eng
+1570, NoSQL,Skill,,Senior Software Eng
+1571, Operating Systems,Skill,,Senior Software Eng
+1572, Other Web Frameworks,Skill,,Senior Software Eng
+1573, Python Programming,Skill,,Senior Software Eng
+1574, React (web framework),Skill,,Senior Software Eng
+1575, SQL,Skill,,Senior Software Eng
+1576, Security Engineering,Skill,,Senior Software Eng
+1577, Software,Skill,,Senior Software Eng
+1578, Software Architecture,Skill,,Senior Software Eng
+1579, Software As A Service,Skill,,Senior Software Eng
+1580, Software Engineering,Skill,,Senior Software Eng
+1581, Software Framework,Skill,,Senior Software Eng
+1582, Software Testing,Skill,,Senior Software Eng
+1583, Statistical Programming,Skill,,Senior Software Eng
+1584, System Programming,Skill,,Senior Software Eng
+1585, Systems Design,Skill,,Senior Software Eng
+1586, Theoretical Computer Science,Skill,,Senior Software Eng
+1587, Web Design,Skill,,Senior Software Eng
+1588, Web Development,Skill,,Senior Software Eng
+1589, Web Development Tools,Skill,,Senior Software Eng
+1590, Agile Software Development,Skill,,Senior Software Engineer
+1591, Algorithms,Skill,,Senior Software Engineer
+1592, Application Development,Skill,,Senior Software Engineer
+1593, BlockChain,Skill,,Senior Software Engineer
+1594, Cloud Computing,Skill,,Senior Software Engineer
+1595, Cloud Infrastructure,Skill,,Senior Software Engineer
+1596, Cloud Platforms,Skill,,Senior Software Engineer
+1597, Cloud Storage,Skill,,Senior Software Engineer
+1598, Collaboration,Skill,,Senior Software Engineer
+1599, Communication,Skill,,Senior Software Engineer
+1600, Computational Logic,Skill,,Senior Software Engineer
+1601, Computer Architecture,Skill,,Senior Software Engineer
+1602, Computer Graphics,Skill,,Senior Software Engineer
+1603, Computer Networking,Skill,,Senior Software Engineer
+1604, Computer Programming,Skill,,Senior Software Engineer
+1605, Computer Programming Tools,Skill,,Senior Software Engineer
+1606, Continuous Delivery,Skill,,Senior Software Engineer
+1607, Continuous Integration,Skill,,Senior Software Engineer
+1608, Data Management,Skill,,Senior Software Engineer
+1609, Design and Product,Skill,,Senior Software Engineer
+1610, DevOps,Skill,,Senior Software Engineer
+1611, Distributed Computing Architecture,Skill,,Senior Software Engineer
+1612, Entrepreneurship,Skill,,Senior Software Engineer
+1613, Extract,Skill,,Senior Software Engineer
+1614, Transform,Skill,,Senior Software Engineer
+1615, Load,Skill,,Senior Software Engineer
+1616, Finance,Skill,,Senior Software Engineer
+1617, Full-Stack Web Development,Skill,,Senior Software Engineer
+1618, Human Computer Interaction,Skill,,Senior Software Engineer
+1619, IBM Cloud,Skill,,Senior Software Engineer
+1620, Interactive Design,Skill,,Senior Software Engineer
+1621, Journalism,Skill,,Senior Software Engineer
+1622, Kubernetes,Skill,,Senior Software Engineer
+1623, Leadership and Management,Skill,,Senior Software Engineer
+1624, Mathematical Theory & Analysis,Skill,,Senior Software Engineer
+1625, Mathematics,Skill,,Senior Software Engineer
+1626, Network Architecture,Skill,,Senior Software Engineer
+1627, Network Security,Skill,,Senior Software Engineer
+1628, Operating Systems,Skill,,Senior Software Engineer
+1629, Planning,Skill,,Senior Software Engineer
+1630, Product Design,Skill,,Senior Software Engineer
+1631, Product Development,Skill,,Senior Software Engineer
+1632, Programming Principles,Skill,,Senior Software Engineer
+1633, Project Management,Skill,,Senior Software Engineer
+1634, Python Programming,Skill,,Senior Software Engineer
+1635, Security Engineering,Skill,,Senior Software Engineer
+1636, Software Architecture,Skill,,Senior Software Engineer
+1637, Software As A Service,Skill,,Senior Software Engineer
+1638, Software Engineering,Skill,,Senior Software Engineer
+1639, Software Engineering Tools,Skill,,Senior Software Engineer
+1640, Software Framework,Skill,,Senior Software Engineer
+1641, Software Testing,Skill,,Senior Software Engineer
+1642, Statistical Programming,Skill,,Senior Software Engineer
+1643, Strategy and Operations,Skill,,Senior Software Engineer
+1644, Supply Chain and Logistics,Skill,,Senior Software Engineer
+1645, System Programming,Skill,,Senior Software Engineer
+1646, Systems Design,Skill,,Senior Software Engineer
+1647, Theoretical Computer Science,Skill,,Senior Software Engineer
+1648, Web Development,Skill,,Senior Software Engineer
+1649, Data Structures and Algorithms,Skill,,Senior Software Engineer
+1650, Application Development,Skill,,Senior Software Engineer
+1651, Communication,Skill,,Senior Software Engineer
+1652, Computational Logic,Skill,,Senior Software Engineer
+1653, Computer Architecture,Skill,,Senior Software Engineer
+1654, Computer Programming,Skill,,Senior Software Engineer
+1655, Computer Programming Tools,Skill,,Senior Software Engineer
+1656, Data Management,Skill,,Senior Software Engineer
+1657, Data Structures,Skill,,Senior Software Engineer
+1658, Front-End Web Development,Skill,,Senior Software Engineer
+1659, HTML and CSS,Skill,,Senior Software Engineer
+1660, Hardware Design,Skill,,Senior Software Engineer
+1661, Human Computer Interaction,Skill,,Senior Software Engineer
+1662, Javascript,Skill,,Senior Software Engineer
+1663, Journalism,Skill,,Senior Software Engineer
+1664, Mathematical Theory & Analysis,Skill,,Senior Software Engineer
+1665, Mathematics,Skill,,Senior Software Engineer
+1666, Mobile Development,Skill,,Senior Software Engineer
+1667, Mobile Development Tools,Skill,,Senior Software Engineer
+1668, Operations Research,Skill,,Senior Software Engineer
+1669, Other Web Frameworks,Skill,,Senior Software Engineer
+1670, Programming Principles,Skill,,Senior Software Engineer
+1671, React (web framework),Skill,,Senior Software Engineer
+1672, Research and Design,Skill,,Senior Software Engineer
+1673, Software Architecture,Skill,,Senior Software Engineer
+1674, Time management,Skill,,Senior Software Engineer
+1675, Software Engineering Tools,Skill,,Senior Software Engineer
+1676, Software Testing,Skill,,Senior Software Engineer
+1677, Strategy and Operations,Skill,,Senior Software Engineer
+1678, Theoretical Computer Science,Skill,,Senior Software Engineer
+1679, User Experience,Skill,,Senior Software Engineer
+1680, Web Design,Skill,,Senior Software Engineer
+1681, Web Development,Skill,,Senior Software Engineer
+1682, Application Development,Skill,,Senior Software Engineer
+1683, Back-End Web Development,Skill,,Senior Software Engineer
+1684, BlockChain,Skill,,Senior Software Engineer
+1685, Cloud Applications,Skill,,Senior Software Engineer
+1686, Cloud Computing,Skill,,Senior Software Engineer
+1687, Cloud Foundry,Skill,,Senior Software Engineer
+1688, Cloud Infrastructure,Skill,,Senior Software Engineer
+1689, Cloud Platforms,Skill,,Senior Software Engineer
+1690, Cloud Storage,Skill,,Senior Software Engineer
+1691, Computational Logic,Skill,,Senior Software Engineer
+1692, Computer Architecture,Skill,,Senior Software Engineer
+1693, Computer Graphics,Skill,,Senior Software Engineer
+1694, Computer Networking,Skill,,Senior Software Engineer
+1695, Computer Programming,Skill,,Senior Software Engineer
+1696, Computer Programming Tools,Skill,,Senior Software Engineer
+1697, Continuous Delivery,Skill,,Senior Software Engineer
+1698, Continuous Integration,Skill,,Senior Software Engineer
+1699, Data Management,Skill,,Senior Software Engineer
+1700, Database Administration,Skill,,Senior Software Engineer
+1701, Database Application,Skill,,Senior Software Engineer
+1702, Database Design,Skill,,Senior Software Engineer
+1703, Databases,Skill,,Senior Software Engineer
+1704, DevOps,Skill,,Senior Software Engineer
+1705, Devops Tools,Skill,,Senior Software Engineer
+1706, Distributed Computing Architecture,Skill,,Senior Software Engineer
+1707, Extract,Skill,,Senior Software Engineer
+1708, Transform,Skill,,Senior Software Engineer
+1709, Load,Skill,,Senior Software Engineer
+1710, Finance,Skill,,Senior Software Engineer
+1711, Front-End Web Development,Skill,,Senior Software Engineer
+1712, Full-Stack Web Development,Skill,,Senior Software Engineer
+1713, Github,Skill,,Senior Software Engineer
+1714, HTML and CSS,Skill,,Senior Software Engineer
+1715, Human Computer Interaction,Skill,,Senior Software Engineer
+1716, IBM Cloud,Skill,,Senior Software Engineer
+1717, Interactive Design,Skill,,Senior Software Engineer
+1718, Javascript,Skill,,Senior Software Engineer
+1719, Kubernetes,Skill,,Senior Software Engineer
+1720, Mathematical Theory & Analysis,Skill,,Senior Software Engineer
+1721, Mathematics,Skill,,Senior Software Engineer
+1722, Network Architecture,Skill,,Senior Software Engineer
+1723, Network Security,Skill,,Senior Software Engineer
+1724, NoSQL,Skill,,Senior Software Engineer
+1725, Operating Systems,Skill,,Senior Software Engineer
+1726, Other Web Frameworks,Skill,,Senior Software Engineer
+1727, Python Programming,Skill,,Senior Software Engineer
+1728, React (web framework),Skill,,Senior Software Engineer
+1729, SQL,Skill,,Senior Software Engineer
+1730, Security Engineering,Skill,,Senior Software Engineer
+1731, Application development in  Windows platform,Skill,,Senior Software Engineer
+1732, Software Architecture,Skill,,Senior Software Engineer
+1733, Software As A Service,Skill,,Senior Software Engineer
+1734, Programming Languages,Skill,,Senior Software Engineer
+1735, Software Frameworks,Skill,,Senior Software Engineer
+1736, Software Testing,Skill,,Senior Software Engineer
+1737, Statistical Programming,Skill,,Senior Software Engineer
+1738, System Programming,Skill,,Senior Software Engineer
+1739, Systems Design,Skill,,Senior Software Engineer
+1740, Theoretical Computer Science,Skill,,Senior Software Engineer
+1741, Web Design,Skill,,Senior Software Engineer
+1742, Web Development,Skill,,Senior Software Engineer
+1743, Web Development Tools,Skill,,Senior Software Engineer
+1744, Agile Software Development,Skill,,Senior Software Engineer
+1745, Algorithms,Skill,,Senior Software Engineer
+1746, Application Development,Skill,,Senior Software Engineer
+1747, BlockChain,Skill,,Senior Software Engineer
+1748, Cloud Computing,Skill,,Senior Software Engineer
+1749, Cloud Infrastructure,Skill,,Senior Software Engineer
+1750, Cloud Platforms,Skill,,Senior Software Engineer
+1751, Cloud Storage,Skill,,Senior Software Engineer
+1752, Collaboration,Skill,,Senior Software Engineer
+1753, Communication,Skill,,Senior Software Engineer
+1754, Computational Logic,Skill,,Senior Software Engineer
+1755, Computer Architecture,Skill,,Senior Software Engineer
+1756, Computer Graphics,Skill,,Senior Software Engineer
+1757, Computer Networking,Skill,,Senior Software Engineer
+1758, Computer Programming,Skill,,Senior Software Engineer
+1759, Computer Programming Tools,Skill,,Senior Software Engineer
+1760, Continuous Delivery,Skill,,Senior Software Engineer
+1761, Continuous Integration,Skill,,Senior Software Engineer
+1762, Data Management,Skill,,Senior Software Engineer
+1763, Design and Product,Skill,,Senior Software Engineer
+1764, DevOps,Skill,,Senior Software Engineer
+1765, Distributed Computing Architecture,Skill,,Senior Software Engineer
+1766, Entrepreneurship,Skill,,Senior Software Engineer
+1767, Extract,Skill,,Senior Software Engineer
+1768, Transform,Skill,,Senior Software Engineer
+1769, Load,Skill,,Senior Software Engineer
+1770, Finance,Skill,,Senior Software Engineer
+1771, Full-Stack Web Development,Skill,,Senior Software Engineer
+1772, Human Computer Interaction,Skill,,Senior Software Engineer
+1773, IBM Cloud,Skill,,Senior Software Engineer
+1774, Interactive Design,Skill,,Senior Software Engineer
+1775, Journalism,Skill,,Senior Software Engineer
+1776, Kubernetes,Skill,,Senior Software Engineer
+1777, Leadership and Management,Skill,,Senior Software Engineer
+1778, Mathematical Theory & Analysis,Skill,,Senior Software Engineer
+1779, Mathematics,Skill,,Senior Software Engineer
+1780, Network Architecture,Skill,,Senior Software Engineer
+1781, Network Security,Skill,,Senior Software Engineer
+1782, Operating Systems,Skill,,Senior Software Engineer
+1783, Planning,Skill,,Senior Software Engineer
+1784, Product Design,Skill,,Senior Software Engineer
+1785, Product Development,Skill,,Senior Software Engineer
+1786, Programming Principles,Skill,,Senior Software Engineer
+1787, Project Management,Skill,,Senior Software Engineer
+1788, Python Programming,Skill,,Senior Software Engineer
+1789, Security Engineering,Skill,,Senior Software Engineer
+1790, Software Architecture,Skill,,Senior Software Engineer
+1791, Software As A Service,Skill,,Senior Software Engineer
+1792, Software Engineering,Skill,,Senior Software Engineer
+1793, Software Engineering Tools,Skill,,Senior Software Engineer
+1794, Software Framework,Skill,,Senior Software Engineer
+1795, Software Testing,Skill,,Senior Software Engineer
+1796, Statistical Programming,Skill,,Senior Software Engineer
+1797, Strategy and Operations,Skill,,Senior Software Engineer
+1798, Supply Chain and Logistics,Skill,,Senior Software Engineer
+1799, System Programming,Skill,,Senior Software Engineer
+1800, Systems Design,Skill,,Senior Software Engineer
+1801, Theoretical Computer Science,Skill,,Senior Software Engineer
+1802, Web Development,Skill,,Senior Software Engineer
+1803, Algorithms,Skill,,Senior Software Engineer
+1804, Application Development,Skill,,Senior Software Engineer
+1805, Communication,Skill,,Senior Software Engineer
+1806, Computational Logic,Skill,,Senior Software Engineer
+1807, Computer Architecture,Skill,,Senior Software Engineer
+1808, Computer Programming,Skill,,Senior Software Engineer
+1809, Computer Programming Tools,Skill,,Senior Software Engineer
+1810, Data Management,Skill,,Senior Software Engineer
+1811, Data Structures,Skill,,Senior Software Engineer
+1812, Front-End Web Development,Skill,,Senior Software Engineer
+1813, HTML and CSS,Skill,,Senior Software Engineer
+1814, Hardware Design,Skill,,Senior Software Engineer
+1815, Human Computer Interaction,Skill,,Senior Software Engineer
+1816, Javascript,Skill,,Senior Software Engineer
+1817, Journalism,Skill,,Senior Software Engineer
+1818, Mathematical Theory & Analysis,Skill,,Senior Software Engineer
+1819, Mathematics,Skill,,Senior Software Engineer
+1820, Mobile Development,Skill,,Senior Software Engineer
+1821, Mobile Development Tools,Skill,,Senior Software Engineer
+1822, Operations Research,Skill,,Senior Software Engineer
+1823, Other Web Frameworks,Skill,,Senior Software Engineer
+1824, Programming Principles,Skill,,Senior Software Engineer
+1825, React (web framework),Skill,,Senior Software Engineer
+1826, Research and Design,Skill,,Senior Software Engineer
+1827, Software Architecture,Skill,,Senior Software Engineer
+1828, Software Engineering,Skill,,Senior Software Engineer
+1829, Software Engineering Tools,Skill,,Senior Software Engineer
+1830, Software Testing,Skill,,Senior Software Engineer
+1831, Strategy and Operations,Skill,,Senior Software Engineer
+1832, Theoretical Computer Science,Skill,,Senior Software Engineer
+1833, User Experience,Skill,,Senior Software Engineer
+1834, Web Design,Skill,,Senior Software Engineer
+1835, Web Development,Skill,,Senior Software Engineer
+1836, Application Development,Skill,,Senior Software Engineer
+1837, Back-End Web Development,Skill,,Senior Software Engineer
+1838, BlockChain,Skill,,Senior Software Engineer
+1839, Cloud Applications,Skill,,Senior Software Engineer
+1840, Cloud Computing,Skill,,Senior Software Engineer
+1841, Cloud Foundry,Skill,,Senior Software Engineer
+1842, Cloud Infrastructure,Skill,,Senior Software Engineer
+1843, Cloud Platforms,Skill,,Senior Software Engineer
+1844, Cloud Storage,Skill,,Senior Software Engineer
+1845, Computational Logic,Skill,,Senior Software Engineer
+1846, Computer Architecture,Skill,,Senior Software Engineer
+1847, Computer Graphics,Skill,,Senior Software Engineer
+1848, Computer Networking,Skill,,Senior Software Engineer
+1849, Computer Programming,Skill,,Senior Software Engineer
+1850, Computer Programming Tools,Skill,,Senior Software Engineer
+1851, Continuous Delivery,Skill,,Senior Software Engineer
+1852, Continuous Integration,Skill,,Senior Software Engineer
+1853, Data Management,Skill,,Senior Software Engineer
+1854, Database Administration,Skill,,Senior Software Engineer
+1855, Database Application,Skill,,Senior Software Engineer
+1856, Database Design,Skill,,Senior Software Engineer
+1857, Databases,Skill,,Senior Software Engineer
+1858, DevOps,Skill,,Senior Software Engineer
+1859, Devops Tools,Skill,,Senior Software Engineer
+1860, Distributed Computing Architecture,Skill,,Senior Software Engineer
+1861, Extract,Skill,,Senior Software Engineer
+1862, Transform,Skill,,Senior Software Engineer
+1863, Load,Skill,,Senior Software Engineer
+1864, Finance,Skill,,Senior Software Engineer
+1865, Front-End Web Development,Skill,,Senior Software Engineer
+1866, Full-Stack Web Development,Skill,,Senior Software Engineer
+1867, Github,Skill,,Senior Software Engineer
+1868, HTML and CSS,Skill,,Senior Software Engineer
+1869, Human Computer Interaction,Skill,,Senior Software Engineer
+1870, IBM Cloud,Skill,,Senior Software Engineer
+1871, Interactive Design,Skill,,Senior Software Engineer
+1872, Javascript,Skill,,Senior Software Engineer
+1873, Kubernetes,Skill,,Senior Software Engineer
+1874, Mathematical Theory & Analysis,Skill,,Senior Software Engineer
+1875, Mathematics,Skill,,Senior Software Engineer
+1876, Network Architecture,Skill,,Senior Software Engineer
+1877, Network Security,Skill,,Senior Software Engineer
+1878, NoSQL,Skill,,Senior Software Engineer
+1879, Operating Systems,Skill,,Senior Software Engineer
+1880, Other Web Frameworks,Skill,,Senior Software Engineer
+1881, Python Programming,Skill,,Senior Software Engineer
+1882, React (web framework),Skill,,Senior Software Engineer
+1883, SQL,Skill,,Senior Software Engineer
+1884, Security Engineering,Skill,,Senior Software Engineer
+1885, Software,Skill,,Senior Software Engineer
+1886, Software Architecture,Skill,,Senior Software Engineer
+1887, Software As A Service,Skill,,Senior Software Engineer
+1888, Software Engineering,Skill,,Senior Software Engineer
+1889, Software Framework,Skill,,Senior Software Engineer
+1890, Software Testing,Skill,,Senior Software Engineer
+1891, Statistical Programming,Skill,,Senior Software Engineer
+1892, System Programming,Skill,,Senior Software Engineer
+1893, Systems Design,Skill,,Senior Software Engineer
+1894, Theoretical Computer Science,Skill,,Senior Software Engineer
+1895, Web Design,Skill,,Senior Software Engineer
+1896, Web Development,Skill,,Senior Software Engineer
+1897, Web Development Tools,Skill,,Senior Software Engineer
+1898, Agile Software Development,Skill,,Senior Software Engineer
+1899, Algorithms,Skill,,Senior Software Engineer
+1900, Application Development,Skill,,Senior Software Engineer
+1901, BlockChain,Skill,,Senior Software Engineer
+1902, Cloud Computing,Skill,,Senior Software Engineer
+1903, Cloud Infrastructure,Skill,,Senior Software Engineer
+1904, Cloud Platforms,Skill,,Senior Software Engineer
+1905, Cloud Storage,Skill,,Senior Software Engineer
+1906, Collaboration,Skill,,Senior Software Engineer
+1907, Communication,Skill,,Senior Software Engineer
+1908, Computational Logic,Skill,,Senior Software Engineer
+1909, Computer Architecture,Skill,,Senior Software Engineer
+1910, Computer Graphics,Skill,,Senior Software Engineer
+1911, Computer Networking,Skill,,Senior Software Engineer
+1912, Computer Programming,Skill,,Senior Software Engineer
+1913, Computer Programming Tools,Skill,,Senior Software Engineer
+1914, Continuous Delivery,Skill,,Senior Software Engineer
+1915, Continuous Integration,Skill,,Senior Software Engineer
+1916, Data Management,Skill,,Senior Software Engineer
+1917, Design and Product,Skill,,Senior Software Engineer
+1918, DevOps,Skill,,Senior Software Engineer
+1919, Distributed Computing Architecture,Skill,,Senior Software Engineer
+1920, Entrepreneurship,Skill,,Senior Software Engineer
+1921, Extract,Skill,,Senior Software Engineer
+1922, Transform,Skill,,Senior Software Engineer
+1923, Load,Skill,,Senior Software Engineer
+1924, Finance,Skill,,Senior Software Engineer
+1925, Full-Stack Web Development,Skill,,Senior Software Engineer
+1926, Human Computer Interaction,Skill,,Senior Software Engineer
+1927, IBM Cloud,Skill,,Senior Software Engineer
+1928, Interactive Design,Skill,,Senior Software Engineer
+1929, Journalism,Skill,,Senior Software Engineer
+1930, Kubernetes,Skill,,Senior Software Engineer
+1931, Leadership and Management,Skill,,Senior Software Engineer
+1932, Mathematical Theory & Analysis,Skill,,Senior Software Engineer
+1933, Mathematics,Skill,,Senior Software Engineer
+1934, Network Architecture,Skill,,Senior Software Engineer
+1935, Network Security,Skill,,Senior Software Engineer
+1936, Operating Systems,Skill,,Senior Software Engineer
+1937, Planning,Skill,,Senior Software Engineer
+1938, Product Design,Skill,,Senior Software Engineer
+1939, Product Development,Skill,,Senior Software Engineer
+1940, Programming Principles,Skill,,Senior Software Engineer
+1941, Project Management,Skill,,Senior Software Engineer
+1942, Python Programming,Skill,,Senior Software Engineer
+1943, Security Engineering,Skill,,Senior Software Engineer
+1944, Software Architecture,Skill,,Senior Software Engineer
+1945, Software As A Service,Skill,,Senior Software Engineer
+1946, Software Engineering,Skill,,Senior Software Engineer
+1947, Software Engineering Tools,Skill,,Senior Software Engineer
+1948, Software Framework,Skill,,Senior Software Engineer
+1949, Software Testing,Skill,,Senior Software Engineer
+1950, Statistical Programming,Skill,,Senior Software Engineer
+1951, Strategy and Operations,Skill,,Senior Software Engineer
+1952, Supply Chain and Logistics,Skill,,Senior Software Engineer
+1953, System Programming,Skill,,Senior Software Engineer
+1954, Systems Design,Skill,,Senior Software Engineer
+1955, Theoretical Computer Science,Skill,,Senior Software Engineer
+1956, Web Development,Skill,,Senior Software Engineer
+1957, Algorithms,Skill,,Senior Software Engineer
+1958, Application Development,Skill,,Senior Software Engineer
+1959, Communication,Skill,,Senior Software Engineer
+1960, Computational Logic,Skill,,Senior Software Engineer
+1961, Computer Architecture,Skill,,Senior Software Engineer
+1962, Computer Programming,Skill,,Senior Software Engineer
+1963, Computer Programming Tools,Skill,,Senior Software Engineer
+1964, Data Management,Skill,,Senior Software Engineer
+1965, Data Structures,Skill,,Senior Software Engineer
+1966, Front-End Web Development,Skill,,Senior Software Engineer
+1967, HTML and CSS,Skill,,Senior Software Engineer
+1968, Hardware Design,Skill,,Senior Software Engineer
+1969, Human Computer Interaction,Skill,,Senior Software Engineer
+1970, Javascript,Skill,,Senior Software Engineer
+1971, Journalism,Skill,,Senior Software Engineer
+1972, Mathematical Theory & Analysis,Skill,,Senior Software Engineer
+1973, Mathematics,Skill,,Senior Software Engineer
+1974, Mobile Development,Skill,,Senior Software Engineer
+1975, Mobile Development Tools,Skill,,Senior Software Engineer
+1976, Operations Research,Skill,,Senior Software Engineer
+1977, Other Web Frameworks,Skill,,Senior Software Engineer
+1978, Programming Principles,Skill,,Senior Software Engineer
+1979, React (web framework),Skill,,Senior Software Engineer
+1980, Research and Design,Skill,,Senior Software Engineer
+1981, Software Architecture,Skill,,Senior Software Engineer
+1982, Software Engineering,Skill,,Senior Software Engineer
+1983, Software Engineering Tools,Skill,,Senior Software Engineer
+1984, Software Testing,Skill,,Senior Software Engineer
+1985, Strategy and Operations,Skill,,Senior Software Engineer
+1986, Theoretical Computer Science,Skill,,Senior Software Engineer
+1987, User Experience,Skill,,Senior Software Engineer
+1988, Web Design,Skill,,Senior Software Engineer
+1989, Web Development,Skill,,Senior Software Engineer
+1990, Application Development,Skill,,Senior Software Engineer
+1991, Back-End Web Development,Skill,,Senior Software Engineer
+1992, BlockChain,Skill,,Senior Software Engineer
+1993, Cloud Applications,Skill,,Senior Software Engineer
+1994, Cloud Computing,Skill,,Senior Software Engineer
+1995, Cloud Foundry,Skill,,Senior Software Engineer
+1996, Cloud Infrastructure,Skill,,Senior Software Engineer
+1997, Cloud Platforms,Skill,,Senior Software Engineer
+1998, Cloud Storage,Skill,,Senior Software Engineer
+1999, Computational Logic,Skill,,Senior Software Engineer
+2000, Computer Architecture,Skill,,Senior Software Engineer
+2001, Computer Graphics,Skill,,Senior Software Engineer
+2002, Computer Networking,Skill,,Senior Software Engineer
+2003, Computer Programming,Skill,,Senior Software Engineer
+2004, Computer Programming Tools,Skill,,Senior Software Engineer
+2005, Continuous Delivery,Skill,,Senior Software Engineer
+2006, Continuous Integration,Skill,,Senior Software Engineer
+2007, Data Management,Skill,,Senior Software Engineer
+2008, Database Administration,Skill,,Senior Software Engineer
+2009, Database Application,Skill,,Senior Software Engineer
+2010, Database Design,Skill,,Senior Software Engineer
+2011, Databases,Skill,,Senior Software Engineer
+2012, DevOps,Skill,,Senior Software Engineer
+2013, Devops Tools,Skill,,Senior Software Engineer
+2014, Distributed Computing Architecture,Skill,,Senior Software Engineer
+2015, Extract,Skill,,Senior Software Engineer
+2016, Transform,Skill,,Senior Software Engineer
+2017, Load,Skill,,Senior Software Engineer
+2018, Finance,Skill,,Senior Software Engineer
+2019, Front-End Web Development,Skill,,Senior Software Engineer
+2020, Full-Stack Web Development,Skill,,Senior Software Engineer
+2021, Github,Skill,,Senior Software Engineer
+2022, HTML and CSS,Skill,,Senior Software Engineer
+2023, Human Computer Interaction,Skill,,Senior Software Engineer
+2024, IBM Cloud,Skill,,Senior Software Engineer
+2025, Interactive Design,Skill,,Senior Software Engineer
+2026, Javascript,Skill,,Senior Software Engineer
+2027, Kubernetes,Skill,,Senior Software Engineer
+2028, Mathematical Theory & Analysis,Skill,,Senior Software Engineer
+2029, Mathematics,Skill,,Senior Software Engineer
+2030, Network Architecture,Skill,,Senior Software Engineer
+2031, Network Security,Skill,,Senior Software Engineer
+2032, NoSQL,Skill,,Senior Software Engineer
+2033, Operating Systems,Skill,,Senior Software Engineer
+2034, Other Web Frameworks,Skill,,Senior Software Engineer
+2035, Python Programming,Skill,,Senior Software Engineer
+2036, React (web framework),Skill,,Senior Software Engineer
+2037, SQL,Skill,,Senior Software Engineer
+2038, Security Engineering,Skill,,Senior Software Engineer
+2039, Software,Skill,,Senior Software Engineer
+2040, Software Architecture,Skill,,Senior Software Engineer
+2041, Software As A Service,Skill,,Senior Software Engineer
+2042, Software Engineering,Skill,,Senior Software Engineer
+2043, Software Framework,Skill,,Senior Software Engineer
+2044, Software Testing,Skill,,Senior Software Engineer
+2045, Statistical Programming,Skill,,Senior Software Engineer
+2046, System Programming,Skill,,Senior Software Engineer
+2047, Systems Design,Skill,,Senior Software Engineer
+2048, Theoretical Computer Science,Skill,,Senior Software Engineer
+2049, Web Design,Skill,,Senior Software Engineer
+2050, Web Development,Skill,,Senior Software Engineer
+2051, Web Development Tools,Skill,,Senior Software Engineer
+2052, Agile Software Development,Skill,,Senior Software Engineer
+2053, Algorithms,Skill,,Senior Software Engineer
+2054, Application Development,Skill,,Senior Software Engineer
+2055, BlockChain,Skill,,Senior Software Engineer
+2056, Cloud Computing,Skill,,Senior Software Engineer
+2057, Cloud Infrastructure,Skill,,Senior Software Engineer
+2058, Cloud Platforms,Skill,,Senior Software Engineer
+2059, Cloud Storage,Skill,,Senior Software Engineer
+2060, Collaboration,Skill,,Senior Software Engineer
+2061, Communication,Skill,,Senior Software Engineer
+2062, Computational Logic,Skill,,Senior Software Engineer
+2063, Computer Architecture,Skill,,Senior Software Engineer
+2064, Computer Graphics,Skill,,Senior Software Engineer
+2065, Computer Networking,Skill,,Senior Software Engineer
+2066, Computer Programming,Skill,,Senior Software Engineer
+2067, Computer Programming Tools,Skill,,Senior Software Engineer
+2068, Continuous Delivery,Skill,,Senior Software Engineer
+2069, Continuous Integration,Skill,,Senior Software Engineer
+2070, Data Management,Skill,,Senior Software Engineer
+2071, Design and Product,Skill,,Senior Software Engineer
+2072, DevOps,Skill,,Senior Software Engineer
+2073, Distributed Computing Architecture,Skill,,Senior Software Engineer
+2074, Entrepreneurship,Skill,,Senior Software Engineer
+2075, Extract,Skill,,Senior Software Engineer
+2076, Transform,Skill,,Senior Software Engineer
+2077, Load,Skill,,Senior Software Engineer
+2078, Finance,Skill,,Senior Software Engineer
+2079, Full-Stack Web Development,Skill,,Senior Software Engineer
+2080, Human Computer Interaction,Skill,,Senior Software Engineer
+2081, IBM Cloud,Skill,,Senior Software Engineer
+2082, Interactive Design,Skill,,Senior Software Engineer
+2083, Journalism,Skill,,Senior Software Engineer
+2084, Kubernetes,Skill,,Senior Software Engineer
+2085, Leadership and Management,Skill,,Senior Software Engineer
+2086, Mathematical Theory & Analysis,Skill,,Senior Software Engineer
+2087, Mathematics,Skill,,Senior Software Engineer
+2088, Network Architecture,Skill,,Senior Software Engineer
+2089, Network Security,Skill,,Senior Software Engineer
+2090, Operating Systems,Skill,,Senior Software Engineer
+2091, Planning,Skill,,Senior Software Engineer
+2092, Product Design,Skill,,Senior Software Engineer
+2093, Product Development,Skill,,Senior Software Engineer
+2094, Programming Principles,Skill,,Senior Software Engineer
+2095, Project Management,Skill,,Senior Software Engineer
+2096, Python Programming,Skill,,Senior Software Engineer
+2097, Security Engineering,Skill,,Senior Software Engineer
+2098, Software Architecture,Skill,,Senior Software Engineer
+2099, Software As A Service,Skill,,Senior Software Engineer
+2100, Software Engineering,Skill,,Senior Software Engineer
+2101, Software Engineering Tools,Skill,,Senior Software Engineer
+2102, Software Framework,Skill,,Senior Software Engineer
+2103, Software Testing,Skill,,Senior Software Engineer
+2104, Statistical Programming,Skill,,Senior Software Engineer
+2105, Strategy and Operations,Skill,,Senior Software Engineer
+2106, Supply Chain and Logistics,Skill,,Senior Software Engineer
+2107, System Programming,Skill,,Senior Software Engineer
+2108, Systems Design,Skill,,Senior Software Engineer
+2109, Theoretical Computer Science,Skill,,Senior Software Engineer
+2110, Web Development,Skill,,Senior Software Engineer
+2111, Algorithms,Skill,,Senior Software Engineer
+2112, Application Development,Skill,,Senior Software Engineer
+2113, Communication,Skill,,Senior Software Engineer
+2114, Computational Logic,Skill,,Senior Software Engineer
+2115, Computer Architecture,Skill,,Senior Software Engineer
+2116, Computer Programming,Skill,,Senior Software Engineer
+2117, Computer Programming Tools,Skill,,Senior Software Engineer
+2118, Data Management,Skill,,Senior Software Engineer
+2119, Data Structures,Skill,,Senior Software Engineer
+2120, Front-End Web Development,Skill,,Senior Software Engineer
+2121, HTML and CSS,Skill,,Senior Software Engineer
+2122, Hardware Design,Skill,,Senior Software Engineer
+2123, Human Computer Interaction,Skill,,Senior Software Engineer
+2124, Javascript,Skill,,Senior Software Engineer
+2125, Journalism,Skill,,Senior Software Engineer
+2126, Mathematical Theory & Analysis,Skill,,Senior Software Engineer
+2127, Mathematics,Skill,,Senior Software Engineer
+2128, Mobile Development,Skill,,Senior Software Engineer
+2129, Mobile Development Tools,Skill,,Senior Software Engineer
+2130, Operations Research,Skill,,Senior Software Engineer
+2131, Other Web Frameworks,Skill,,Senior Software Engineer
+2132, Programming Principles,Skill,,Senior Software Engineer
+2133, React (web framework),Skill,,Senior Software Engineer
+2134, Research and Design,Skill,,Senior Software Engineer
+2135, Software Architecture,Skill,,Senior Software Engineer
+2136, Software Engineering,Skill,,Senior Software Engineer
+2137, Software Engineering Tools,Skill,,Senior Software Engineer
+2138, Software Testing,Skill,,Senior Software Engineer
+2139, Strategy and Operations,Skill,,Senior Software Engineer
+2140, Theoretical Computer Science,Skill,,Senior Software Engineer
+2141, User Experience,Skill,,Senior Software Engineer
+2142, Web Design,Skill,,Senior Software Engineer
+2143, Web Development,Skill,,Senior Software Engineer
+2144, Application Development,Skill,,Senior Software Engineer
+2145, Back-End Web Development,Skill,,Senior Software Engineer
+2146, BlockChain,Skill,,Senior Software Engineer
+2147, Cloud Applications,Skill,,Senior Software Engineer
+2148, Cloud Computing,Skill,,Senior Software Engineer
+2149, Cloud Foundry,Skill,,Senior Software Engineer
+2150, Cloud Infrastructure,Skill,,Senior Software Engineer
+2151, Cloud Platforms,Skill,,Senior Software Engineer
+2152, Cloud Storage,Skill,,Senior Software Engineer
+2153, Computational Logic,Skill,,Senior Software Engineer
+2154, Computer Architecture,Skill,,Senior Software Engineer
+2155, Computer Graphics,Skill,,Senior Software Engineer
+2156, Computer Networking,Skill,,Senior Software Engineer
+2157, Computer Programming,Skill,,Senior Software Engineer
+2158, Computer Programming Tools,Skill,,Senior Software Engineer
+2159, Continuous Delivery,Skill,,Senior Software Engineer
+2160, Continuous Integration,Skill,,Senior Software Engineer
+2161, Data Management,Skill,,Senior Software Engineer
+2162, Database Administration,Skill,,Senior Software Engineer
+2163, Database Application,Skill,,Senior Software Engineer
+2164, Database Design,Skill,,Senior Software Engineer
+2165, Databases,Skill,,Senior Software Engineer
+2166, DevOps,Skill,,Senior Software Engineer
+2167, Devops Tools,Skill,,Senior Software Engineer
+2168, Distributed Computing Architecture,Skill,,Senior Software Engineer
+2169, Extract,Skill,,Senior Software Engineer
+2170, Transform,Skill,,Senior Software Engineer
+2171, Load,Skill,,Senior Software Engineer
+2172, Finance,Skill,,Senior Software Engineer
+2173, Front-End Web Development,Skill,,Senior Software Engineer
+2174, Full-Stack Web Development,Skill,,Senior Software Engineer
+2175, Github,Skill,,Senior Software Engineer
+2176, HTML and CSS,Skill,,Senior Software Engineer
+2177, Human Computer Interaction,Skill,,Senior Software Engineer
+2178, IBM Cloud,Skill,,Senior Software Engineer
+2179, Interactive Design,Skill,,Senior Software Engineer
+2180, Javascript,Skill,,Senior Software Engineer
+2181, Kubernetes,Skill,,Senior Software Engineer
+2182, Mathematical Theory & Analysis,Skill,,Senior Software Engineer
+2183, Mathematics,Skill,,Senior Software Engineer
+2184, Network Architecture,Skill,,Senior Software Engineer
+2185, Network Security,Skill,,Senior Software Engineer
+2186, NoSQL,Skill,,Senior Software Engineer
+2187, Operating Systems,Skill,,Senior Software Engineer
+2188, Other Web Frameworks,Skill,,Senior Software Engineer
+2189, Python Programming,Skill,,Senior Software Engineer
+2190, React (web framework),Skill,,Senior Software Engineer
+2191, SQL,Skill,,Senior Software Engineer
+2192, Security Engineering,Skill,,Senior Software Engineer
+2193, Software,Skill,,Senior Software Engineer
+2194, Software Architecture,Skill,,Senior Software Engineer
+2195, Software As A Service,Skill,,Senior Software Engineer
+2196, Software Engineering,Skill,,Senior Software Engineer
+2197, Software Framework,Skill,,Senior Software Engineer
+2198, Software Testing,Skill,,Senior Software Engineer
+2199, Statistical Programming,Skill,,Senior Software Engineer
+2200, System Programming,Skill,,Senior Software Engineer
+2201, Systems Design,Skill,,Senior Software Engineer
+2202, Theoretical Computer Science,Skill,,Senior Software Engineer
+2203, Web Design,Skill,,Senior Software Engineer
+2204, Web Development,Skill,,Senior Software Engineer
+2205, Web Development Tools,Skill,,Senior Software Engineer
+2206, Agile Software Development,Skill,,Software Engineer
+2207, Algorithms,Skill,,Software Engineer
+2208, Application Development,Skill,,Software Engineer
+2209, BlockChain,Skill,,Software Engineer
+2210, Cloud Computing,Skill,,Software Engineer
+2211, Cloud Infrastructure,Skill,,Software Engineer
+2212, Cloud Platforms,Skill,,Software Engineer
+2213, Cloud Storage,Skill,,Software Engineer
+2214, Collaboration,Skill,,Software Engineer
+2215, Communication,Skill,,Software Engineer
+2216, Computational Logic,Skill,,Software Engineer
+2217, Computer Architecture,Skill,,Software Engineer
+2218, Computer Graphics,Skill,,Software Engineer
+2219, Computer Networking,Skill,,Software Engineer
+2220, Computer Programming,Skill,,Software Engineer
+2221, Computer Programming Tools,Skill,,Software Engineer
+2222, Continuous Delivery,Skill,,Software Engineer
+2223, Continuous Integration,Skill,,Software Engineer
+2224, Data Management,Skill,,Software Engineer
+2225, Design and Product,Skill,,Software Engineer
+2226, DevOps,Skill,,Software Engineer
+2227, Distributed Computing Architecture,Skill,,Software Engineer
+2228, Entrepreneurship,Skill,,Software Engineer
+2229, Extract,Skill,,Software Engineer
+2230, Transform,Skill,,Software Engineer
+2231, Load,Skill,,Software Engineer
+2232, Finance,Skill,,Software Engineer
+2233, Full-Stack Web Development,Skill,,Software Engineer
+2234, Human Computer Interaction,Skill,,Software Engineer
+2235, IBM Cloud,Skill,,Software Engineer
+2236, Interactive Design,Skill,,Software Engineer
+2237, Journalism,Skill,,Software Engineer
+2238, Kubernetes,Skill,,Software Engineer
+2239, Leadership and Management,Skill,,Software Engineer
+2240, Mathematical Theory & Analysis,Skill,,Software Engineer
+2241, Mathematics,Skill,,Software Engineer
+2242, Network Architecture,Skill,,Software Engineer
+2243, Network Security,Skill,,Software Engineer
+2244, Operating Systems,Skill,,Software Engineer
+2245, Planning,Skill,,Software Engineer
+2246, Product Design,Skill,,Software Engineer
+2247, Product Development,Skill,,Software Engineer
+2248, Programming Principles,Skill,,Software Engineer
+2249, Project Management,Skill,,Software Engineer
+2250, Python Programming,Skill,,Software Engineer
+2251, Security Engineering,Skill,,Software Engineer
+2252, Software Architecture,Skill,,Software Engineer
+2253, Software As A Service,Skill,,Software Engineer
+2254, Software Engineering,Skill,,Software Engineer
+2255, Software Engineering Tools,Skill,,Software Engineer
+2256, Software Framework,Skill,,Software Engineer
+2257, Software Testing,Skill,,Software Engineer
+2258, Statistical Programming,Skill,,Software Engineer
+2259, Strategy and Operations,Skill,,Software Engineer
+2260, Supply Chain and Logistics,Skill,,Software Engineer
+2261, System Programming,Skill,,Software Engineer
+2262, Systems Design,Skill,,Software Engineer
+2263, Theoretical Computer Science,Skill,,Software Engineer
+2264, Web Development,Skill,,Software Engineer
+2265, Algorithms,Skill,,Software Engineer
+2266, Application Development,Skill,,Software Engineer
+2267, Communication,Skill,,Software Engineer
+2268, Computational Logic,Skill,,Software Engineer
+2269, Computer Architecture,Skill,,Software Engineer
+2270, Computer Programming,Skill,,Software Engineer
+2271, Computer Programming Tools,Skill,,Software Engineer
+2272, Data Management,Skill,,Software Engineer
+2273, Data Structures,Skill,,Software Engineer
+2274, Front-End Web Development,Skill,,Software Engineer
+2275, HTML and CSS,Skill,,Software Engineer
+2276, Hardware Design,Skill,,Software Engineer
+2277, Human Computer Interaction,Skill,,Software Engineer
+2278, Javascript,Skill,,Software Engineer
+2279, Journalism,Skill,,Software Engineer
+2280, Mathematical Theory & Analysis,Skill,,Software Engineer
+2281, Mathematics,Skill,,Software Engineer
+2282, Mobile Development,Skill,,Software Engineer
+2283, Mobile Development Tools,Skill,,Software Engineer
+2284, Operations Research,Skill,,Software Engineer
+2285, Other Web Frameworks,Skill,,Software Engineer
+2286, Programming Principles,Skill,,Software Engineer
+2287, React (web framework),Skill,,Software Engineer
+2288, Research and Design,Skill,,Software Engineer
+2289, Software Architecture,Skill,,Software Engineer
+2290, Software Engineering,Skill,,Software Engineer
+2291, Software Engineering Tools,Skill,,Software Engineer
+2292, Software Testing,Skill,,Software Engineer
+2293, Strategy and Operations,Skill,,Software Engineer
+2294, Theoretical Computer Science,Skill,,Software Engineer
+2295, User Experience,Skill,,Software Engineer
+2296, Web Design,Skill,,Software Engineer
+2297, Web Development,Skill,,Software Engineer
+2298, Application Development,Skill,,Software Engineer
+2299, Back-End Web Development,Skill,,Software Engineer
+2300, BlockChain,Skill,,Software Engineer
+2301, Cloud Applications,Skill,,Software Engineer
+2302, Cloud Computing,Skill,,Software Engineer
+2303, Cloud Foundry,Skill,,Software Engineer
+2304, Cloud Infrastructure,Skill,,Software Engineer
+2305, Cloud Platforms,Skill,,Software Engineer
+2306, Cloud Storage,Skill,,Software Engineer
+2307, Computational Logic,Skill,,Software Engineer
+2308, Computer Architecture,Skill,,Software Engineer
+2309, Computer Graphics,Skill,,Software Engineer
+2310, Computer Networking,Skill,,Software Engineer
+2311, Computer Programming,Skill,,Software Engineer
+2312, Computer Programming Tools,Skill,,Software Engineer
+2313, Continuous Delivery,Skill,,Software Engineer
+2314, Continuous Integration,Skill,,Software Engineer
+2315, Data Management,Skill,,Software Engineer
+2316, Database Administration,Skill,,Software Engineer
+2317, Database Application,Skill,,Software Engineer
+2318, Database Design,Skill,,Software Engineer
+2319, Databases,Skill,,Software Engineer
+2320, DevOps,Skill,,Software Engineer
+2321, Devops Tools,Skill,,Software Engineer
+2322, Distributed Computing Architecture,Skill,,Software Engineer
+2323, Extract,Skill,,Software Engineer
+2324, Transform,Skill,,Software Engineer
+2325, Load,Skill,,Software Engineer
+2326, Finance,Skill,,Software Engineer
+2327, Front-End Web Development,Skill,,Software Engineer
+2328, Full-Stack Web Development,Skill,,Software Engineer
+2329, Github,Skill,,Software Engineer
+2330, HTML and CSS,Skill,,Software Engineer
+2331, Human Computer Interaction,Skill,,Software Engineer
+2332, IBM Cloud,Skill,,Software Engineer
+2333, Interactive Design,Skill,,Software Engineer
+2334, Javascript,Skill,,Software Engineer
+2335, Kubernetes,Skill,,Software Engineer
+2336, Mathematical Theory & Analysis,Skill,,Software Engineer
+2337, Mathematics,Skill,,Software Engineer
+2338, Network Architecture,Skill,,Software Engineer
+2339, Network Security,Skill,,Software Engineer
+2340, NoSQL,Skill,,Software Engineer
+2341, Operating Systems,Skill,,Software Engineer
+2342, Other Web Frameworks,Skill,,Software Engineer
+2343, Python Programming,Skill,,Software Engineer
+2344, React (web framework),Skill,,Software Engineer
+2345, SQL,Skill,,Software Engineer
+2346, Security Engineering,Skill,,Software Engineer
+2347, Software,Skill,,Software Engineer
+2348, Software Architecture,Skill,,Software Engineer
+2349, Software As A Service,Skill,,Software Engineer
+2350, Software Engineering,Skill,,Software Engineer
+2351, Software Framework,Skill,,Software Engineer
+2352, Software Testing,Skill,,Software Engineer
+2353, Statistical Programming,Skill,,Software Engineer
+2354, System Programming,Skill,,Software Engineer
+2355, Systems Design,Skill,,Software Engineer
+2356, Theoretical Computer Science,Skill,,Software Engineer
+2357, Web Design,Skill,,Software Engineer
+2358, Web Development,Skill,,Software Engineer
+2359, Web Development Tools,Skill,,Software Engineer
+2360, Agile Software Development,Skill,,Software engineer
+2361, Algorithms,Skill,,Software engineer
+2362, Application Development,Skill,,Software engineer
+2363, BlockChain,Skill,,Software engineer
+2364, Cloud Computing,Skill,,Software engineer
+2365, Cloud Infrastructure,Skill,,Software engineer
+2366, Cloud Platforms,Skill,,Software engineer
+2367, Cloud Storage,Skill,,Software engineer
+2368, Collaboration,Skill,,Software engineer
+2369, Communication,Skill,,Software engineer
+2370, Computational Logic,Skill,,Software engineer
+2371, Computer Architecture,Skill,,Software engineer
+2372, Computer Graphics,Skill,,Software engineer
+2373, Computer Networking,Skill,,Software engineer
+2374, Computer Programming,Skill,,Software engineer
+2375, Computer Programming Tools,Skill,,Software engineer
+2376, Continuous Delivery,Skill,,Software engineer
+2377, Continuous Integration,Skill,,Software engineer
+2378, Data Management,Skill,,Software engineer
+2379, Design and Product,Skill,,Software engineer
+2380, DevOps,Skill,,Software engineer
+2381, Distributed Computing Architecture,Skill,,Software engineer
+2382, Entrepreneurship,Skill,,Software engineer
+2383, Extract,Skill,,Software engineer
+2384, Transform,Skill,,Software engineer
+2385, Load,Skill,,Software engineer
+2386, Finance,Skill,,Software engineer
+2387, Full-Stack Web Development,Skill,,Software engineer
+2388, Human Computer Interaction,Skill,,Software engineer
+2389, IBM Cloud,Skill,,Software engineer
+2390, Interactive Design,Skill,,Software engineer
+2391, Journalism,Skill,,Software engineer
+2392, Kubernetes,Skill,,Software engineer
+2393, Leadership and Management,Skill,,Software engineer
+2394, Mathematical Theory & Analysis,Skill,,Software engineer
+2395, Mathematics,Skill,,Software engineer
+2396, Network Architecture,Skill,,Software engineer
+2397, Network Security,Skill,,Software engineer
+2398, Operating Systems,Skill,,Software engineer
+2399, Planning,Skill,,Software engineer
+2400, Product Design,Skill,,Software engineer
+2401, Product Development,Skill,,Software engineer
+2402, Programming Principles,Skill,,Software engineer
+2403, Project Management,Skill,,Software engineer
+2404, Python Programming,Skill,,Software engineer
+2405, Security Engineering,Skill,,Software engineer
+2406, Software Architecture,Skill,,Software engineer
+2407, Software As A Service,Skill,,Software engineer
+2408, Software Engineering,Skill,,Software engineer
+2409, Software Engineering Tools,Skill,,Software engineer
+2410, Software Framework,Skill,,Software engineer
+2411, Software Testing,Skill,,Software engineer
+2412, Statistical Programming,Skill,,Software engineer
+2413, Strategy and Operations,Skill,,Software engineer
+2414, Supply Chain and Logistics,Skill,,Software engineer
+2415, System Programming,Skill,,Software engineer
+2416, Systems Design,Skill,,Software engineer
+2417, Theoretical Computer Science,Skill,,Software engineer
+2418, Web Development,Skill,,Software engineer
+2419, Algorithms,Skill,,Software engineer
+2420, Application Development,Skill,,Software engineer
+2421, Communication,Skill,,Software engineer
+2422, Computational Logic,Skill,,Software engineer
+2423, Computer Architecture,Skill,,Software engineer
+2424, Computer Programming,Skill,,Software engineer
+2425, Computer Programming Tools,Skill,,Software engineer
+2426, Data Management,Skill,,Software engineer
+2427, Data Structures,Skill,,Software engineer
+2428, Front-End Web Development,Skill,,Software engineer
+2429, HTML and CSS,Skill,,Software engineer
+2430, Hardware Design,Skill,,Software engineer
+2431, Human Computer Interaction,Skill,,Software engineer
+2432, Javascript,Skill,,Software engineer
+2433, Journalism,Skill,,Software engineer
+2434, Mathematical Theory & Analysis,Skill,,Software engineer
+2435, Mathematics,Skill,,Software engineer
+2436, Mobile Development,Skill,,Software engineer
+2437, Mobile Development Tools,Skill,,Software engineer
+2438, Operations Research,Skill,,Software engineer
+2439, Other Web Frameworks,Skill,,Software engineer
+2440, Programming Principles,Skill,,Software engineer
+2441, React (web framework),Skill,,Software engineer
+2442, Research and Design,Skill,,Software engineer
+2443, Software Architecture,Skill,,Software engineer
+2444, Software Engineering,Skill,,Software engineer
+2445, Software Engineering Tools,Skill,,Software engineer
+2446, Software Testing,Skill,,Software engineer
+2447, Strategy and Operations,Skill,,Software engineer
+2448, Theoretical Computer Science,Skill,,Software engineer
+2449, User Experience,Skill,,Software engineer
+2450, Web Design,Skill,,Software engineer
+2451, Web Development,Skill,,Software engineer
+2452, Application Development,Skill,,Software engineer
+2453, Back-End Web Development,Skill,,Software engineer
+2454, BlockChain,Skill,,Software engineer
+2455, Cloud Applications,Skill,,Software engineer
+2456, Cloud Computing,Skill,,Software engineer
+2457, Cloud Foundry,Skill,,Software engineer
+2458, Cloud Infrastructure,Skill,,Software engineer
+2459, Cloud Platforms,Skill,,Software engineer
+2460, Cloud Storage,Skill,,Software engineer
+2461, Computational Logic,Skill,,Software engineer
+2462, Computer Architecture,Skill,,Software engineer
+2463, Computer Graphics,Skill,,Software engineer
+2464, Computer Networking,Skill,,Software engineer
+2465, Computer Programming,Skill,,Software engineer
+2466, Computer Programming Tools,Skill,,Software engineer
+2467, Continuous Delivery,Skill,,Software engineer
+2468, Continuous Integration,Skill,,Software engineer
+2469, Data Management,Skill,,Software engineer
+2470, Database Administration,Skill,,Software engineer
+2471, Database Application,Skill,,Software engineer
+2472, Database Design,Skill,,Software engineer
+2473, Databases,Skill,,Software engineer
+2474, DevOps,Skill,,Software engineer
+2475, Devops Tools,Skill,,Software engineer
+2476, Distributed Computing Architecture,Skill,,Software engineer
+2477, Extract,Skill,,Software engineer
+2478, Transform,Skill,,Software engineer
+2479, Load,Skill,,Software engineer
+2480, Finance,Skill,,Software engineer
+2481, Front-End Web Development,Skill,,Software engineer
+2482, Full-Stack Web Development,Skill,,Software engineer
+2483, Github,Skill,,Software engineer
+2484, HTML and CSS,Skill,,Software engineer
+2485, Human Computer Interaction,Skill,,Software engineer
+2486, IBM Cloud,Skill,,Software engineer
+2487, Interactive Design,Skill,,Software engineer
+2488, Javascript,Skill,,Software engineer
+2489, Kubernetes,Skill,,Software engineer
+2490, Mathematical Theory & Analysis,Skill,,Software engineer
+2491, Mathematics,Skill,,Software engineer
+2492, Network Architecture,Skill,,Software engineer
+2493, Network Security,Skill,,Software engineer
+2494, NoSQL,Skill,,Software engineer
+2495, Operating Systems,Skill,,Software engineer
+2496, Other Web Frameworks,Skill,,Software engineer
+2497, Python Programming,Skill,,Software engineer
+2498, React (web framework),Skill,,Software engineer
+2499, SQL,Skill,,Software engineer
+2500, Security Engineering,Skill,,Software engineer
+2501, Software,Skill,,Software engineer
+2502, Software Architecture,Skill,,Software engineer
+2503, Software As A Service,Skill,,Software engineer
+2504, Software Engineering,Skill,,Software engineer
+2505, Software Framework,Skill,,Software engineer
+2506, Software Testing,Skill,,Software engineer
+2507, Statistical Programming,Skill,,Software engineer
+2508, System Programming,Skill,,Software engineer
+2509, Systems Design,Skill,,Software engineer
+2510, Theoretical Computer Science,Skill,,Software engineer
+2511, Web Design,Skill,,Software engineer
+2512, Web Development,Skill,,Software engineer
+2513, Web Development Tools,Skill,,Software engineer
+2514,Data Science,Skill,,SQL Data Analyst
+2515,Data Analysis,Skill,,SQL Data Analyst
+2516,Sqlite,Skill,,SQL Data Analyst
+2517,SQL,Skill,,SQL Data Analyst
+2518,Data Science,Skill,,SQL Data Analyst
+2519,Data Analysis,Skill,,SQL Data Analyst
+2520,Sqlite,Skill,,SQL Data Analyst
+2521,SQL,Skill,,SQL Data Analyst
+2522, Analysis,Skill,,SQL Developer and Support
+2523, Apache,Skill,,SQL Developer and Support
+2524, Apache Spark,Skill,,SQL Developer and Support
+2525, Basic Descriptive Statistics,Skill,,SQL Developer and Support
+2526, Big Data,Skill,,SQL Developer and Support
+2527, Computer Programming,Skill,,SQL Developer and Support
+2528, Data Management,Skill,,SQL Developer and Support
+2529, Databases,Skill,,SQL Developer and Support
+2530, General Statistics,Skill,,SQL Developer and Support
+2531, Leadership and Management,Skill,,SQL Developer and Support
+2532, Machine Learning,Skill,,SQL Developer and Support
+2533, Probability & Statistics,Skill,,SQL Developer and Support
+2534, Python Programming,Skill,,SQL Developer and Support
+2535, SQL,Skill,,SQL Developer and Support
+2536, Statistical Programming,Skill,,SQL Developer and Support
+2537, Algorithms,Skill,,SQL Developer and Support
+2538, Application Development,Skill,,SQL Developer and Support
+2539, Bias,Skill,,SQL Developer and Support
+2540, Big Data,Skill,,SQL Developer and Support
+2541, Budget Management,Skill,,SQL Developer and Support
+2542, Business Analysis,Skill,,SQL Developer and Support
+2543, Business Communication,Skill,,SQL Developer and Support
+2544, Change Management,Skill,,SQL Developer and Support
+2545, Cloud Computing,Skill,,SQL Developer and Support
+2546, Communication,Skill,,SQL Developer and Support
+2547, Computational Logic,Skill,,SQL Developer and Support
+2548, Computer Architecture,Skill,,SQL Developer and Support
+2549, Computer Networking,Skill,,SQL Developer and Support
+2550, Computer Programming,Skill,,SQL Developer and Support
+2551, Computer Programming Tools,Skill,,SQL Developer and Support
+2552, Cryptography,Skill,,SQL Developer and Support
+2553, Data Analysis,Skill,,SQL Developer and Support
+2554, Data Analysis Software,Skill,,SQL Developer and Support
+2555, Data Management,Skill,,SQL Developer and Support
+2556, Data Mining,Skill,,SQL Developer and Support
+2557, Data Model,Skill,,SQL Developer and Support
+2558, Data Structures,Skill,,SQL Developer and Support
+2559, Data Visualization,Skill,,SQL Developer and Support
+2560, Data Visualization Software,Skill,,SQL Developer and Support
+2561, Database Administration,Skill,,SQL Developer and Support
+2562, Database Design,Skill,,SQL Developer and Support
+2563, Databases,Skill,,SQL Developer and Support
+2564, Decision Making,Skill,,SQL Developer and Support
+2565, Design and Product,Skill,,SQL Developer and Support
+2566, Distributed Computing Architecture,Skill,,SQL Developer and Support
+2567, Entrepreneurship,Skill,,SQL Developer and Support
+2568, Extract,Skill,,SQL Developer and Support
+2569, Transform,Skill,,SQL Developer and Support
+2570, Load,Skill,,SQL Developer and Support
+2571, Feature Engineering,Skill,,SQL Developer and Support
+2572, Finance,Skill,,SQL Developer and Support
+2573, Financial Analysis,Skill,,SQL Developer and Support
+2574, Full-Stack Web Development,Skill,,SQL Developer and Support
+2575, General Statistics,Skill,,SQL Developer and Support
+2576, Interactive Data Visualization,Skill,,SQL Developer and Support
+2577, Leadership and Management,Skill,,SQL Developer and Support
+2578, Machine Learning,Skill,,SQL Developer and Support
+2579, Mathematical Theory & Analysis,Skill,,SQL Developer and Support
+2580, Mathematics,Skill,,SQL Developer and Support
+2581, Network Security,Skill,,SQL Developer and Support
+2582, Other Programming Languages,Skill,,SQL Developer and Support
+2583, Plot (Graphics),Skill,,SQL Developer and Support
+2584, Privacy,Skill,,SQL Developer and Support
+2585, Probability & Statistics,Skill,,SQL Developer and Support
+2586, Problem Solving,Skill,,SQL Developer and Support
+2587, Product Design,Skill,,SQL Developer and Support
+2588, Programming Principles,Skill,,SQL Developer and Support
+2589, Project Management,Skill,,SQL Developer and Support
+2590, R Programming,Skill,,SQL Developer and Support
+2591, Research and Design,Skill,,SQL Developer and Support
+2592, SQL,Skill,,SQL Developer and Support
+2593, Security,Skill,,SQL Developer and Support
+2594, Security Engineering,Skill,,SQL Developer and Support
+2595, Security Strategy,Skill,,SQL Developer and Support
+2596, Small Data,Skill,,SQL Developer and Support
+2597, Software Engineering,Skill,,SQL Developer and Support
+2598, Software Security,Skill,,SQL Developer and Support
+2599, Spreadsheet Software,Skill,,SQL Developer and Support
+2600, Statistical Analysis,Skill,,SQL Developer and Support
+2601, Statistical Programming,Skill,,SQL Developer and Support
+2602, Storytelling,Skill,,SQL Developer and Support
+2603, Strategy and Operations,Skill,,SQL Developer and Support
+2604, Theoretical Computer Science,Skill,,SQL Developer and Support
+2605, Visual Design,Skill,,SQL Developer and Support
+2606, Web Development,Skill,,SQL Developer and Support
+2607, SQL,Skill,,SQL Developer and Support
+2608, Databases,Skill,,SQL Developer and Support
+2609, Analysis,Skill,,SQL Developer and Support
+2610, Statistical Programming,Skill,,SQL Developer and Support
+2611, Data Management,Skill,,SQL Developer and Support
+2612,Debugging,Skill,,Support Engineer
+2613,Encryption Algorithms and Techniques,Skill,,Support Engineer
+2614,Customer Service,Skill,,Support Engineer
+2615,Network Protocols,Skill,,Support Engineer
+2616,Cloud Computing,Skill,,Support Engineer
+2617,Binary Code,Skill,,Support Engineer
+2618,Debugging,Skill,,Support Engineer
+2619,Encryption Algorithms and Techniques,Skill,,Support Engineer
+2620,Customer Service,Skill,,Support Engineer
+2621,Network Protocols,Skill,,Support Engineer
+2622,Cloud Computing,Skill,,Support Engineer
+2623,Binary Code,Skill,,Support Engineer
+2624,Directory Service,Skill,,Sys Admin
+2625,Lightweight Directory Access Protocol (LDAP),Skill,,Sys Admin
+2626,Backup,Skill,,Sys Admin
+2627,Business analysis skills and knowledge,Skill,,System Analyst
+2628,Management,Skill,,System Analyst
+2629,Project management skills and knowledge,Skill,,System Analyst
+2630,Vision Alignment,Skill,,Team Lead
+2631,Talent Management,Skill,,Team Lead
+2632,Goals and Rewards,Skill,,Team Lead
+2633,Motivate Employees,Skill,,Team Lead
+2634,Leadership,Skill,,Team Lead
+2635,goal setting,Skill,,Team Lead
+2636,Communication,Skill,,Team Lead
+2637,Leadership Development,Skill,,Team Lead
+2638,Onboarding,Skill,,Team Lead
+2639,Coaching,Skill,,Team Lead
+2640,Recruitment,Skill,,Team Lead
+2641,Management,Skill,,Team Lead
+2642,Vision Alignment,Skill,,Team Leader
+2643,Talent Management,Skill,,Team Leader
+2644,Goals and Rewards,Skill,,Team Leader
+2645,Motivate Employees,Skill,,Team Leader
+2646,Leadership,Skill,,Team Leader
+2647,goal setting,Skill,,Team Leader
+2648,Communication,Skill,,Team Leader
+2649,Vision Alignment,Skill,,Team leader
+2650,Talent Management,Skill,,Team leader
+2651,Goals and Rewards,Skill,,Team leader
+2652,Motivate Employees,Skill,,Team leader
+2653,Leadership,Skill,,Team leader
+2654,goal setting,Skill,,Team leader
+2655,Communication,Skill,,Team leader
+2656,Vision Alignment,Skill,,Team manager
+2657,Talent Management,Skill,,Team manager
+2658,Goals and Rewards,Skill,,Team manager
+2659,Motivate Employees,Skill,,Team manager
+2660,Leadership,Skill,,Team manager
+2661,goal setting,Skill,,Team manager
+2662,Communication,Skill,,Team manager
+2663, Communication,Skill,,Test Engineer
+2664, Computer Programming,Skill,,Test Engineer
+2665, Computer Programming Tools,Skill,,Test Engineer
+2666, Java Programming,Skill,,Test Engineer
+2667, Journalism,Skill,,Test Engineer
+2668, Mobile Development,Skill,,Test Engineer
+2669, Programming Principles,Skill,,Test Engineer
+2670, Software,Skill,,Test Engineer
+2671, Software Engineering,Skill,,Test Engineer
+2672, Software Testing,Skill,,Test Engineer
+2673, Unit Testing,Skill,,Test Engineer
+2674, Software Engineering,Skill,,Test Engineer
+2675, Computer Programming Tools,Skill,,Test Engineer
+2676, Software Testing,Skill,,Test Engineer
+2677, Mobile Development,Skill,,Test Engineer
+2678, Unit Testing,Skill,,Test Engineer
+2679, Computer Programming,Skill,,Test Engineer
+2680, Java Programming,Skill,,Test Engineer
+2681, Software,Skill,,Test Engineer
+2682, Application Development,Skill,,Test Engineer
+2683, Cloud Computing,Skill,,Test Engineer
+2684, Cloud Platforms,Skill,,Test Engineer
+2685, Computational Logic,Skill,,Test Engineer
+2686, Computational Thinking,Skill,,Test Engineer
+2687, Computer Programming,Skill,,Test Engineer
+2688, Computer Programming Tools,Skill,,Test Engineer
+2689, Data Structures,Skill,,Test Engineer
+2690, Debugging,Skill,,Test Engineer
+2691, Github,Skill,,Test Engineer
+2692, Google Cloud Platform,Skill,,Test Engineer
+2693, Leadership and Management,Skill,,Test Engineer
+2694, Mathematical Theory & Analysis,Skill,,Test Engineer
+2695, Mathematics,Skill,,Test Engineer
+2696, Other Programming Languages,Skill,,Test Engineer
+2697, Programming Principles,Skill,,Test Engineer
+2698, Python Programming,Skill,,Test Engineer
+2699, Software,Skill,,Test Engineer
+2700, Software Engineering,Skill,,Test Engineer
+2701, Software Engineering Tools,Skill,,Test Engineer
+2702, Software Testing,Skill,,Test Engineer
+2703, Statistical Programming,Skill,,Test Engineer
+2704, Test Automation,Skill,,Test Engineer
+2705, Theoretical Computer Science,Skill,,Test Engineer
+2706, Version Control,Skill,,Test Engineer
+2707, Communication,Skill,,Test engineer
+2708, Computer Programming,Skill,,Test engineer
+2709, Computer Programming Tools,Skill,,Test engineer
+2710, Java Programming,Skill,,Test engineer
+2711, Journalism,Skill,,Test engineer
+2712, Mobile Development,Skill,,Test engineer
+2713, Programming Principles,Skill,,Test engineer
+2714, Software,Skill,,Test engineer
+2715, Software Engineering,Skill,,Test engineer
+2716, Software Testing,Skill,,Test engineer
+2717, Unit Testing,Skill,,Test engineer
+2718, Software Engineering,Skill,,Test engineer
+2719, Computer Programming Tools,Skill,,Test engineer
+2720, Software Testing,Skill,,Test engineer
+2721, Mobile Development,Skill,,Test engineer
+2722, Unit Testing,Skill,,Test engineer
+2723, Computer Programming,Skill,,Test engineer
+2724, Java Programming,Skill,,Test engineer
+2725, Software,Skill,,Test engineer
+2726, Application Development,Skill,,Test engineer
+2727, Cloud Computing,Skill,,Test engineer
+2728, Cloud Platforms,Skill,,Test engineer
+2729, Computational Logic,Skill,,Test engineer
+2730, Computational Thinking,Skill,,Test engineer
+2731, Computer Programming,Skill,,Test engineer
+2732, Computer Programming Tools,Skill,,Test engineer
+2733, Data Structures,Skill,,Test engineer
+2734, Debugging,Skill,,Test engineer
+2735, Writing Defect Reports,Skill,,Test engineer
+2736, Google Cloud Platform,Skill,,Test engineer
+2737, Leadership and Management,Skill,,Test engineer
+2738, Mathematical Theory & Analysis,Skill,,Test engineer
+2739, Mathematics,Skill,,Test engineer
+2740, Other Programming Languages,Skill,,Test engineer
+2741, Programming Principles,Skill,,Test engineer
+2742, Python Programming,Skill,,Test engineer
+2743, Black-box Testing Techniques,Skill,,Test engineer
+2744, White-box Testing Techniques,Skill,,Test engineer
+2745, Software Engineering Tools,Skill,,Test engineer
+2746, Unit Testing,Skill,,Test engineer
+2747, Statistical Programming,Skill,,Test engineer
+2748, Test Automation,Skill,,Test engineer
+2749, Theoretical Computer Science,Skill,,Test engineer
+2750, Version Control,Skill,,Test engineer
+2751, .Properties,Skill,,Test Lead
+2752, Communication,Skill,,Test Lead
+2753, Computer Programming,Skill,,Test Lead
+2754, Computer Programming Tools,Skill,,Test Lead
+2755, Java Programming,Skill,,Test Lead
+2756, Journalism,Skill,,Test Lead
+2757, Mobile Development,Skill,,Test Lead
+2758, Programming Principles,Skill,,Test Lead
+2759, Software,Skill,,Test Lead
+2760, Software Engineering,Skill,,Test Lead
+2761, Software Testing,Skill,,Test Lead
+2762, Unit Testing,Skill,,Test Lead
+2763, Software Engineering,Skill,,Test Lead
+2764, Computer Programming Tools,Skill,,Test Lead
+2765, Software Testing,Skill,,Test Lead
+2766, Mobile Development,Skill,,Test Lead
+2767, Unit Testing,Skill,,Test Lead
+2768, Computer Programming,Skill,,Test Lead
+2769, Java Programming,Skill,,Test Lead
+2770, Software,Skill,,Test Lead
+2771, Application Development,Skill,,Test Lead
+2772, Cloud Computing,Skill,,Test Lead
+2773, Cloud Platforms,Skill,,Test Lead
+2774, Computational Logic,Skill,,Test Lead
+2775, Computational Thinking,Skill,,Test Lead
+2776, Computer Programming,Skill,,Test Lead
+2777, Computer Programming Tools,Skill,,Test Lead
+2778, Data Structures,Skill,,Test Lead
+2779, Debugging,Skill,,Test Lead
+2780, Github,Skill,,Test Lead
+2781, Google Cloud Platform,Skill,,Test Lead
+2782, Leadership and Management,Skill,,Test Lead
+2783, Mathematical Theory & Analysis,Skill,,Test Lead
+2784, Mathematics,Skill,,Test Lead
+2785, Other Programming Languages,Skill,,Test Lead
+2786, Programming Principles,Skill,,Test Lead
+2787, Python Programming,Skill,,Test Lead
+2788, Software,Skill,,Test Lead
+2789, Software Engineering,Skill,,Test Lead
+2790, Software Engineering Tools,Skill,,Test Lead
+2791, Software Testing,Skill,,Test Lead
+2792, Statistical Programming,Skill,,Test Lead
+2793, Test Automation,Skill,,Test Lead
+2794, Theoretical Computer Science,Skill,,Test Lead
+2795, Version Control,Skill,,Test Lead
+2796, .Properties,Skill,,Test Lead
+2797, Communication,Skill,,Test Lead
+2798, Computer Programming,Skill,,Test Lead
+2799, Computer Programming Tools,Skill,,Test Lead
+2800, Java Programming,Skill,,Test Lead
+2801, Journalism,Skill,,Test Lead
+2802, Mobile Development,Skill,,Test Lead
+2803, Programming Principles,Skill,,Test Lead
+2804, Software,Skill,,Test Lead
+2805, Software Engineering,Skill,,Test Lead
+2806, Software Testing,Skill,,Test Lead
+2807, Unit Testing,Skill,,Test Lead
+2808, Software Engineering,Skill,,Test Lead
+2809, Computer Programming Tools,Skill,,Test Lead
+2810, Software Testing,Skill,,Test Lead
+2811, Mobile Development,Skill,,Test Lead
+2812, Unit Testing,Skill,,Test Lead
+2813, Computer Programming,Skill,,Test Lead
+2814, Java Programming,Skill,,Test Lead
+2815, Software,Skill,,Test Lead
+2816, Application Development,Skill,,Test Lead
+2817, Cloud Computing,Skill,,Test Lead
+2818, Cloud Platforms,Skill,,Test Lead
+2819, Computational Logic,Skill,,Test Lead
+2820, Computational Thinking,Skill,,Test Lead
+2821, Computer Programming,Skill,,Test Lead
+2822, Computer Programming Tools,Skill,,Test Lead
+2823, Data Structures,Skill,,Test Lead
+2824, Debugging,Skill,,Test Lead
+2825, Github,Skill,,Test Lead
+2826, Google Cloud Platform,Skill,,Test Lead
+2827, Leadership and Management,Skill,,Test Lead
+2828, Mathematical Theory & Analysis,Skill,,Test Lead
+2829, Mathematics,Skill,,Test Lead
+2830, Other Programming Languages,Skill,,Test Lead
+2831, Programming Principles,Skill,,Test Lead
+2832, Python Programming,Skill,,Test Lead
+2833, Software,Skill,,Test Lead
+2834, Software Engineering,Skill,,Test Lead
+2835, Software Engineering Tools,Skill,,Test Lead
+2836, Software Testing,Skill,,Test Lead
+2837, Statistical Programming,Skill,,Test Lead
+2838, Test Automation,Skill,,Test Lead
+2839, Theoretical Computer Science,Skill,,Test Lead
+2840, Version Control,Skill,,Test Lead
+2841, Communication,Skill,,tester
+2842, Computer Programming,Skill,,tester
+2843, Computer Programming Tools,Skill,,tester
+2844, Java Programming,Skill,,tester
+2845, Journalism,Skill,,tester
+2846, Mobile Development,Skill,,tester
+2847, Programming Principles,Skill,,tester
+2848, Software,Skill,,tester
+2849, Software Engineering,Skill,,tester
+2850, Software Testing,Skill,,tester
+2851, Unit Testing,Skill,,tester
+2852, Software Engineering,Skill,,tester
+2853, Computer Programming Tools,Skill,,tester
+2854, Software Testing,Skill,,tester
+2855, Mobile Development,Skill,,tester
+2856, Unit Testing,Skill,,tester
+2857, Computer Programming,Skill,,tester
+2858, Java Programming,Skill,,tester
+2859, Software,Skill,,tester
+2860, Application Development,Skill,,tester
+2861, Cloud Computing,Skill,,tester
+2862, Cloud Platforms,Skill,,tester
+2863, Computational Logic,Skill,,tester
+2864, Computational Thinking,Skill,,tester
+2865, Computer Programming,Skill,,tester
+2866, Computer Programming Tools,Skill,,tester
+2867, Data Structures,Skill,,tester
+2868, Debugging,Skill,,tester
+2869, Github,Skill,,tester
+2870, Google Cloud Platform,Skill,,tester
+2871, Leadership and Management,Skill,,tester
+2872, Mathematical Theory & Analysis,Skill,,tester
+2873, Mathematics,Skill,,tester
+2874, Other Programming Languages,Skill,,tester
+2875, Programming Principles,Skill,,tester
+2876, Python Programming,Skill,,tester
+2877, Software,Skill,,tester
+2878, Software Engineering,Skill,,tester
+2879, Software Engineering Tools,Skill,,tester
+2880, Software Testing,Skill,,tester
+2881, Statistical Programming,Skill,,tester
+2882, Test Automation,Skill,,tester
+2883, Theoretical Computer Science,Skill,,tester
+2884, Version Control,Skill,,tester
+2885,Using Version Control,Skill,,testers
+2886,Troubleshooting & Debugging,Skill,,testers
+2887,Python Programming,Skill,,testers
+2888,Configuration Management,Skill,,testers
+2889,Automation,Skill,,testers
+2890,Basic Python Data Structures,Skill,,testers
+2891,Fundamental Programming Concepts,Skill,,testers
+2892,Basic Python Syntax,Skill,,testers
+2893,Object-Oriented Programming (OOP),Skill,,testers
+2894,Setting up your Development Environment,Skill,,testers
+2895,Regular Expression (REGEX),Skill,,testers
+2896,Testing in Python,Skill,,testers
+2897, .Properties,Skill,,testers
+2898, Communication,Skill,,testers
+2899, Computer Programming,Skill,,testers
+2900, Computer Programming Tools,Skill,,testers
+2901, Java Programming,Skill,,testers
+2902, Journalism,Skill,,testers
+2903, Mobile Development,Skill,,testers
+2904, Programming Principles,Skill,,testers
+2905, Software,Skill,,testers
+2906, Software Engineering,Skill,,testers
+2907, Software Testing,Skill,,testers
+2908, Unit Testing,Skill,,testers
+2909, Software Engineering,Skill,,testers
+2910, Computer Programming Tools,Skill,,testers
+2911, Software Testing,Skill,,testers
+2912, Mobile Development,Skill,,testers
+2913, Unit Testing,Skill,,testers
+2914, Computer Programming,Skill,,testers
+2915, Java Programming,Skill,,testers
+2916, Software,Skill,,testers
+2917, Application Development,Skill,,testers
+2918, Cloud Computing,Skill,,testers
+2919, Cloud Platforms,Skill,,testers
+2920, Computational Logic,Skill,,testers
+2921, Computational Thinking,Skill,,testers
+2922, Computer Programming,Skill,,testers
+2923, Computer Programming Tools,Skill,,testers
+2924, Data Structures,Skill,,testers
+2925, Debugging,Skill,,testers
+2926, Github,Skill,,testers
+2927, Google Cloud Platform,Skill,,testers
+2928, Leadership and Management,Skill,,testers
+2929, Mathematical Theory & Analysis,Skill,,testers
+2930, Mathematics,Skill,,testers
+2931, Other Programming Languages,Skill,,testers
+2932, Programming Principles,Skill,,testers
+2933, Python Programming,Skill,,testers
+2934, Software,Skill,,testers
+2935, Software Engineering,Skill,,testers
+2936, Software Engineering Tools,Skill,,testers
+2937, Software Testing,Skill,,testers
+2938, Statistical Programming,Skill,,testers
+2939, Test Automation,Skill,,testers
+2940, Theoretical Computer Science,Skill,,testers
+2941, Version Control,Skill,,testers
+2942,Debugging,Skill,,Trainee
+2943,Encryption Algorithms and Techniques,Skill,,Trainee
+2944,Customer Service,Skill,,Trainee
+2945,Network Protocols,Skill,,Trainee
+2946,Cloud Computing,Skill,,Trainee
+2947,Binary Code,Skill,,Trainee
+2948,Customer Support,Skill,,Trainee
+2949,Linux,Skill,,Trainee
+2950,Troubleshooting,Skill,,Trainee
+2951,Domain Name System (DNS),Skill,,Trainee
+2952,Ipv4,Skill,,Trainee
+2953,Network Model,Skill,,Trainee
+2954,Debugging,Skill,,Trainee
+2955,Encryption Algorithms and Techniques,Skill,,Trainee
+2956,Customer Service,Skill,,Trainee
+2957,Network Protocols,Skill,,Trainee
+2958,Cloud Computing,Skill,,Trainee
+2959,Binary Code,Skill,,Trainee
+2960,Website Wireframe,Skill,,UI Designer
+2961,strategy,Skill,,UI Designer
+2962,User Interface Design (UI Design),Skill,,UI Designer
+2963,User Experience (UX),Skill,,UI Designer
+2964,User Research,Skill,,UI Designer
+2965,Graphic Design,Skill,,UI Designer
+2966,Adobe XD,Skill,,UI Designer
+2967,User Experience (UX),Skill,,UI Designer
+2968,UX Research,Skill,,UI Designer
+2969,Wireframe,Skill,,UI Designer
+2970,Prototype,Skill,,UI Designer
+2971,User Experience Design (UXD),Skill,,UI Designer
+2972,Usability Testing,Skill,,UI Designer
+2973,mockup,Skill,,UI Designer
+2974,Figma,Skill,,UI Designer
+2975,Adobe XD,Skill,,UI Designer
+2976,UX design jobs,Skill,,UI Designer
+2977, HTML and CSS,Skill,,Web Developer
+2978, Web Development,Skill,,Web Developer
+2979, Web,Skill,,Web Developer
+2980, CSS,Skill,,Web Developer
+2981, Html,Skill,,Web Developer
+2982, Computer Graphics,Skill,,Web Developer
+2983, Computer Programming,Skill,,Web Developer
+2984, HTML and CSS,Skill,,Web Developer
+2985, Human Computer Interaction,Skill,,Web Developer
+2986, Interactive Design,Skill,,Web Developer
+2987, Javascript,Skill,,Web Developer
+2988, Network Security,Skill,,Web Developer
+2989, Programming Principles,Skill,,Web Developer
+2990, Web Design,Skill,,Web Developer
+2991, Web Development,Skill,,Web Developer
+2992, Application Development,Skill,,Web Developer
+2993, Back-End Web Development,Skill,,Web Developer
+2994, BlockChain,Skill,,Web Developer
+2995, Cloud Applications,Skill,,Web Developer
+2996, Cloud Computing,Skill,,Web Developer
+2997, Cloud Foundry,Skill,,Web Developer
+2998, Cloud Infrastructure,Skill,,Web Developer
+2999, Cloud Platforms,Skill,,Web Developer
+3000, Cloud Storage,Skill,,Web Developer
+3001, Computational Logic,Skill,,Web Developer
+3002, Computer Architecture,Skill,,Web Developer
+3003, Computer Graphics,Skill,,Web Developer
+3004, Computer Networking,Skill,,Web Developer
+3005, Computer Programming,Skill,,Web Developer
+3006, Computer Programming Tools,Skill,,Web Developer
+3007, Continuous Delivery,Skill,,Web Developer
+3008, Continuous Integration,Skill,,Web Developer
+3009, Data Management,Skill,,Web Developer
+3010, Database Administration,Skill,,Web Developer
+3011, Database Application,Skill,,Web Developer
+3012, Database Design,Skill,,Web Developer
+3013, Databases,Skill,,Web Developer
+3014, DevOps,Skill,,Web Developer
+3015, Devops Tools,Skill,,Web Developer
+3016, Distributed Computing Architecture,Skill,,Web Developer
+3017, Extract,Skill,,Web Developer
+3018, Transform,Skill,,Web Developer
+3019, Load,Skill,,Web Developer
+3020, Finance,Skill,,Web Developer
+3021, Front-End Web Development,Skill,,Web Developer
+3022, Full-Stack Web Development,Skill,,Web Developer
+3023, Github,Skill,,Web Developer
+3024, HTML and CSS,Skill,,Web Developer
+3025, Human Computer Interaction,Skill,,Web Developer
+3026, IBM Cloud,Skill,,Web Developer
+3027, Interactive Design,Skill,,Web Developer
+3028, Javascript,Skill,,Web Developer
+3029, Kubernetes,Skill,,Web Developer
+3030, Mathematical Theory & Analysis,Skill,,Web Developer
+3031, Mathematics,Skill,,Web Developer
+3032, Network Architecture,Skill,,Web Developer
+3033, Network Security,Skill,,Web Developer
+3034, NoSQL,Skill,,Web Developer
+3035, Operating Systems,Skill,,Web Developer
+3036, Other Web Frameworks,Skill,,Web Developer
+3037, Python Programming,Skill,,Web Developer
+3038, React (web framework),Skill,,Web Developer
+3039, SQL,Skill,,Web Developer
+3040, Security Engineering,Skill,,Web Developer
+3041, Software,Skill,,Web Developer
+3042, Software Architecture,Skill,,Web Developer
+3043, Software As A Service,Skill,,Web Developer
+3044, Software Engineering,Skill,,Web Developer
+3045, Software Framework,Skill,,Web Developer
+3046, Software Testing,Skill,,Web Developer
+3047, Statistical Programming,Skill,,Web Developer
+3048, System Programming,Skill,,Web Developer
+3049, Systems Design,Skill,,Web Developer
+3050, Theoretical Computer Science,Skill,,Web Developer
+3051, Web Design,Skill,,Web Developer
+3052, Web Development,Skill,,Web Developer
+3053, Web Development Tools,Skill,,Web Developer
